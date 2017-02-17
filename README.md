@@ -1,6 +1,8 @@
 # [Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
 * 테스트
 * 테스트 2
+* test3
+* test3
 
 # 데이터 분석 플랫폼
 * [Sage Math](http://www.sagemath.org/)
