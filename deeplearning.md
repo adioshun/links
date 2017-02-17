@@ -9,10 +9,10 @@
 * [텐서플로우 문서 한극 번역본](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/get_started/?q=) : 번역본, [GitBoot버젼](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/details)
 * [git_eBook_Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book) : [[1장]](https://manning-content.s3.amazonaws.com/download/9/a3272eb-d214-4710-a4ee-226c92b9b615/Shukla_MLwTensorFlow_MEAP_V05_ch1.pdf)[[설명]](https://tensorflow.blog/2016/12/23/python-ds-handbook-ml-with-tf-repo/)
 * [수포자를 위한 딥러닝](http://bcho.tistory.com/1140): 조대협의 블로그
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
 * https://jasdeep06.github.io/
 * [웹기반학습_TensorFlow](http://learningtensorflow.com/) : Beginner-level tutorials for a powerful framework
-* [2시간35 DeepLearning](https://m.facebook.com/groups/255834461424286?view=permalink&id=409215659419498) 
+* [2시간35 DeepLearning](https://m.facebook.com/groups/255834461424286?view=permalink&id=409215659419498)
 * [TensorFlow in R](https://rstudio.github.io/tensorflow/): [[한글참고]](http://freesearch.pe.kr/archives/4546)
 * [Youtube:TensorFlow Tutorial ](https://www.youtube.com/watch?v=wuo4JdG3SvU) & [소스코드](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 * [ppt_PT:TensorFlow Tutorial](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
@@ -46,17 +46,17 @@
 * [Google관리TensorFlow Models](https://github.com/tensorflow/models)
 
 # DeepLearning Tutorial
-* [초급_최건호의 친절한 한글 설명과 함께하는 텐서플로우 튜토리얼](https://github.com/GunhoChoi/Kind_Tensorflow101/tree/master) 
+* [초급_최건호의 친절한 한글 설명과 함께하는 텐서플로우 튜토리얼](https://github.com/GunhoChoi/Kind_Tensorflow101/tree/master)
 * [중급_Nathan Lintz_튜토리얼](https://github.com/nlintz/TensorFlow-Tutorials)
 * [고급_Hvass 튜토리얼](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [[youtube]](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
-
+* [고급_Golbin 튜토리얼](https://github.com/golbin/TensorFlow-Tutorials)
 
 # Project
 * [Auto-Driving](https://github.com/windowsub0406/Behavior-Cloning) : Udacity's Self-Driving Car Nanodegree Project
-* [Teaching Computer to Play Super Mario with DeepMind & Neural Networks](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) 
+* [Teaching Computer to Play Super Mario with DeepMind & Neural Networks](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Image Resolution](https://github.com/alexjc/neural-enhance?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more):Neural Enhance: Super Resolution for images using deep learning.[6,057 stars on Github]
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): Implementation of Reinforcement Learning Algorithms in Python,OpenAI Gym, Tensorflow[2,185 stars on Github]
-* [Image Classification of ImageNet database with MXNet](https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Training-ResNet-on-ImageNet-with-MRS-and-GPU-VMs): MS의ResDNN 
+* [Image Classification of ImageNet database with MXNet](https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Training-ResNet-on-ImageNet-with-MRS-and-GPU-VMs): MS의ResDNN
 * [Introduction to Trainspotting: Computer Vision, Caltrain, and Predictive Analytics](http://www.kdnuggets.com/2016/11/introduction-trainspotting.html)
 * [Predicting Future Human Behavior with Deep Learning](http://www.kdnuggets.com/2016/09/predicting-future-human-behavior-deep-learning.html)
 * [Election 2016: Tracking Emotions with R and Python](https://www.r-bloggers.com/election-2016-tracking-emotions-with-r-and-python/)
@@ -87,23 +87,23 @@
 
 
 # 상용NN
-* [Residual Network (ResNet)](http://arxiv.org/pdf/1502.01852v1.pdf) : Introduced in 2015 by Microsoft Research (MSR), has made history as the first DNN to surpass human performance in the complex task of image classification. 
+* [Residual Network (ResNet)](http://arxiv.org/pdf/1502.01852v1.pdf) : Introduced in 2015 by Microsoft Research (MSR), has made history as the first DNN to surpass human performance in the complex task of image classification.
  * [ResNet in TensorFlow](https://github.com/ry/tensorflow-resnet)
  * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html)
-* [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 
+* [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기
 * [DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)
 * [SyntaxNet](http://cpuu.postype.com/post/166917/) : 구글이 자연어 처리(정확히는 자연어 이해)를 수행하는 코드, [[설치]](http://cpuu.postype.com/post/197684/)
 * [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
- 
- 
+
+
 # NL/DeepLearning/
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
 * http://colah.github.io/
 * [딥러닝 용어 정리](http://docs.likejazz.com/deep-learning-glossary/) :  Sang-Kil Park 블로그글
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html#.WJ91SyErJGo) : T-Robotics작성글
-* Machine Learning is Fun 
+* Machine Learning is Fun
   * [[Par1]](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.pd23g5ykm)
   * [[Par2:Using Machine Learning to generate Super Mario Maker levels]](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.n0fg59ij1)
   * [[Par3:Deep Learning and Convolutional Neural Networks]](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.fi3di8y0s)
@@ -111,15 +111,15 @@
   * [[Par5:Language Translation with Deep Learning and the Magic of Sequences]](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.hu9fkolqq)
   * [[Par6:How to do Speech Recognition with Deep Learning]](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.msixc7uwe)
 * [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.wb3ww4l2c),[Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.2slna3lqv)
-* [How to Code and Understand DeepMind’s Neural Stack Machine](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?rd=2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Andrew Trask, PhD at University of Oxford 
-* [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning. 
+* [How to Code and Understand DeepMind’s Neural Stack Machine](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?rd=2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Andrew Trask, PhD at University of Oxford
+* [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
 * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
 * [모두를위한딥러닝](http://pythonkim.tistory.com/notice/25)
 * [GDrive:SNU TF Studiy Group Material](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8?usp=sharing)
 * [youtube_Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
 * [정리_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [정리_추천_Deep Learning Study](https://github.com/carpedm20/deep-learning-study)
-* [7일강좌_fast.ai](http://course.fast.ai/lessons/lessons.html) : kaggle President 
+* [7일강좌_fast.ai](http://course.fast.ai/lessons/lessons.html) : kaggle President
 
 
 # NL/CNN
@@ -131,10 +131,10 @@
 * [PPT:최성준 딥러닝 6주 수업](https://github.com/sjchoi86/dl-workshop/tree/master/presentations) : AlexNet, VGG net, GoogleLeNet, ResNet을 설명하고, Logistic regression, multilayer perceptron, convolutional neural network를 구현
 * [ppt_Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic)
-* [Deep Visualization Tool](http://yosinski.com/deepvis) 
+* [Deep Visualization Tool](http://yosinski.com/deepvis)
 * [CS231n한글 번역 프로젝트](http://aikorea.org/cs231n/)
- 
-# NL/Reinforcement Learning 
+
+# NL/Reinforcement Learning
 * [Simple reinforcement learning methods to learn CartPole](http://kvfrans.com/simple-algoritms-for-solving-cartpole/) : OpenAI gym에서 만나는 가장 쉬운 강화학습 샘플인 카트폴을 상세히 풀이하여 소개
 * [강화학습 튜토리알 - 인공 신경망으로 ‘퐁’ 게임을 학습시키자](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html) : Karpathy의 Pong 강화학습 튜토리얼을 한글로 훌륭하게 번역
 * [Simple Reinforcement Learning](https://medium.com/@awjuliani) : 텐서플로우를 이용한 강화학습 자료를 올리고 있는 Arthur Julinani의 미디엄
@@ -144,7 +144,7 @@
 * [Youtube:Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4),[[ppt]](http://media.nips.cc/Conferences/2015/tutorialslides/SuttonIntroRL-nips-2015-tutorial.pdf)
 * [이웅권의 Reinforement GitBook](https://www.gitbook.com/book/dnddnjs/rl/details)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
-* Deep Reinforcement Learning (John Schulman, OpenAI) :[[Youtube1]](https://www.youtube.com/watch?v=PtAIh9KSnjo&t=2457s) and [[Youtube2]](https://www.youtube.com/watch?v=aUrX-rP_ss4&list=PLjKEIQlKCTZYN3CYBlj8r58SbNorobqcp) 
+* Deep Reinforcement Learning (John Schulman, OpenAI) :[[Youtube1]](https://www.youtube.com/watch?v=PtAIh9KSnjo&t=2457s) and [[Youtube2]](https://www.youtube.com/watch?v=aUrX-rP_ss4&list=PLjKEIQlKCTZYN3CYBlj8r58SbNorobqcp)
 * [UCL, David Silver, Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Stanford Andrew Ng CS229 Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc)
 * [Georgia Tech /w Udacity:Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
@@ -154,12 +154,12 @@
 * [Kim Sung's RL Study plan](http://fbsight.com/t/karpathy-reinforcement-learning/1946)
 * [모두의연구소_Reinforcement Learning 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705)
 
-# NL/Computer Vision 
-* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) : 
+# NL/Computer Vision
+* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) :
 * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Brandon Amos, Ph.D at Carnegie Mellon University
 ![](https://img.readitlater.com/i/cdn-images-1.medium.com/max/800/0*6rK--WrHm_Ggyotm/RS/w704.png)
 * [7 Steps to Understanding Computer Vision](http://www.kdnuggets.com/2016/08/seven-steps-understanding-computer-vision.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)
-* [Competition Scripts: Techniques for Tackling Image Processing](http://blog.kaggle.com/2016/06/17/competition-scripts-techniques-for-tackling-image-processing/) 
+* [Competition Scripts: Techniques for Tackling Image Processing](http://blog.kaggle.com/2016/06/17/competition-scripts-techniques-for-tackling-image-processing/)
 * [Deep Learning Research Review: Generative Adversarial Nets](http://www.kdnuggets.com/2016/10/deep-learning-research-review-generative-adversarial-networks.html)
 * [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
 * [조대협의 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149),[1/2](http://bcho.tistory.com/1156),[예측](http://bcho.tistory.com/1157), [실습](http://bcho.tistory.com/1154),[영문1/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html),[영문2/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-2.html)
@@ -169,11 +169,11 @@
 
 # NL/NLP/RNL
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/#nlp) : Sang-Kil Park 블로그글
-* [모음](http://docs.likejazz.com/deep-learning-for-nlp/#section-2) 
+* [모음](http://docs.likejazz.com/deep-learning-for-nlp/#section-2)
 * [Building Jarvis AI with Natural Language Processing](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : By Mark Zuckerburg, CEO at Facebook.
 * [Deep Learning Research Review: Natural Language Processing](http://www.kdnuggets.com/2017/01/deep-learning-review-natural-language-processing.html)
 * [LSTM(RNN)소개](https://brunch.co.kr/@chris-song/9)
-
+* [모두의 연구소:RNN과 LSTM - 쫄지말자 딥러닝](http://www.modulabs.co.kr/DeepLAB_library/11886)
 
 # NL/GAN
 * [논문_NIPS 2016 Tutorial:Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160v1.pdf),[youtube](http://fbsight.com/t/goodfellow-gan-nips-2016-tutorial/59058)

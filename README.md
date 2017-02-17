@@ -1,6 +1,5 @@
 # [Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
-* 테스트
-* 테스트 2
+* [Sedong Nam의 딥러닝 공부 가이드](https://www.facebook.com/dgtgrade/posts/1340177956041067)
 * test3
 * test3
 
