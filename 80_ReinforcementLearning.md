@@ -18,3 +18,15 @@
 * ICML 2016 RL by David Silver :[일반적인 RL](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf),[알파고 집중 분석](http://icml.cc/2016/tutorials/AlphaGo-tutorial-slides.pdf)
 * [Kim Sung's RL Study plan](http://fbsight.com/t/karpathy-reinforcement-learning/1946)
 * [모두의연구소_Reinforcement Learning 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705)
+* [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)_
+* [ppt_InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
+* [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
+* [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
+
+# Seminar
+##
+* [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+* [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
+
+## ICML 2016 Tutorials
+* [All list](http://techtalks.tv/icml/2016/tutorials/)
