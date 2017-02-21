@@ -54,17 +54,24 @@
 * lec 01 : [기본적인 Machine Learning 의 용어와 개념 설명](https://youtu.be/qPMeuL2LIqY?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * lec 02 : [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * lec 03 : [Linear Regression의 cost 최소화 알고리즘의 원리 설명](https://youtu.be/TxIVr-nk1so?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-  * Gradient Decent 공식 설명 : [Youtube](https://youtu.be/TxIVr-nk1so?t=12m2s)
+  * Gradient Decent 수학적 설명  [Youtube](https://youtu.be/TxIVr-nk1so?t=12m2s)
 * lec 04 : [Multi-variable linear regression](https://youtu.be/UYWJkyYln2s?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * 머신러닝과 행렬연산의 관계 설명 : [Youtube](https://youtu.be/MFAnsx1y9ZI?t=7m38s)
 * lec 5-1: [Logistic Classification의 가설 함수 정의](https://youtu.be/PIjno6paszY?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * lec 5-2 : [Logistic Regression의 cost 함수 설명](https://youtu.be/6vzchGYEJBc?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-  * 수식 설명 : [Youtube](https://youtu.be/6vzchGYEJBc?t=4m48s)
+  * Cost 함수 수학적 설명 : [Youtube](https://youtu.be/6vzchGYEJBc?t=4m48s)
 * lec 6-1 : [Softmax Regression: 기본 개념 소개](https://youtu.be/MFAnsx1y9ZI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * lec 6-2 : [Softmax classifier 의 cost함수](https://youtu.be/jMU9G5WEtBc?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * Cost 함수(Cross Entropy)설명 :[Youtube](https://youtu.be/jMU9G5WEtBc?t=4m9s)
 * lec 07-1: [[Tip] 학습 rate, Overfitting, 그리고 일반화 (Regularization)](https://youtu.be/1jPjVoDV_uo?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-
+* lec 07-2: [[Tip] Training/Testing 데이타 셋](https://youtu.be/KVv1nMSlPzY?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 08-1: [딥러닝의 기본 개념: 시작과 XOR 문제](https://youtu.be/n7DNueHGkqE?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : 딥러닝의 역사
+* lec 08-2: [딥러닝의 기본 개념2: Back-propagation 과 2006/2007 '딥'의 출현](https://youtu.be/AByVbUX1PUI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 09-1: [XOR 문제 딥러닝으로 풀기](https://youtu.be/GYecDQQwTdI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 09-x: [[특별편] 10분안에 미분 정리하기](https://youtu.be/oZyvmtqLmLo?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 09-2: [딥넷트웍 학습 시키기 (backpropagation)](https://youtu.be/573EZkzfnZ0?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  * backpropagation 수학적 설명 : [Youtube](https://youtu.be/573EZkzfnZ0?t=3m12s)
+* lec 10-1: [Sigmoid 보다 ReLU가 더 좋아](https://youtu.be/cKtg_fpw88c?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 
 ###### Sungjoon Choi Samuel 6주강의코드발표자료
 * [코드](https://github.com/sjchoi86/Tensorflow-101)
