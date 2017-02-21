@@ -5,7 +5,6 @@
 * [텐서플로우 문서 한극 번역본](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/get_started/?q=) : 번역본, [GitBoot버젼](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/details)
 * [git_eBook_Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book) : [[1장]](https://manning-content.s3.amazonaws.com/download/9/a3272eb-d214-4710-a4ee-226c92b9b615/Shukla_MLwTensorFlow_MEAP_V05_ch1.pdf)[[설명]](https://tensorflow.blog/2016/12/23/python-ds-handbook-ml-with-tf-repo/)
 * [수포자를 위한 딥러닝](http://bcho.tistory.com/1140): 조대협의 블로그
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
 * https://jasdeep06.github.io/
 * [웹기반학습_TensorFlow](http://learningtensorflow.com/) : Beginner-level tutorials for a powerful framework
 * [2시간35 DeepLearning](https://m.facebook.com/groups/255834461424286?view=permalink&id=409215659419498)
@@ -14,7 +13,6 @@
 * [ppt_PT:TensorFlow Tutorial](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
 * [ppt_Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1)
 * [ppt_중학생도 알아듣는 Tensorflow입문](http://www.slideshare.net/ssuser06e0c5/mnist-for-ml-beginners)
-* Sungjoon Choi Samuel 6주강의코드발표자료 : [코드](https://github.com/sjchoi86/Tensorflow-101), [발표자료](https://github.com/sjchoi86/Deep-Learning-101)
 * [ppt_텐서플로우 기초 이해하기](http://www.slideshare.net/dahlmoon/20160623-63318427)
 * [ppt_TensorFlow Tutorial](http://terryum.io/ml_practice/2016/05/28/TFIntroSlides/)
 * [ppy_TenforFlow Internals](http://www.slideshare.net/lovelykihohong/tenforflow-internals)

@@ -1,6 +1,6 @@
-* [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
-* [ppt:나만의 모델을 만들자](http://www.slideshare.net/carpedm20/ss-63116251), [[Youtube]](https://www.youtube.com/watch?v=076pp-42unI)
-* [한글로 설명이 잘되어있는 라온피플 블로그](http://laonple.blog.me/220463627091)
+# DeepLearning
+* [정리_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
 
 
 # Project
@@ -28,15 +28,70 @@
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
-# eBook
+# eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://github.com/HFTrader/DeepLearningBook) :  An MIT Press book, Ian Goodfellow
+* [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
+* [여러 모델별 설명]http://colah.github.io/
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
+
+# Ref Material
+* [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
+
 
 # Class
-##### [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+
+##### MIT 6.S094: Deep Learning for Self-Driving Cars
+* Homepage : [MIT](http://selfdrivingcars.mit.edu/)
 * 1주차 : [ MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * 2주차 : [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw)
 * 3주차 : [MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task](https://www.youtube.com/watch?v=U1toUkZw6VI)
 * 4주차 : [MIT 6.S094: Recurrent Neural Networks for Steering Through Time](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
+
+##### 모두를 위한 딥러닝
+* [강의 페이지](http://hunkim.github.io/ml/)
+* [요약](http://pythonkim.tistory.com/notice/25)
+* Lec 00 : [Machine/Deep learning 수업의 개요와 일정](https://youtu.be/BS6O0zOGX4E?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 01 : [기본적인 Machine Learning 의 용어와 개념 설명](https://youtu.be/qPMeuL2LIqY?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 02 : [Linear Regression의 Hypothesis 와 cost 설명](https://youtu.be/Hax03rCn3UI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 03 : [Linear Regression의 cost 최소화 알고리즘의 원리 설명](https://youtu.be/TxIVr-nk1so?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  * Gradient Decent 공식 설명 : [Youtube](https://youtu.be/TxIVr-nk1so?t=12m2s)
+* lec 04 : [Multi-variable linear regression](https://youtu.be/UYWJkyYln2s?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  * 머신러닝과 행렬연산의 관계 설명 : [Youtube](https://youtu.be/MFAnsx1y9ZI?t=7m38s)
+* lec 5-1: [Logistic Classification의 가설 함수 정의](https://youtu.be/PIjno6paszY?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 5-2 : [Logistic Regression의 cost 함수 설명](https://youtu.be/6vzchGYEJBc?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  * 수식 설명 : [Youtube](https://youtu.be/6vzchGYEJBc?t=4m48s)
+* lec 6-1 : [Softmax Regression: 기본 개념 소개](https://youtu.be/MFAnsx1y9ZI?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 6-2 : [Softmax classifier 의 cost함수](https://youtu.be/jMU9G5WEtBc?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  * Cost 함수(Cross Entropy)설명 :[Youtube](https://youtu.be/jMU9G5WEtBc?t=4m9s)
+* lec 07-1: [[Tip] 학습 rate, Overfitting, 그리고 일반화 (Regularization)](https://youtu.be/1jPjVoDV_uo?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+
+
+###### Sungjoon Choi Samuel 6주강의코드발표자료
+* [코드](https://github.com/sjchoi86/Tensorflow-101)
+* [발표자료](https://github.com/sjchoi86/Deep-Learning-101)
+
+##### 7일강좌_fast.ai
+* [7일강좌_fast.ai](http://course.fast.ai/lessons/lessons.html) : kaggle President
+
+# Seminar / Conference / Meetup
+
+##### TensorFlow KR Meetup 2016
+* [텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면](http://www.slideshare.net/carpedm20/ss-63116251), [[Youtube]](https://www.youtube.com/watch?v=076pp-42unI)
+
+##### Deep Learning School on September 24/25, 2016
+ [Homepage](https://www.bayareadlschool.org/schedule)
+1. Foundations of Deep Learning (Hugo Larochelle, Twitter) - https://youtu.be/zij_FTbJHsk
+2. Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) - https://youtu.be/u6aEYuemt0M
+3. Deep Learning for Natural Language Processing (Richard Socher, Salesforce) - https://youtu.be/oGk1v1jQITw
+4. TensorFlow Tutorial (Sherry Moore, Google Brain) - https://youtu.be/Ejec3ID_h0w
+5. Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU) - https://youtu.be/rK6bchqeaN8
+6. Nuts and Bolts of Applying Deep Learning (Andrew Ng) - https://youtu.be/F1ka6a13S9I, [[한글요약]](http://fbsight.com/t/andrew-ng/3687)
+7. Deep Reinforcement Learning (John Schulman, OpenAI) - https://youtu.be/PtAIh9KSnjo
+8. Theano Tutorial (Pascal Lamblin, MILA) - https://youtu.be/OU8I1oJ9HhI
+9. Deep Learning for Speech Recognition (Adam Coates, Baidu) - https://youtu.be/g-sndkf7mCs
+10. Torch Tutorial (Alex Wiltschko, Twitter) - https://youtu.be/L1sHcj3qDNc
+11. Sequence to Sequence Deep Learning (Quoc Le, Google) - https://youtu.be/G5RY_SUJih4
+12. Foundations and Challenges of Deep Learning (Yoshua Bengio) - https://youtu.be/11rsu_WwZTc
 
 
 # CNN/ILSVRC 우승 모델
@@ -57,9 +112,7 @@
 * [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
 
 
-# NL/DeepLearning/
-* [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
-* http://colah.github.io/
+# Article/Blog
 * [딥러닝 용어 정리](http://docs.likejazz.com/deep-learning-glossary/) :  Sang-Kil Park 블로그글
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html#.WJ91SyErJGo) : T-Robotics작성글
 * Machine Learning is Fun
@@ -71,14 +124,11 @@
   * [[Par6:How to do Speech Recognition with Deep Learning]](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.msixc7uwe)
 * [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.wb3ww4l2c),[Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.2slna3lqv)
 * [How to Code and Understand DeepMind’s Neural Stack Machine](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?rd=2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Andrew Trask, PhD at University of Oxford
-* [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
 * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
-* [모두를위한딥러닝 요약](http://pythonkim.tistory.com/notice/25)
 * [GDrive:SNU TF Studiy Group Material](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8?usp=sharing)
 * [youtube_Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
-* [정리_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [정리_추천_Deep Learning Study](https://github.com/carpedm20/deep-learning-study)
-* [7일강좌_fast.ai](http://course.fast.ai/lessons/lessons.html) : kaggle President
+* [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
+* [한글로 설명이 잘되어있는 라온피플 블로그](http://laonple.blog.me/220463627091)
 
 
 
@@ -101,18 +151,3 @@
 * [Jypyter_Effective Python Notebook_한글)(https://github.com/hunkim/effective_python_notebook)
 * [Jupyter_100 numpy exercises](https://github.com/rougier/numpy-100)
 * [한글_python-numpy-tutoria](https://github.com/aikorea/cs231n/blob/master/python-numpy-tutorial.md)
-
-
-# [별첨] Deep Learning School on September 24/25, 2016 [[Official Homepage]](https://www.bayareadlschool.org/schedule)
-1. Foundations of Deep Learning (Hugo Larochelle, Twitter) - https://youtu.be/zij_FTbJHsk
-2. Deep Learning for Computer Vision (Andrej Karpathy, OpenAI) - https://youtu.be/u6aEYuemt0M
-3. Deep Learning for Natural Language Processing (Richard Socher, Salesforce) - https://youtu.be/oGk1v1jQITw
-4. TensorFlow Tutorial (Sherry Moore, Google Brain) - https://youtu.be/Ejec3ID_h0w
-5. Foundations of Unsupervised Deep Learning (Ruslan Salakhutdinov, CMU) - https://youtu.be/rK6bchqeaN8
-6. Nuts and Bolts of Applying Deep Learning (Andrew Ng) - https://youtu.be/F1ka6a13S9I, [[한글요약]](http://fbsight.com/t/andrew-ng/3687)
-7. Deep Reinforcement Learning (John Schulman, OpenAI) - https://youtu.be/PtAIh9KSnjo
-8. Theano Tutorial (Pascal Lamblin, MILA) - https://youtu.be/OU8I1oJ9HhI
-9. Deep Learning for Speech Recognition (Adam Coates, Baidu) - https://youtu.be/g-sndkf7mCs
-10. Torch Tutorial (Alex Wiltschko, Twitter) - https://youtu.be/L1sHcj3qDNc
-11. Sequence to Sequence Deep Learning (Quoc Le, Google) - https://youtu.be/G5RY_SUJih4
-12. Foundations and Challenges of Deep Learning (Yoshua Bengio) - https://youtu.be/11rsu_WwZTc
