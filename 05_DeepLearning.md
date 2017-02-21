@@ -71,7 +71,17 @@
 * lec 09-x: [[특별편] 10분안에 미분 정리하기](https://youtu.be/oZyvmtqLmLo?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 * lec 09-2: [딥넷트웍 학습 시키기 (backpropagation)](https://youtu.be/573EZkzfnZ0?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   * backpropagation 수학적 설명 : [Youtube](https://youtu.be/573EZkzfnZ0?t=3m12s)
-* lec 10-1: [Sigmoid 보다 ReLU가 더 좋아](https://youtu.be/cKtg_fpw88c?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 10-1: [딥러닝 잘하기 : Sigmoid 보다 ReLU가 더 좋아](https://youtu.be/cKtg_fpw88c?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 10-2: [딥러닝 잘하기 : Weight 초기화 잘해보자](https://youtu.be/4rC0sWrp3Uw?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+ * 초기화 방법 RBM(restricted boltzmann machine﻿) 설명 : [Youtube](https://youtu.be/4rC0sWrp3Uw?t=3m21s) : Auto-encorder/Auto-decorder라고도 함
+* lec 10-3: [딥러닝 잘하기 : Dropout 과 앙상블](https://youtu.be/wTxMsp22llc?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+ * Dropout 이론적 설명 : [Youtube](https://youtu.be/wTxMsp22llc?t=4m25s)
+* lec 10-4: [레고처럼 넷트웍 모듈을 마음껏 쌓아 보자](https://youtu.be/YHsbHjTBx9Q?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : Feed Forward Network[=FC], Fast Forward Network(He, et.al.,2015), Split & Merge, CNN, RNN,
+* lec 11-1: [ConvNet의 Conv 레이어 만들기](https://youtu.be/Em63mknbtWo?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 11-2: [ConvNet Max pooling 과 Full Network](https://youtu.be/2-75C-yZaoA?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+* lec 11-3 [ConvNet의 활용예](https://youtu.be/KbNbWTnlYXs?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) : LeNet(1998), AlexNet(2012), GoogLeNet(2014), ResNet(2015)
+* lec 12: [NN의 꽃 RNN 이야기](https://youtu.be/-SHPG_KMUkQ?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+
 
 ###### Sungjoon Choi Samuel 6주강의코드발표자료
 * [코드](https://github.com/sjchoi86/Tensorflow-101)
