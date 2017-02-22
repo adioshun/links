@@ -29,6 +29,7 @@ https://github.com/devsisters/async-rl-tensorflow
 
 # Project
 * [Auto-Driving](https://github.com/windowsub0406/Behavior-Cloning) : Udacity's Self-Driving Car Nanodegree Project
+* [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
 * [Teaching Computer to Play Super Mario with DeepMind & Neural Networks](http://www.ehrenbrav.com/2016/08/teaching-your-computer-to-play-super-mario-bros-a-fork-of-the-google-deepmind-atari-machine-learning-project/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Image Resolution](https://github.com/alexjc/neural-enhance?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more):Neural Enhance: Super Resolution for images using deep learning.[6,057 stars on Github]
 * [Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): Implementation of Reinforcement Learning Algorithms in Python,OpenAI Gym, Tensorflow[2,185 stars on Github]

@@ -25,12 +25,6 @@
 ### [Tools] TensorDebugger
 * [git_Offical](https://github.com/ericjang/tdb)
 
-### [Tool]Keras 참고 자료
-* [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
-* [5 Step Life-Cycle for Neural Network Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
-* [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python
-* [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 
 # TensorFlow Implementation
 * [김태훈작성코드](http://fbsight.com/t/topic/2788)

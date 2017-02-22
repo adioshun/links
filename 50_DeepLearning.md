@@ -90,6 +90,19 @@
 11. Sequence to Sequence Deep Learning (Quoc Le, Google) - https://youtu.be/G5RY_SUJih4
 12. Foundations and Challenges of Deep Learning (Yoshua Bengio) - https://youtu.be/11rsu_WwZTc
 
+## TensorFlow workshop
+[Homepage](https://github.com/amygdala/tensorflow-workshop)
+* Installation
+* Building a small starter TensorFlow graph
+* XOR: A minimal training example
+* Introducing MNIST, and building a simple linear classifier in TensorFlow.
+* Using TensorFlow's high-level APIs to build an MNIST DNN Classifier, and introducing TensorBoard.
+* Building the same classifier using TensorFlow's "low-level" APIs.
+* Building custom Estimators for a version of MNIST that uses CNNs.
+* Running distributed MNIST using Cloud ML.
+* Transfer learning: using a trained model to 'bootstrap' learning new classifications.
+* Building a word2vec model using a Custom Estimator, and exploring the learned embeddings. Introducing TFRecords.
+* Using a tf.learn estimator to train a Wide and Deep model.
 
 # CNN/ILSVRC 우승 모델
 * [2012_AlexNet]
