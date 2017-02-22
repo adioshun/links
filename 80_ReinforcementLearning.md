@@ -23,10 +23,25 @@
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 
+
+
+
 # class / Seminar
 ## 1.
 * [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 * [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
+
+## [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/) : 6장 구성, 추천
+* Introduction to RL problems, OpenAI gym
+* MDPs and Bellman Equations
+* Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration
+* Monte Carlo Model-Free Prediction & Control
+* Temporal Difference Model-Free Prediction & Control
+* Function Approximation
+* Deep Q Learning (WIP)
+* Policy Gradient Methods (WIP)
+* Learning and Planning (WIP)
+* Exploration and Exploitation (WIP)
 
 ## 2.
 Lecture 1: 수업의 개요 비디오  강의 슬라이드
@@ -34,7 +49,7 @@ Lecture 2: OpenAI GYM 게임해보기 비디오  강의 슬라이드
 
 
 
-Lab 2: OpenAI GYM 게임해보기 실습 비디오  실습슬라이드 
+Lab 2: OpenAI GYM 게임해보기 실습 비디오  실습슬라이드
 
 ### Lecture 3: Dummy Q-learning (table) 비디오  강의 슬라이드
 Lab 3: Dummy Q-learning (table) 비디오  실습슬라이드
