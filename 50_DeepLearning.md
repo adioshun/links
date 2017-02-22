@@ -4,21 +4,21 @@
 
 
 
-# Paper
+## Paper
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
-# eBook/ Tutorial
+## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://github.com/HFTrader/DeepLearningBook) :  An MIT Press book, Ian Goodfellow
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
 * [여러 모델별 설명]http://colah.github.io/
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
 
-# Ref Material
+## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
 
 
-# Class
+## Class
 
 ##### MIT 6.S094: Deep Learning for Self-Driving Cars
 * Homepage : [MIT](http://selfdrivingcars.mit.edu/)
@@ -104,7 +104,15 @@
 * Building a word2vec model using a Custom Estimator, and exploring the learned embeddings. Introducing TFRecords.
 * Using a tf.learn estimator to train a Wide and Deep model.
 
-# CNN/ILSVRC 우승 모델
+
+## 추천 모델들
+* [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기
+* [DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
+* [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)
+* [SyntaxNet](http://cpuu.postype.com/post/166917/) : 구글이 자연어 처리(정확히는 자연어 이해)를 수행하는 코드, [[설치]](http://cpuu.postype.com/post/197684/)
+* [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+
+###### CNN/ILSVRC 우승 모델
 * [2012_AlexNet]
 * [2013_ZF Net]
 * [2014_GoogLeNet]
@@ -114,15 +122,8 @@
  * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 
 
-# 추천 모델들
-* [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기
-* [DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
-* [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)
-* [SyntaxNet](http://cpuu.postype.com/post/166917/) : 구글이 자연어 처리(정확히는 자연어 이해)를 수행하는 코드, [[설치]](http://cpuu.postype.com/post/197684/)
-* [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
 
-
-# Article/Blog
+## Article/Blog
 * [딥러닝 용어 정리](http://docs.likejazz.com/deep-learning-glossary/) :  Sang-Kil Park 블로그글
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html#.WJ91SyErJGo) : T-Robotics작성글
 * Machine Learning is Fun

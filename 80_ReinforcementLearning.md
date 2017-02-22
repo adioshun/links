@@ -23,10 +23,38 @@
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 
-# Seminar
-##
+# class / Seminar
+## 1.
 * [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 * [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
+
+## 2.
+Lecture 1: 수업의 개요 비디오  강의 슬라이드
+Lecture 2: OpenAI GYM 게임해보기 비디오  강의 슬라이드
+
+
+
+Lab 2: OpenAI GYM 게임해보기 실습 비디오  실습슬라이드 
+
+### Lecture 3: Dummy Q-learning (table) 비디오  강의 슬라이드
+Lab 3: Dummy Q-learning (table) 비디오  실습슬라이드
+
+### Lecture 4: Q-learning exploit&exploration and discounted reward 비디오  강의 슬라이드
+Lab 4: Q-learning exploit&exploration and discounted reward 비디오  실습슬라이드
+
+### Lecture 5: Q-learning in non-deterministic world 비디오  강의 슬라이드
+Lab 5: Q-learning in non-deterministic world 비디오  실습슬라이드
+Lab 5-1: Q-learning web Demo 비디오
+
+### Lecture 6: Q-Network 비디오  강의 슬라이드
+Lab 6-1: Q Network for Frozen Lake 비디오  실습슬라이드
+Lab 6-2: Q Network for Cart Pole 비디오  실습슬라이드
+
+### Lecture 7: DQN 비디오  강의 슬라이드
+Lab 7-1: DQN 1 (NIPS 2013) 비디오  실습슬라이드
+Lab 7-2: DQN 2 (Nature 2015) 비디오  실습슬라이드
+Lab 7-3: DQN Cart Pole Demo 비디오
+Lab 7-4: DQN Simple Pacman Demo (여러분은 최고 몇점까지 갈수 있나요?) 비디오
 
 ## ICML 2016 Tutorials
 * [All list](http://techtalks.tv/icml/2016/tutorials/)
