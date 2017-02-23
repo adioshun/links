@@ -25,7 +25,7 @@
 
 # Implementation
 * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) : Reinforcement Learning with TensorFlow&OpenAI Gym강의
-
+* [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 (CatchGame)](http://solarisailab.com/archives/486)
 
 # class / Seminar
 ## 1.

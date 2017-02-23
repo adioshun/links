@@ -1,13 +1,33 @@
 # Keras
-
-케라스는 널리 사용되고 있는 티아노(Theano)와 요즘 많이 쓰고 있는 텐서플로우(TensorFlow)를 위한 딥러닝 라이브러리입니다. 케라스는 아이디어를 빨리 구현하고 실험하기 위한 목적에 포커스가 맞춰진 만큼 굉장히 간결하고 쉽게 사용할 수 있도록 파이썬으로 구현된 상위 레벨의 라이브러리입니다. 즉 내부적으론 티아노와 텐서플로우가 구동되지만 연구자는 복잡한 티아노와 텐서플로우를 알 필요는 없습니다. 케라스는 쉽게 컨볼루션 신경망, 순환 신경망 또는 이를 조합한 신경망은 물론 다중 입력 또는 다중 출력 등 다양한 연결 구성을 할 수 있습니다.
+* [모음: Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
 
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
 * [5 Step Life-Cycle for Neural Network Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
 * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
 * [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python
+* [Keras as a simplified interface to TensorFlow: tutorial](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [케라스 이야기](https://tykimos.github.io/Keras/2017/01/27/Keras_Talk/)
 
+* [추천: Review of Keras (Deep Learning) Core Layers](https://www.picnet.com.au/blogs/guido/post/2016/05/16/review-of-keras-deep-learning-core-layers/)
+
+# 구현
+* [RNN 기본 구조와 Keras를 사용한 RNN 구현](https://www.datascienceschool.net/view-notebook/1d93b9dc6c624fbaa6af2ce9290e2479/)
+* [xor_keras.py](https://gist.github.com/cburgdorf/e2fb46e5ad61ed7b9a29029c5cc30134)
+* [한글: Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
+* [Keras로 Multi layer Perceptron구현하기](http://iostream.tistory.com/111)
+
 # Seminar
 * [Taeyoung Kim's Keras blog_케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
+*
+
+# Tutorial
+## Neural Network in Python With Keras
+* Binary Classification : [1장](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/),[2장](http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
+* [Multi-label Classification](http://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/)
+* [Regression](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
+* [Drop Out](http://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/)
+* [Cross Validation](http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+* [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)
+* [MNIST - MLP + CNN](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
+* [CIFAR-10 CNN](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
