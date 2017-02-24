@@ -32,6 +32,22 @@
 * [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 * [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
 
+## 2. Simple Reinforcement Learning with Tensorflow
+* [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.ghnfibna9), [[번역]](http://ishuca.tistory.com/391)
+* [Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.dj6422lud),[[번역]](http://ishuca.tistory.com/392)
+* [Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c#.7sn60rufy), [[번역]](http://ishuca.tistory.com/393)
+
+* [Part 2 : Policy-Based Agents](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.g5n15a69u), [[번역]](http://ishuca.tistory.com/394)
+* [Part 3 : Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.olzbh2c28), [[번역]](http://ishuca.tistory.com/395)
+* [Part 4 : Deep Q-Networks and Beyond](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.yddfo6qgs), [[번역]](http://ishuca.tistory.com/396)
+* [Part 5 : Visualizing an Agent’s Thoughts and Actions](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-5-visualizing-an-agents-thoughts-and-actions-4f27b134bb2a#.cglc9e4ky), [[번역]](http://ishuca.tistory.com/397)
+* [Part 6 : Partial Observability and Deep Recurrent Q-Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-6-partial-observability-and-deep-recurrent-q-68463e9aeefc#.os9z46iua), [[번역]](http://ishuca.tistory.com/398)
+* [Part 7 : Action-Selection Strategies for Exploration](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-7-action-selection-strategies-for-exploration-d3a97b7cceaf#.3yhuxgohm), [[번역]](http://ishuca.tistory.com/399)
+* [Part 8 : Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2#.ju4okm2o2), [[번역]](http://ishuca.tistory.com/400)
+
+
+
+
 ## [Learning Reinforcement Learning (with Code, Exercises and Solutions)](http://www.wildml.com/2016/10/learning-reinforcement-learning/) : 6장 구성, 추천
 * Introduction to RL problems, OpenAI gym
 * MDPs and Bellman Equations
