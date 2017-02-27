@@ -1,7 +1,8 @@
 # DeepLearning
 * [정리_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
-
+* [DeepLearning Gallery](http://deeplearninggallery.com) : List of awesome Deep Learning Projects
+* [List of Deep Learning Startups](https://angel.co/deep-learning-2) : 딥러닝 스타트업 회사 목록
 
 
 ## Paper
@@ -20,9 +21,16 @@
 
 ## Class
 
+###### Washington University : Applications of Deep Neural Networks [Spring 2017]
+* Homepage : [Washington University ](https://sites.wustl.edu/jeffheaton/t81-558/) , [Youtube](https://youtu.be/gfOcjfIc0Nc?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN), [GitHub](https://github.com/jeffheaton/t81_558_deep_learning)
+* [1주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)
+* [2주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)
+* [3주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)
+* [4주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)
+
 ##### MIT 6.S094: Deep Learning for Self-Driving Cars
 * Homepage : [MIT](http://selfdrivingcars.mit.edu/)
-* 1주차 : [ MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+* 1주차 : [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * 2주차 : [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw)
 * 3주차 : [MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task](https://www.youtube.com/watch?v=U1toUkZw6VI)
 * 4주차 : [MIT 6.S094: Recurrent Neural Networks for Steering Through Time](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
@@ -144,7 +152,6 @@
 
 
 
-
 # Python/Numpy
 * [Python 강좌 모음](http://todd.tistory.com/554)
 * [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
@@ -155,3 +162,4 @@
 * [Jypyter_Effective Python Notebook_한글)(https://github.com/hunkim/effective_python_notebook)
 * [Jupyter_100 numpy exercises](https://github.com/rougier/numpy-100)
 * [한글_python-numpy-tutoria](https://github.com/aikorea/cs231n/blob/master/python-numpy-tutorial.md)
+* [A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) : analyticsvidhya 아티클

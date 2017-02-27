@@ -8,10 +8,12 @@
 * [ppt_Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic)
 * [Deep Visualization Tool](http://yosinski.com/deepvis)
-* [CS231n한글 번역 프로젝트](http://aikorea.org/cs231n/)
+
 
 # NL/Computer Vision
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) :
+  * [CS231n한글 번역 프로젝트](http://aikorea.org/cs231n/)
+  * [CS231n: Convolutional Neural Networks for Visual Recognition_Course Project](http://cs231n.stanford.edu/reports2016.html)
 * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Brandon Amos, Ph.D at Carnegie Mellon University
 ![](https://img.readitlater.com/i/cdn-images-1.medium.com/max/800/0*6rK--WrHm_Ggyotm/RS/w704.png)
 * [7 Steps to Understanding Computer Vision](http://www.kdnuggets.com/2016/08/seven-steps-understanding-computer-vision.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)

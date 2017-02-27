@@ -23,6 +23,10 @@
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 
+
+## VizDoom
+* [설명_설치](http://ishuca.tistory.com/401): 3D 환경에서 동작하는 Agent
+
 # Implementation
 * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) : Reinforcement Learning with TensorFlow&OpenAI Gym강의
 * [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 (CatchGame)](http://solarisailab.com/archives/486)

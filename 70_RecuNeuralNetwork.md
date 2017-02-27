@@ -7,3 +7,5 @@
 * [모두의 연구소:RNN과 LSTM - 쫄지말자 딥러닝](http://www.modulabs.co.kr/DeepLAB_library/11886)
 * [ppt_CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 * [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/reports_2016.html)
