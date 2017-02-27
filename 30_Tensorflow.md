@@ -19,12 +19,14 @@
 * [Image Classification in R using trained TensorFlow models](https://www.r-bloggers.com/image-classification-in-r-using-trained-tensorflow-models/)
 * TensorFlow in a Nutshell : [[Part One:Basic]](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d#.yq4n3ylfi),[[Part Two: Hybrid Learning]](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392#.dieig6pdp),[[Part Three: All the Models]](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930#.bwowdfj9x)
 
-### [Tool] Tensorflow-Slim
+### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)
 
-### [Tools] TensorDebugger
+### TensorDebugger
 * [git_Offical](https://github.com/ericjang/tdb)
 
+### TensorBoard
+* [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
 
 # TensorFlow Implementation
 * [김태훈작성코드](http://fbsight.com/t/topic/2788)
