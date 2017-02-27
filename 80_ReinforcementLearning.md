@@ -36,7 +36,6 @@
 * [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.ghnfibna9), [[번역]](http://ishuca.tistory.com/391)
 * [Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.dj6422lud),[[번역]](http://ishuca.tistory.com/392)
 * [Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c#.7sn60rufy), [[번역]](http://ishuca.tistory.com/393)
-
 * [Part 2 : Policy-Based Agents](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-2-ded33892c724#.g5n15a69u), [[번역]](http://ishuca.tistory.com/394)
 * [Part 3 : Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99#.olzbh2c28), [[번역]](http://ishuca.tistory.com/395)
 * [Part 4 : Deep Q-Networks and Beyond](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-4-deep-q-networks-and-beyond-8438a3e2b8df#.yddfo6qgs), [[번역]](http://ishuca.tistory.com/396)
