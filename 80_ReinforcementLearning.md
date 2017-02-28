@@ -20,6 +20,8 @@
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 
+## Inverse reinforcement-learning
+* [ppt: Inverse Reinforcement Learning Algorithms](https://www.slideshare.net/samchoi7/inverse-reinforcement-learning-algorithms) : Sungjoon Samuel 작성
 
 ## VizDoom
 * [설명_설치](http://ishuca.tistory.com/401): 3D 환경에서 동작하는 Agent

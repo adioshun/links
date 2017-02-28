@@ -19,6 +19,7 @@
 * [Deep Learning Research Review: Generative Adversarial Nets](http://www.kdnuggets.com/2016/10/deep-learning-research-review-generative-adversarial-networks.html)
 * [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
 * [조대협의 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149),[1/2](http://bcho.tistory.com/1156),[예측](http://bcho.tistory.com/1157), [실습](http://bcho.tistory.com/1154),[영문1/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html),[영문2/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-2.html)
-
 * [이미지 분석에 꼭 필요한 딥러닝 기술을 정리한 자료](http://fbsight.com/t/topic/3024)
 * [List_Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [ppt : Deep Learning in Computer Vision](https://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160) : Sungjoon Samuel 작성
+* [ppt: Convolutional neural network in practice](https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)

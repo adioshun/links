@@ -1,13 +1,18 @@
 # DeepLearning
-* [정리_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [List_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
 * [DeepLearning Gallery](http://deeplearninggallery.com) : List of awesome Deep Learning Projects
 * [List of Deep Learning Startups](https://angel.co/deep-learning-2) : 딥러닝 스타트업 회사 목록
-
+* [List of NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/) : Sang-Kil Park 블로그
+* [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#image-generation)
+* [List of Deep Learning's Pioneers](https://github.com/leehaesung/DeepLearningPioneers/wiki) : 딥러닝 대가 4인의 SNS정보
+* [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
 
 ## Paper
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
+* [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
+* [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://github.com/HFTrader/DeepLearningBook) :  An MIT Press book, Ian Goodfellow
@@ -56,18 +61,3 @@
 * [youtube_Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [한글로 설명이 잘되어있는 라온피플 블로그](http://laonple.blog.me/220463627091)
-
-
-
-
-# Python/Numpy
-* [Python 강좌 모음](http://todd.tistory.com/554)
-* [Scientific Python Cheatsheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
-* [NumPy Tutorial: Data analysis with Python](http://www.dataquest.io/blog/numpy-tutorial-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* [Python을 사용한 프로그래밍 소개](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382): 영어를 풀어쓰듯이 쓰면 python이 된다
-* [jupyter_Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook),[[설명]](https://tensorflow.blog/2016/12/23/python-ds-handbook-ml-with-tf-repo/)
-* Zen of NumPy : [[Youtube]](https://www.youtube.com/watch?v=Dm2wkObQSas&feature=youtu.be),[[ppt]](https://speakerdeck.com/shurain/zen-of-numpy)
-* [Jypyter_Effective Python Notebook_한글)(https://github.com/hunkim/effective_python_notebook)
-* [Jupyter_100 numpy exercises](https://github.com/rougier/numpy-100)
-* [한글_python-numpy-tutoria](https://github.com/aikorea/cs231n/blob/master/python-numpy-tutorial.md)
-* [A Complete Tutorial to Learn Data Science with Python from Scratch](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/) : analyticsvidhya 아티클

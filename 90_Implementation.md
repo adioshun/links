@@ -25,6 +25,24 @@ https://github.com/carpedm20/deep-rl-tensorflow
 https://github.com/carpedm20/text-based-game-rl-tensorflow
 https://github.com/devsisters/async-rl-tensorflow
 
+# Demo
+* [MNIST demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+* [Denoising Autoencoder demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
+
+
+# TensorFlow Implementation
+* [김태훈작성코드](http://fbsight.com/t/topic/2788)
+* [최성준작성코드](https://github.com/sjchoi86/)
+* [TF_KR관리_Tensorflow Code](https://github.com/TensorFlowKR/awesome_tensorflow_implementations/blob/master/README.md)
+* [Google관리TensorFlow Models](https://github.com/tensorflow/models)
+
+# DeepLearning Tutorial
+* [초급_최건호의 친절한 한글 설명과 함께하는 텐서플로우 튜토리얼](https://github.com/GunhoChoi/Kind_Tensorflow101/tree/master)
+* [중급_Nathan Lintz 튜토리얼](https://github.com/nlintz/TensorFlow-Tutorials)
+* [고급_Hvass 튜토리얼](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [[youtube]](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+* [고급_Golbin 튜토리얼](https://github.com/golbin/TensorFlow-Tutorials)
+* [고급_SJCHOI86](https://github.com/sjchoi86/Tensorflow-101)
+
 
 
 # Project
@@ -50,7 +68,9 @@ https://github.com/devsisters/async-rl-tensorflow
 * [DeepDream](https://github.com/google/deepdream)
 * [YOLO_tensorflow](https://getpocket.com/a/read/1228390039) : Real-Time Object Detection
 * [Creating an artificial artist: Color your photos using Neural Networks](https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/) : Neural Art, 반고흐 '별이 빛나는 밤' 같은 그림으로 변경
-
+* [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/) : Buzzvil 사내 프로젝트
+* [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)
+* [강화학습을 통한 쿠키런](http://fbsight.com/t/dueling-network-double-q-learning-prioritized-experience-replay/3558)
 
 
 # List of projects
@@ -63,3 +83,4 @@ https://github.com/devsisters/async-rl-tensorflow
   * [Music Generation using Deep Learning](https://deepjazz.io) : Keras를 이용한 째즈 음악 만들기
   * [Detecting “Not Safe For Work” Images](https://github.com/yahoo/open_nsfw) : 성인 컨텐츠 감별
   * [Super Resolution]()
+* [All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/), [[김성훈교수 코멘트]](http://fbsight.com/t/nips2016/5386)
