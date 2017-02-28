@@ -11,9 +11,7 @@
 
 
 # NL/Computer Vision
-* [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) :
-  * [CS231n한글 번역 프로젝트](http://aikorea.org/cs231n/)
-  * [CS231n: Convolutional Neural Networks for Visual Recognition_Course Project](http://cs231n.stanford.edu/reports2016.html)
+
 * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Brandon Amos, Ph.D at Carnegie Mellon University
 ![](https://img.readitlater.com/i/cdn-images-1.medium.com/max/800/0*6rK--WrHm_Ggyotm/RS/w704.png)
 * [7 Steps to Understanding Computer Vision](http://www.kdnuggets.com/2016/08/seven-steps-understanding-computer-vision.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+kdnuggets-data-mining-analytics+%28KDnuggets%3A+Data+Mining+and+Analytics%29)
@@ -21,6 +19,6 @@
 * [Deep Learning Research Review: Generative Adversarial Nets](http://www.kdnuggets.com/2016/10/deep-learning-research-review-generative-adversarial-networks.html)
 * [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
 * [조대협의 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149),[1/2](http://bcho.tistory.com/1156),[예측](http://bcho.tistory.com/1157), [실습](http://bcho.tistory.com/1154),[영문1/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html),[영문2/2](http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-2.html)
-* CS231n : [Download](https://archive.org/download/cs231n-CNNs),[번역](http://ishuca.tistory.com/381),[[CS231n 강좌가 닫혔습니다.]](https://tensorflow.blog/2016/05/04/stanford-cs231n-%EA%B0%95%EC%A2%8C%EA%B0%80-%EB%8B%AB%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4/)
+
 * [이미지 분석에 꼭 필요한 딥러닝 기술을 정리한 자료](http://fbsight.com/t/topic/3024)
 * [List_Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)

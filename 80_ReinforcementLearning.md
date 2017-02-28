@@ -8,11 +8,8 @@
 * [Deep Learning Research Review: Reinforcement Learning](http://www.kdnuggets.com/2016/11/deep-learning-research-review-reinforcement-learning.html) : By Adit Deshpande, UCLA.
 * [Youtube:Tutorial: Introduction to Reinforcement Learning with Function Approximation](https://www.youtube.com/watch?v=ggqnxyjaKe4),[[ppt]](http://media.nips.cc/Conferences/2015/tutorialslides/SuttonIntroRL-nips-2015-tutorial.pdf)
 * [이웅권의 Reinforement GitBook](https://www.gitbook.com/book/dnddnjs/rl/details)
-* [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
+
 * Deep Reinforcement Learning (John Schulman, OpenAI) :[[Youtube1]](https://www.youtube.com/watch?v=PtAIh9KSnjo&t=2457s) and [[Youtube2]](https://www.youtube.com/watch?v=aUrX-rP_ss4&list=PLjKEIQlKCTZYN3CYBlj8r58SbNorobqcp)
-* [UCL, David Silver, Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* [Stanford Andrew Ng CS229 Lecture 16](https://www.youtube.com/watch?v=RtxI449ZjSc)
-* [Georgia Tech /w Udacity:Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 * [추천_모음](https://github.com/dennybritz/reinforcement-learning)
 * [eBook: Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 * ICML 2016 RL by David Silver :[일반적인 RL](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf),[알파고 집중 분석](http://icml.cc/2016/tutorials/AlphaGo-tutorial-slides.pdf)
@@ -31,12 +28,7 @@
 * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) : Reinforcement Learning with TensorFlow&OpenAI Gym강의
 * [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 (CatchGame)](http://solarisailab.com/archives/486)
 
-# class / Seminar
-## 1.
-* [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-* [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
-
-## 2. Simple Reinforcement Learning with Tensorflow
+## 4. Simple Reinforcement Learning with Tensorflow
 * [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.ghnfibna9), [[번역]](http://ishuca.tistory.com/391)
 * [Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149#.dj6422lud),[[번역]](http://ishuca.tistory.com/392)
 * [Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c#.7sn60rufy), [[번역]](http://ishuca.tistory.com/393)
