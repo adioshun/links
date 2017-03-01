@@ -4,6 +4,7 @@
 * [DeepLearning Gallery](http://deeplearninggallery.com) : List of awesome Deep Learning Projects
 * [List of Deep Learning Startups](https://angel.co/deep-learning-2) : 딥러닝 스타트업 회사 목록
 * [List of NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/) : Sang-Kil Park 블로그
+* [List of Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#image-generation)
 * [List of Deep Learning's Pioneers](https://github.com/leehaesung/DeepLearningPioneers/wiki) : 딥러닝 대가 4인의 SNS정보
 * [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
@@ -13,12 +14,15 @@
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
 * [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
 * [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
+* [Foundational papers](http://deeplearning.net/reading-list/)
+
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://github.com/HFTrader/DeepLearningBook) :  An MIT Press book, Ian Goodfellow
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
 * [여러 모델별 설명]http://colah.github.io/
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
+* [Deep Learning](https://www.deeplearningbook.org/): MIT, Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
@@ -41,7 +45,7 @@
 * [2015_Residual Network (ResNet)](http://arxiv.org/pdf/1502.01852v1.pdf) : Introduced in 2015 by Microsoft Research (MSR), has made history as the first DNN to surpass human performance in the complex task of image classification.
  * [ResNet in TensorFlow](https://github.com/ry/tensorflow-resnet)
  * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
-
+* [MXNet](https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Training-ResNet-on-ImageNet-with-MRS-and-GPU-VMs) : Image Classification of ImageNet database
 
 
 ## Article/Blog

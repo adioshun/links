@@ -52,13 +52,9 @@
 * [R Learning Module](http://www.ats.ucla.edu/stat/r/modules/) : UCLA 6개 챕터
 * [A Survival Guide to Data Science with R](http://togaware.com/onepager/) : 5챕터 39개 아티클
 * [Bokipedia](http://wiki.boazbigdata.com/index.php?title=%EB%8C%80%EB%AC%B8&oldid=5239) : 경영.경제, 통계, IT, 시각화 등의 기초용어를 시작으로 R, SAS, HADOOP, SQL 등의 학습에 대한 정리
-* [Stanford Machine Learning](http://www.holehouse.org/mlclass/): 스탠포드대 __Andrew Ng__교수 강의 노트(19강의)
-* [Stanford Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/): 스탠포드대 __Andrew Ng__교수 강의 노트(24강의)
-* [Stanford CS class CS231n](http://cs231n.github.io/):Convolutional Neural Networks for Visual Recognition [[Syllabus]](http://cs231n.stanford.edu/syllabus.html)
-* [(한글)Stanford CS class CS231n](http://aikorea.org/cs231n/):Convolutional Neural Networks for Visual Recognition
-* [(한글)Tableau 공식 메뉴얼](http://onlinehelp.tableau.com/current/pro/desktop/ko-kr/help.html)
 * [140 Machine Learning Formulas](http://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A515463)
 * [60+ R resources to improve your data skills](http://www.computerworld.com/article/2497464/business-intelligence/business-intelligence-60-r-resources-to-improve-your-data-skills.html)
+* [(한글)Tableau 공식 메뉴얼](http://onlinehelp.tableau.com/current/pro/desktop/ko-kr/help.html)
 
 # Online Video
 * [Youtube-통계분석 가이드라인](https://www.youtube.com/watch?v=ej7P2DDFEhc) : 전남대학교 임회정
@@ -116,7 +112,7 @@
 * [Cheon](http://m.post.naver.com/my.nhn?memberNo=30455713) : Tableau 관련
 * [Jin Young Kim](https://brunch.co.kr/@lifidea) : '헬로 데이터 과학' 저자
 * [헬로 데이터 과학](http://www.hellodatascience.com/) : '헬로 데이터 과학' 블로그
-
+* [SanghyukChun's Blog](http://sanghyukchun.github.io/archives/)
 
 # MOOC / 교육 사이트
 * [__MOOC List__](https://docs.google.com/spreadsheets/d/1zEMwVI1MNbRFElGXF9Jyf-MGu5elNPKXauc2lWWhAHI/pubhtml)
@@ -179,8 +175,8 @@
 * [ImageNet](http://image-net.org/) : Image Database
 * [104 of the Best Free Data Sources](https://www.visualnews.com/2016/07/18/100-best-free-data-sources-infographic?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [UCI Machine Learning Repo](http://archive.ics.uci.edu/ml/) : 350 different datasets specifically curated for practicing machine learning.
-
-
+* [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)
+* [Comma.ai driving dataset](https://github.com/commaai/research)
 
 # Competition
 * [Kaggle](https://www.kaggle.com/competitions) : Kaggle 주최 [[Solutions]](http://www.chioka.in/kaggle-competition-solutions/)
