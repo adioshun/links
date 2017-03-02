@@ -103,7 +103,7 @@
 
 # 신호등 탐지
 - Traffic Sign Recognition with TensorFlow
-  - [Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) :  Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
+  - [확인][Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) :  Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
   - [Part2]() : 아직 작성 안됨,  Convolutional networks, data augmentation, and object detection.
 - [Kaggle : Traffic Sign Recognition](https://inclass.kaggle.com/c/traffic-sign-recognition)
 
