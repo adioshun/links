@@ -51,13 +51,19 @@
 ## Article/Blog
 * [딥러닝 용어 정리](http://docs.likejazz.com/deep-learning-glossary/) :  Sang-Kil Park 블로그글
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html#.WJ91SyErJGo) : T-Robotics작성글
+* Learning AI if You Suck at Math
+  * [[Part1]](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.s2srfodi4)
+  * [[Part2]](https://hackernoon.com/learning-ai-if-you-suck-at-math-part-two-practical-projects-47d7a1e4e21f#.njjbo3ysc) :  Practical Projects
+  * [[Part3]](https://hackernoon.com/learning-ai-if-you-suck-at-math-p3-building-an-ai-dream-machine-or-budget-friendly-special-d5a3023140ef#.vjauxxrty) : Building an AI Dream Machine or Budget Friendly Special
+  * [[Part4]](https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32#.4vzggiamn) : Tensors Illustrated (with Cats!)
+  * [[Part5]](https://hackernoon.com/learning-ai-if-you-suck-at-math-p5-deep-learning-and-convolutional-neural-nets-in-plain-english-cda79679bbe3#.ax5ylpyod) : Deep Learning and Convolutional Neural Nets in Plain English!
 * Machine Learning is Fun
   * [[Par1]](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.pd23g5ykm)
-  * [[Par2:Using Machine Learning to generate Super Mario Maker levels]](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.n0fg59ij1)
-  * [[Par3:Deep Learning and Convolutional Neural Networks]](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.fi3di8y0s)
-  * [[Par4:Modern Face Recognition with Deep Learning]](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.56gzs0x07)
-  * [[Par5:Language Translation with Deep Learning and the Magic of Sequences]](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.hu9fkolqq)
-  * [[Par6:How to do Speech Recognition with Deep Learning]](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.msixc7uwe)
+  * [[Par2]](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.n0fg59ij1) :Using Machine Learning to generate Super Mario Maker levels
+  * [[Par3]](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.fi3di8y0s) :Deep Learning and Convolutional Neural Networks
+  * [[Par4]](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.56gzs0x07) :Modern Face Recognition with Deep Learning
+  * [[Par5]](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.hu9fkolqq) :Language Translation with Deep Learning and the Magic of Sequences
+  * [[Par6]](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.msixc7uwe) :How to do Speech Recognition with Deep Learning
 * [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.wb3ww4l2c),[Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.2slna3lqv)
 * [How to Code and Understand DeepMind’s Neural Stack Machine](https://iamtrask.github.io/2016/02/25/deepminds-neural-stack-machine/?rd=2?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : Andrew Trask, PhD at University of Oxford
 * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
@@ -65,3 +71,4 @@
 * [youtube_Facebook’s advice to students interested in artificial intelligence](https://techcrunch.com/2016/12/01/facebooks-advice-to-students-interested-in-artificial-intelligence/)
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [한글로 설명이 잘되어있는 라온피플 블로그](http://laonple.blog.me/220463627091)
+* [MDP and Reinforcement Learning](https://papoudakis.github.io/announcements/mdp-rl/?utm_content=buffer68602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) : 마코브 체인과 강화 학습의 관계설명

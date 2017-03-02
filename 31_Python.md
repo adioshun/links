@@ -3,6 +3,9 @@
 ## 가전대 강의 자료 Gachon CS50 프로그래밍 입문 with Python
 * [Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
 
+* [MS Python을 사용한 프로그래밍 소개(한글](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
+
+
 
 # Tutorial
 * [Fluent Python](https://github.com/fluentpython/notebooks) : 쥬피터 코드
