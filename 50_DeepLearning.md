@@ -8,6 +8,7 @@
 * [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#image-generation)
 * [List of Deep Learning's Pioneers](https://github.com/leehaesung/DeepLearningPioneers/wiki) : 딥러닝 대가 4인의 SNS정보
 * [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
+* [List of DeepLearning Terms](https://github.com/tgjeon/Keras-Tutorials/blob/master/DeepLearningGlossary.md) : [한글] 딥러닝 용어 사전
 
 ## Paper
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
@@ -18,11 +19,10 @@
 
 
 ## eBook/ Tutorial
-* [Deep Learning (Adaptive Computation and Machine Learning series)](https://github.com/HFTrader/DeepLearningBook) :  An MIT Press book, Ian Goodfellow
+* [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
 * [여러 모델별 설명]http://colah.github.io/
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
-* [Deep Learning](https://www.deeplearningbook.org/): MIT, Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
