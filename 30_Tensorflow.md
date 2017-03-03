@@ -7,7 +7,7 @@
 * [수포자를 위한 딥러닝](http://bcho.tistory.com/1140): 조대협의 블로그
 * https://jasdeep06.github.io/
 * [웹기반학습_TensorFlow](http://learningtensorflow.com/) : Beginner-level tutorials for a powerful framework
-* [Tensorflow and deep learning - without a PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) :  by Martin Görner, [[자료1]](https://goo.gl/pHeXe78), [[자료2]](https://goo.gl/jrd7AR2)
+* [Tensorflow and deep learning - without a PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0) :  by Martin Görner, [[정리]](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd), [[자료1]](https://goo.gl/pHeXe78), [[자료2]](https://goo.gl/jrd7AR2)
 * [TensorFlow in R](https://rstudio.github.io/tensorflow/): [[한글참고]](http://freesearch.pe.kr/archives/4546)
 * [Youtube:TensorFlow Tutorial ](https://www.youtube.com/watch?v=wuo4JdG3SvU) & [소스코드](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
 * [ppt_PT:TensorFlow Tutorial](http://www.slideshare.net/nmhkahn/tensorflow-tutorial-71896086)
@@ -20,7 +20,7 @@
 * TensorFlow in a Nutshell : [[Part One:Basic]](https://medium.com/@camrongodbout/tensorflow-in-a-nutshell-part-one-basics-3f4403709c9d#.yq4n3ylfi),[[Part Two: Hybrid Learning]](https://chatbotnewsdaily.com/tensorflow-in-a-nutshell-part-two-hybrid-learning-98c121d35392#.dieig6pdp),[[Part Three: All the Models]](https://hackernoon.com/tensorflow-in-a-nutshell-part-three-all-the-models-be1465993930#.bwowdfj9x)
 * [ppt: Google TensorFlow Tutorial](https://www.slideshare.net/tw_dsconf/tensorflow-tutorial) : 김성훈 교수 추천 자료
 * [ppt: Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1), [[Github]](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice/)
-
+* [pdf: TensorFlow Worksop](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) : [김성훈교수 추천] 간단한 모델, 데이터 읽기, Word2Vec, 인셥션 모델 재사용, hyperparameter 자동튜닝, TensorBoard, [[GitHub]](https://github.com/amygdala/tensorflow-workshop)
 
 ### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)

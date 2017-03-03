@@ -16,13 +16,15 @@
 * [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
 * [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
 * [Foundational papers](http://deeplearning.net/reading-list/)
-
+* [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) :
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
 * [여러 모델별 설명]http://colah.github.io/
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
+* A Neural Network in 11 lines of Python
+  * [Part 1](http://iamtrask.github.io/2015/07/12/basic-python-network/) : low-level 단위 구현으로 알아 보는 뉴럴네트워크
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.

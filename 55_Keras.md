@@ -31,3 +31,9 @@
 * [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)
 * [MNIST - MLP + CNN](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
 * [CIFAR-10 CNN](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
+
+* [Tutorial: Deep Learning in PyTorch](http://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
+  - Part 1: PyTorch Installation
+  - Part 2: Matrices and Linear Algebra in PyTorch
+  - Part 3: Building a Feedforward Network (starting with a familiar one)
+  - Part 4: The State of PyTorch

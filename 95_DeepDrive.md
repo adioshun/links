@@ -18,11 +18,38 @@
   * [Term1 커리큘럼](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.9kzwdddso)
   * [Term2 커리큘럼](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.drwc2n71n)
   * Term 2 강의 신청 (by 2017.04.25) [[링크]](https://admissions.udacity.com/new/nd013)
-* [GitHub:  Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
 
-* [We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l): [[Challenge #2:]](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.xouod3h54)
+##  [We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l)
+
+### Challenge #1 : 3D Model for Camera Mount
+기기 제작 관련 내요이라 Skip
+
+### Challenge #2: Using Deep Learning to Predict Steering Angles.
+* [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn)
+* [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
+#### 1등 : Team Komanda
+Team Lead: Ilya Edrenkin, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/komanda)
+
+#### 2등 : Team Rambo
+Team Lead: Tanel Pärnamaa, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
+
+#### 3등 : Team Chauffeur
+Team Lead: Matt Forbes, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
+* [간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0)
+
+
+
 > * [List of Nanodegree Program](https://www.udacity.com/nanodegree)
 > * [GitHub: Free Nanodegree Program](https://github.com/mikesprague/udacity-nanodegrees)
+> * [GitHub:  Udacity's Self-Driving Car Code](https://github.com/udacity/self-driving-car)
+> * [GitHub:  Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
+
+### 자율주행(Drive a car)
+* [Udacity Auto-Driving 'Nanodegree' Project](https://www.udacity.com/drive)
+  * [논문: End to End Learning for Self-Driving](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) : NVIDIA 2016 Paper
+  * [GitHub: Behavior-Cloning](https://github.com/windowsub0406/Behavior-Cloning) :
+  * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
+* [DAVE-2](https://arxiv.org/abs/1604.07316) : 카메라 3대와 운전자의 핸들 조작+알파로 학습한다음 카메라 하나만 입력으로 사용하고 운전대를 어떻게 움직이는지를 예측하여 자동운전,  [[YOUTUBE]](https://drive.google.com/file/d/0B9raQzOpizn1TkRIa241ZnBEcjQ/view)
 
 
 ## 수강 학생들의 결과물
@@ -72,6 +99,7 @@
 - [Behavioural Cloning Applied to Self-Driving Car on a Simulated Track](https://medium.com/towards-data-science/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230#.wkv74ptvr)
 - [Self Driving Car — Technology drives the Future !!](https://medium.com/@sujaybabruwad/teaching-a-car-to-ride-itself-by-showing-it-how-a-human-driver-does-it-797cc9c2462b#.3a1pznag8)
 - [You don’t need lots of data! (Udacity Behavioral Cloning)](https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52#.lw2tuad26)
+- [GitHub: windowsub0406](https://github.com/windowsub0406/Behavior-Cloning)
 
 [6 Awesome Projects from Udacity Students](https://medium.com/self-driving-cars/6-awesome-projects-from-udacity-students-and-1-awesome-thinkpiece-550004812558#.q86pa2wnr)
 - [How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.12d91nj06) : Sujay Babruwad
@@ -103,7 +131,7 @@
 
 # 신호등 탐지
 - Traffic Sign Recognition with TensorFlow
-  - [확인][Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) :  Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
+  - [확인] [Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) : Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
   - [Part2]() : 아직 작성 안됨,  Convolutional networks, data augmentation, and object detection.
 - [Kaggle : Traffic Sign Recognition](https://inclass.kaggle.com/c/traffic-sign-recognition)
 
@@ -112,6 +140,7 @@
 * [Comma.ai driving dataset](https://github.com/commaai/research) : 자율 주행, 7.5 hours of camera images, steering angles, and other vehicle data.
 * [Traffic Sign](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) : 신호등 데이터셋
 * [BelgiumTS Dataset](http://btsd.ethz.ch/shareddata/index.html) : 도로 안내판 데이터셋
+* [Udacity Driving Dataset](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.1aq6pztwj) : Mountain View, 223G(10시간)
 
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)

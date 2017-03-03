@@ -17,21 +17,17 @@
 * [최성준(sjchoi86)작성코드](https://github.com/sjchoi86/)
 
 ## DeepLearning Tutorial
+시리즈 형태로 각 주제별로 정리된 내용들
 * [초급_최건호의 친절한 한글 설명과 함께하는 텐서플로우 튜토리얼](https://github.com/GunhoChoi/Kind_Tensorflow101/tree/master)
 * [중급_Nathan Lintz 튜토리얼](https://github.com/nlintz/TensorFlow-Tutorials)
 * [고급_Hvass 튜토리얼](https://github.com/Hvass-Labs/TensorFlow-Tutorials), [[youtube]](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 * [고급_Golbin 튜토리얼](https://github.com/golbin/TensorFlow-Tutorials)
 * [고급_SJCHOI86](https://github.com/sjchoi86/Tensorflow-101)
-
+* [고급_pkmital](https://github.com/pkmital/tensorflow_tutorials)
 
 
 ## Project
-### 자율주행(Drive a car)
-* [Udacity Auto-Driving 'Nanodegree' Project](https://www.udacity.com/drive)
-  * [논문: End to End Learning for Self-Driving](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) : NVIDIA 2016 Paper
-  * [GitHub: Behavior-Cloning](https://github.com/windowsub0406/Behavior-Cloning) :
-  * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
-* [DAVE-2](https://arxiv.org/abs/1604.07316) : 카메라 3대와 운전자의 핸들 조작+알파로 학습한다음 카메라 하나만 입력으로 사용하고 운전대를 어떻게 움직이는지를 예측하여 자동운전,  [[YOUTUBE]](https://drive.google.com/file/d/0B9raQzOpizn1TkRIa241ZnBEcjQ/view)
+
 
 ### 행동파악(Predict human action)
 * [Predicting Future Human Behavior with Deep Learning](http://www.kdnuggets.com/2016/09/predicting-future-human-behavior-deep-learning.html)
