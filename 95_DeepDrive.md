@@ -18,23 +18,27 @@
   * [Term1 커리큘럼](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.9kzwdddso)
   * [Term2 커리큘럼](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.drwc2n71n)
   * Term 2 강의 신청 (by 2017.04.25) [[링크]](https://admissions.udacity.com/new/nd013)
-
-##  [We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l)
+  * [We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l)
 
 ### Challenge #1 : 3D Model for Camera Mount
 기기 제작 관련 내요이라 Skip
 
 ### Challenge #2: Using Deep Learning to Predict Steering Angles.
+
 * [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn)
+
 * [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
+
 #### 1등 : Team Komanda
 Team Lead: Ilya Edrenkin, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/komanda)
 
 #### 2등 : Team Rambo
+
 Team Lead: Tanel Pärnamaa, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
 
 #### 3등 : Team Chauffeur
 Team Lead: Matt Forbes, [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
+
 * [간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0)
 
 
