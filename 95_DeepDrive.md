@@ -35,9 +35,8 @@
 
 ### 1.2 Challenge #2: Using Deep Learning to Predict Steering Angles.
 * [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn),  [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
-  * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning) :
+  * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning)
   * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
-
 * 1등 : Team Komanda(Team Lead: Ilya Edrenkin), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/komanda)
 * 2등 : Team Rambo(Team Lead: Tanel Pärnamaa), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
 * 3등 : Team Chauffeur(Team Lead: Matt Forbes),[간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0),
@@ -47,8 +46,8 @@
 [Daniel Stang](http://www.cellar--door.com/sdc) : Project 1~5까지의 해결 과정/내용 정리
 
 ### 2.1 Project 1 — Detect Lane Lines
-- [Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0#.c2gg3agft) : Galen Ballew
-- [My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/@paramaggarwal/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3#.iy3xxtun9) : Param Aggarwal
+- <del>[Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0#.c2gg3agft) : Galen Ballew [[GitHub]](https://github.com/galenballew/Lane-Detection-OpenCV)</del>
+- <del>[My Lane Detection Project in the Self Driving Car Nanodegree by Udacity](https://medium.com/@paramaggarwal/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3#.iy3xxtun9) : Param Aggarwal</del>
 - [Bugger! Detecting Lane Lines](http://www.jessicayung.com/bugger-detecting-lane-lines/) : Jessica Yung
 - [Hello Lane Lines](http://www.blog.autonomousd.com/2016/12/hello-lane-lines.html?showComment=1485840449048#c2413863224281126452) : Josh Pierro
 
