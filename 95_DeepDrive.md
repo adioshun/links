@@ -11,14 +11,21 @@
 - [16 Questions About Self-Driving Cars](https://vimeo.com/198256576)[[Q List]](https://medium.com/self-driving-cars/frank-chens-16-questions-about-self-driving-car-3c663987965b#.85q8lxbdy)
 - [Autonomous Vehicles Overview](https://www.youtube.com/watch?v=CruCp6vqPQs&feature=youtu.be) : Wiley Jones,2016. 8. 28, 56분, Robotics, actuation, sensors, SLAM, computational platforms
 
+# 논문
+* [논문: End to End Learning for Self-Driving](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) : NVIDIA 2016 Paper
+* [논문: End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) : 카메라 3대와 운전자의 핸들 조작+알파로 학습한다음 카메라 하나만 입력으로 사용하고 운전대를 어떻게 움직이는지를 예측하여 자동운전,  [[YOUTUBE]](https://drive.google.com/file/d/0B9raQzOpizn1TkRIa241ZnBEcjQ/view)
+
+
 
 
 # 1. Udacity’s Self-Driving Car
-* Udacity제공 자율 주행 관련 교육 프로그램
+* Udacity제공 자율 주행 관련 교육 프로그램[[홈페이지]](https://www.udacity.com/drive), [[GitHub: Code]](https://github.com/udacity/self-driving-car), [[GitHub: 시뮬레이션]](https://github.com/udacity/self-driving-car-sim))
   * [Term1 커리큘럼](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.9kzwdddso)
   * [Term2 커리큘럼](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.drwc2n71n)
   * Term 2 강의 신청 (by 2017.04.25) [[링크]](https://admissions.udacity.com/new/nd013)
   * [Challenges : We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l)
+
+> [GitHub: Free Nanodegree Program](https://github.com/mikesprague/udacity-nanodegrees)
 
 ## 1.1 Challenges
 
@@ -40,18 +47,11 @@ Team Lead: Tanel Pärnamaa, [[GitHub]](https://github.com/udacity/self-driving-c
 Team Lead: Matt Forbes,[간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0),
  [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
 
+ * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning) :
+ * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
 
-> * [List of Nanodegree Program](https://www.udacity.com/nanodegree)
-> * [GitHub: Free Nanodegree Program](https://github.com/mikesprague/udacity-nanodegrees)
-> * [GitHub:  Udacity's Self-Driving Car Code](https://github.com/udacity/self-driving-car)
-> * [GitHub:  Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
 
-### 자율주행(Drive a car)
-* [Udacity Auto-Driving 'Nanodegree' Project](https://www.udacity.com/drive)
-  * [논문: End to End Learning for Self-Driving](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) : NVIDIA 2016 Paper
-  * [GitHub: Behavior-Cloning](https://github.com/windowsub0406/Behavior-Cloning) :
-  * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
-* [DAVE-2](https://arxiv.org/abs/1604.07316) : 카메라 3대와 운전자의 핸들 조작+알파로 학습한다음 카메라 하나만 입력으로 사용하고 운전대를 어떻게 움직이는지를 예측하여 자동운전,  [[YOUTUBE]](https://drive.google.com/file/d/0B9raQzOpizn1TkRIa241ZnBEcjQ/view)
+
 
 
 ## 1.2 Projects
