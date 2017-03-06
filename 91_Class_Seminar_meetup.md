@@ -9,6 +9,9 @@
 * [3주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)
 * [4주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)
 
+###### 스탠포드 CS 20SI: Tensorflow for Deep Learning Research
+* Homepage : [Stanford](http://web.stanford.edu/class/cs20si/)
+
 ##### MIT 6.S094: Deep Learning for Self-Driving Cars
 * Homepage : [MIT](http://selfdrivingcars.mit.edu/)
 * 1주차 : [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)

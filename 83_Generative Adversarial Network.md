@@ -23,3 +23,5 @@
 # Article / Blog
 * [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.pjokxgjca)
+- [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.jmn4i02yi)
+- [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)

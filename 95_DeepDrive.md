@@ -2,25 +2,27 @@
 
 [2017: The year for autonomous vehicles](https://machinelearnings.co/2017-the-year-for-autonomous-vehicles-8359fec2d2db#.bh2nr1v38)
 
-# Self-Driving Engineer
+# 0. 개요
+
+## Self-Driving Engineer
 * [How to Become a Self-Driving Car Engineeer Talk](https://medium.com/self-driving-cars/how-to-become-a-self-driving-car-engineeer-talk-923dfa5e6665#.ig03r4tmq) : 추천, ppt,Jupyter코드 포함
 * [But, Self-Driving Car Engineers don’t need to know C/C++, right?](https://medium.com/@mimoralea/but-self-driving-car-engineers-dont-need-to-know-c-c-right-3230725a7542#.1pk5qsb90) : 필요 지식 및 기술(개인 의견)
 * [Self Driving Car Engineer Deep Dive](https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04#.pygljklaq)
 * [Who’s Hiring Autonomous Vehicle Engineers](https://medium.com/self-driving-cars/whos-hiring-autonomous-vehicle-engineers-1ccf42185e08#.zd2odb5gs)
 
-# Youtube
+## Youtube
 - [16 Questions About Self-Driving Cars](https://vimeo.com/198256576)[[Q List]](https://medium.com/self-driving-cars/frank-chens-16-questions-about-self-driving-car-3c663987965b#.85q8lxbdy)
 - [Autonomous Vehicles Overview](https://www.youtube.com/watch?v=CruCp6vqPQs&feature=youtu.be) : Wiley Jones,2016. 8. 28, 56분, Robotics, actuation, sensors, SLAM, computational platforms
 
-# 논문
+## 논문
 * [논문: End to End Learning for Self-Driving](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) : NVIDIA 2016 Paper
 * [논문: End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316) : 카메라 3대와 운전자의 핸들 조작+알파로 학습한다음 카메라 하나만 입력으로 사용하고 운전대를 어떻게 움직이는지를 예측하여 자동운전,  [[YOUTUBE]](https://drive.google.com/file/d/0B9raQzOpizn1TkRIa241ZnBEcjQ/view)
 
 
 
 
-# Udacity’s Self-Driving Car
-* Udacity제공 자율 주행 관련 교육 프로그램[[홈페이지]](https://www.udacity.com/drive), [[GitHub: Code]](https://github.com/udacity/self-driving-car), [[GitHub: 시뮬레이션]](https://github.com/udacity/self-driving-car-sim))
+# 1. Udacity’s Self-Driving Car
+* Udacity제공 자율 주행 관련 교육 프로그램[[홈페이지]](https://www.udacity.com/drive), [[GitHub: Code]](https://github.com/udacity/self-driving-car), [[GitHub: 시뮬레이션]](https://github.com/udacity/self-driving-car-sim)), [[Slack]](https://nd013.slack.com/messages/@slackbot/)
   * [Term1 커리큘럼](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.9kzwdddso)
   * [Term2 커리큘럼](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.drwc2n71n)
   * Term 2 강의 신청 (by 2017.04.25) [[링크]](https://admissions.udacity.com/new/nd013)
@@ -29,11 +31,14 @@
 > [GitHub: Free Nanodegree Program](https://github.com/mikesprague/udacity-nanodegrees)
 
 ## 1. Challenges
+[List of Challenges](https://www.udacity.com/self-driving-car)
 
 ### 1.1 Challenge #1 : 3D Model for Camera Mount
-기기 제작 관련 내용이라 Skip
+* [개요 설명](https://medium.com/udacity/challenge-1-3d-model-for-camera-mount-f5ffcc1655b5#.gag46u20q)
 
-### 1.2 Challenge #2: Using Deep Learning to Predict Steering Angles.
+> 기기 제작 관련 내용이라 Skip
+
+### 1.2 Challenge #2 : Using Deep Learning to Predict Steering Angles.
 * [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn),  [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
   * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning)
   * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
@@ -41,6 +46,13 @@
 * 2등 : Team Rambo(Team Lead: Tanel Pärnamaa), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
 * 3등 : Team Chauffeur(Team Lead: Matt Forbes),[간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0),
  [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
+
+### 1.3 Challenge #3: Image-Based Localization
+* [개요 설명](https://medium.com/udacity/challenge-3-image-based-localization-5d9cadcff9e7#.3lstquvvf)
+
+### 1.4 Challenge #4: Self-Driving Car Android Dashboard
+* [개요 설명](https://medium.com/udacity/challenge-4-self-driving-car-android-dashboard-83a2a5c8b29e#.1ndw38fam)
+
 
 ## 2 Projects
 [Daniel Stang](http://www.cellar--door.com/sdc) : Project 1~5까지의 해결 과정/내용 정리
@@ -52,12 +64,14 @@
 - [Hello Lane Lines](http://www.blog.autonomousd.com/2016/12/hello-lane-lines.html?showComment=1485840449048#c2413863224281126452) : Josh Pierro
 
 ### 2.2 Project 2- Traffic Sign Classifier
-- [How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.12d91nj06) : Sujay Babruwad
-- [Traffic Sign Classification](https://medium.com/@hengcherkeng/updated-my-99-40-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-5580ae5bd51f#.iobd79qzu) : Cherkeng Heng
-- [Traffic Sign Classifier: Normalising Data](http://www.jessicayung.com/traffic-sign-classifier-normalising-data/) : Jessica Yung
+- <del>[How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.12d91nj06) : Sujay Babruwad</del>
+- <del>[Traffic Sign Classification](https://medium.com/@hengcherkeng/updated-my-99-40-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-5580ae5bd51f#.iobd79qzu) : Cherkeng Heng, [[UPdated]](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.lg10dmxg7)</del>
+- <del>[Traffic Sign Classifier: Normalising Data](http://www.jessicayung.com/traffic-sign-classifier-normalising-data/) : 전처리 부분 중심으로, Jessica Yung</del>
+
+#### [다른 소스에서의 자료 ]
 - Traffic Sign Recognition with TensorFlow
   - [확인] [Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) : Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
-  - [Part2]() : 아직 작성 안됨,  Convolutional networks, data augmentation, and object detection.
+  - Part2() : 아직 작성 안됨,  Convolutional networks, data augmentation, and object detection.
 - [Kaggle : Traffic Sign Recognition](https://inclass.kaggle.com/c/traffic-sign-recognition)
 
 ### 2.3 Project 3 — Behavioral Cloning
@@ -73,6 +87,10 @@
 [Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1)
 - [Behavioral Cloning For Self Driving Cars](https://medium.com/@ValipourMojtaba/my-approach-for-project-3-2545578a9319#.337eo3ns7) : Mojtaba Valipour
 - [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.10nhc95af) : Vivek Yadav
+- [
+Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.r2q33ajg7) : Param Aggarwal
+
+
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
 ![Line detection](https://cdn-images-1.medium.com/max/800/1*861hYMj2um2xgPzmeaJizQ.png)
@@ -82,6 +100,8 @@
 * [Advanced Lane detection](https://medium.com/@MSqalli/advanced-lane-detection-6a769de0d581#.29pkw239p) : 차선 인식 제안 방안 설명, [[GitHub]](https://github.com/MehdiSv/AdvancedLineDetection)
 * [Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.4qezclz13)
 - [Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.ht4k5r8p0): Paul Heraty
+- [Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.dxkxvqw6e) : Andrew WilkieFollowing
+
 
 ### 2.5 Project 5 - Vehecle Detection
 * [Milutin N. Nikolic](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb)
@@ -120,12 +140,29 @@
 - [Self-Driving Car Engineer Diary — 1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-1-33cf9f8ff1cd#.rc4fdlwp0) :Andrew Wilkie
 - [Comparing model performance: Including Max Pooling and Dropout Layers](http://www.jessicayung.com/comparing-model-performance-including-max-pooling-and-dropout-layers/) : Jessica Yung
 
+
+
+# 2. Nexar
+Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이지](https://www.getnexar.com/), [Challenge](https://www.getnexar.com/challenges/)
+- You can compete to win prizes (1st place $5,000, 2nd place $2,000, 3rd place iPhone 7)
+
+## Challenge #1 : USING DEEP LEARNING FOR TRAFFIC LIGHT RECOGNITION
+[챌리지 개요/요구사항](https://challenge.getnexar.com/challenge-1)
+- [Recognizing Traffic Lights With Deep Learning](https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.l2iu0aqag) : David Brailovsky
+- [The world through the eyes of a self-driving car](https://medium.freecodecamp.com/what-is-my-convnet-looking-at-7b0533e4d20e#.wnom5expq) : David Brailovsky
+
+## Challenge #2 : Coming Soon
+
+# Article
+- [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
+
 # Open Data
 * [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)
 * [Comma.ai driving dataset](https://github.com/commaai/research) : 자율 주행, 7.5 hours of camera images, steering angles, and other vehicle data.
 * [Traffic Sign](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) : 신호등 데이터셋
 * [BelgiumTS Dataset](http://btsd.ethz.ch/shareddata/index.html) : 도로 안내판 데이터셋
 * [Udacity Driving Dataset](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.1aq6pztwj) : Mountain View, 223G(10시간)
+- [INI](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) : 독일 신호등 데이터
 
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)

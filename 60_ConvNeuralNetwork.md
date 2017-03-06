@@ -23,3 +23,7 @@
 * [List_Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [ppt : Deep Learning in Computer Vision](https://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160) : Sungjoon Samuel 작성
 * [ppt: Convolutional neural network in practice](https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
+
+
+# Paper
+- [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)

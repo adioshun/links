@@ -21,7 +21,9 @@
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 
-
+# Paper
+- [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274) : Yuxi Li
+- [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) : Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu(2017.03)
 
 ## Inverse reinforcement-learning
 * [ppt: Inverse Reinforcement Learning Algorithms](https://www.slideshare.net/samchoi7/inverse-reinforcement-learning-algorithms) : Sungjoon Samuel 작성

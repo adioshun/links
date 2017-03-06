@@ -1,3 +1,5 @@
+![](http://api.ning.com/files/0qR8BrPZ-VZNxGOCc9HIXhtVdu4FIxXA3BKWwtrYkXQ0nvVO1yOJKU76E4LcCd3ln-bdReqYkhipURC00JjlWMTMOr340TB9/ML87i.png)
+
 # DeepLearning
 * [List_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
@@ -9,6 +11,7 @@
 * [List of Deep Learning's Pioneers](https://github.com/leehaesung/DeepLearningPioneers/wiki) : 딥러닝 대가 4인의 SNS정보
 * [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
 * [List of DeepLearning Terms](https://github.com/tgjeon/Keras-Tutorials/blob/master/DeepLearningGlossary.md) : [한글] 딥러닝 용어 사전
+- [A Tour Of Machine Learning Algorithms](https://topdata.news/a-tour-of-machine-learning-algorithms-analytics-machinelearning-rt/)
 
 ## Paper
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
@@ -17,6 +20,9 @@
 * [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
 * [Foundational papers](http://deeplearning.net/reading-list/)
 * [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) :
+- [PathNet: Evolution Channels Gradient Descent in Super
+Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
+
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)

@@ -44,13 +44,13 @@
 ### 이미지 화질 개선
 * [Image Resolution](https://github.com/alexjc/neural-enhance?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more):Neural Enhance: Super Resolution for images using deep learning.[6,057 stars on Github]
 * [GitHub: Image super-resolution through deep learning](https://github.com/david-gpu/srez)
-
+- [Super-Resolution using Coordinate-Based Neural Networks](http://liviu.me/blog/super-resolution-using-coordinates-networks) : Liviu Pirvan
 
 
 
 ### 영문법 교정
 * [Grammatical Error Identification](https://arxiv.org/abs/1604.04677) : 영어의 문법도 딥러닝으로 고치기, word2vec 이랑 비슷
-
+- [Reddit: How do you solve this problem: detecting and correcting incorrect usage of English articles in a given text?](https://www.reddit.com/r/MachineLearning/comments/5woras/d_how_do_you_solve_this_problem_detecting_and/)
 
 
 
