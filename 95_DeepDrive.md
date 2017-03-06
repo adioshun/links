@@ -75,8 +75,8 @@
 - [Kaggle : Traffic Sign Recognition](https://inclass.kaggle.com/c/traffic-sign-recognition)
 
 ### 2.3 Project 3 — Behavioral Cloning
-* [Jeremy Shannon](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : [[GitHub]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
-* [Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi
+* <del>[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : Jeremy Shannon, 핸들 각도 분포에 따른 성능 평가 </del>  [[GitHub: 기술적 설명]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
+* [Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버
 - [Training a Self-Driving Car via Deep Learning](http://blog.openroar.com/2016/12/29/self-driving-car-deep-learning/)
 - [GitHub: Behavioral Cloning](https://github.com/jinchenglee/CarND-Behavioral-Cloning/blob/master/README.md)
 - [Behavioural Cloning Applied to Self-Driving Car on a Simulated Track](https://medium.com/towards-data-science/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230#.wkv74ptvr)
@@ -89,7 +89,7 @@
 - [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.10nhc95af) : Vivek Yadav
 - [
 Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.r2q33ajg7) : Param Aggarwal
-
+- [Behavioral Cloning for Autonomous Vehicles](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148) : DAVID A. VENTIMIGLIA
 
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
@@ -101,7 +101,7 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 * [Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.4qezclz13)
 - [Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.ht4k5r8p0): Paul Heraty
 - [Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.dxkxvqw6e) : Andrew WilkieFollowing
-
+- [Advanced Lane Lines](http://davidaventimiglia.com/advanced_lane_lines.html) : DAVID A. VENTIMIGLIA
 
 ### 2.5 Project 5 - Vehecle Detection
 * [Milutin N. Nikolic](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb)
