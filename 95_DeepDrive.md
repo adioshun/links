@@ -103,8 +103,8 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 
 
 ### 2.5 Project 5 - Vehecle Detection
-* [Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb) : Milutin N. Nikolic
-- [Small U-Net for vehicle detection](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.75z3or11a) : Vivek Yadav, 뉴럴네트워크를 이용한 접근법
+* <del>[Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb) : Milutin N. Nikolic,[추천] 차간 거리 인식 포함 </del>
+- <del>[Small U-Net for vehicle detection](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.75z3or11a) : Vivek Yadav, U-Net 뉴럴네트워크를 이용한 접근법 </del>
 * [Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.2baik24s1) : 차량 인식 제안 방안 설명
 - [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개
 
@@ -183,6 +183,7 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 * [BelgiumTS Dataset](http://btsd.ethz.ch/shareddata/index.html) : 도로 안내판 데이터셋
 * [Udacity Driving Dataset](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.1aq6pztwj) : Mountain View, 223G(10시간)
 - [INI](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) : 독일 신호등 데이터
+- [Udacity_Annotated Driving Dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) : 도로상 차량, 트럭, 보행자 4.5GB
 
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)

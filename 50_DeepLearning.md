@@ -44,6 +44,7 @@ Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
 * [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)
 * [SyntaxNet](http://cpuu.postype.com/post/166917/) : 구글이 자연어 처리(정확히는 자연어 이해)를 수행하는 코드, [[설치]](http://cpuu.postype.com/post/197684/)
 * [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+* [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) : Biomedical Image Segmentation 참고용
 
 ###### CNN/ILSVRC 우승 모델
 * [2012_AlexNet]
