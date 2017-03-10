@@ -76,40 +76,40 @@
 
 ### 2.3 Project 3 — Behavioral Cloning
 * <del>[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : Jeremy Shannon, 핸들 각도 분포에 따른 성능 평가 </del>  [[GitHub: 기술적 설명]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
-* [Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버
-- [Training a Self-Driving Car via Deep Learning](http://blog.openroar.com/2016/12/29/self-driving-car-deep-learning/)
-- [GitHub: Behavioral Cloning](https://github.com/jinchenglee/CarND-Behavioral-Cloning/blob/master/README.md)
+* <del>[Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버 </del>
+- <del>[Training a Self-Driving Car via Deep Learning](http://blog.openroar.com/2016/12/29/self-driving-car-deep-learning/) : James Jackson </del>
+- [GitHub: Behavioral Cloning](https://github.com/jinchenglee/CarND-Behavioral-Cloning/blob/master/README.md) : jinchenglee
 - [Behavioural Cloning Applied to Self-Driving Car on a Simulated Track](https://medium.com/towards-data-science/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230#.wkv74ptvr)
 - [Self Driving Car — Technology drives the Future !!](https://medium.com/@sujaybabruwad/teaching-a-car-to-ride-itself-by-showing-it-how-a-human-driver-does-it-797cc9c2462b#.3a1pznag8)
 - [You don’t need lots of data! (Udacity Behavioral Cloning)](https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52#.lw2tuad26)
 - [GitHub: windowsub0406](https://github.com/windowsub0406/Behavior-Cloning)
-- [Behavioral Cloning — Transfer Learning with Feature Extraction](https://medium.com/@kastsiukavets.alena/behavioral-cloning-transfer-learning-with-feature-extraction-a17b0ebabf67#.8rw2nug86): Alena Kastsiukavets
-[Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1)
+- <del> [Behavioral Cloning — Transfer Learning with Feature Extraction](https://medium.com/@kastsiukavets.alena/behavioral-cloning-transfer-learning-with-feature-extraction-a17b0ebabf67#.8rw2nug86): Alena Kastsiukavets, Transfer Learning 기법 적용 </del>
+- <del>[Denise R. JamesFollowing](https://medium.com/@deniserjames/denise-james-bsee-msee-5beb448cf184#.b08sv8h38) </del>
 - [Behavioral Cloning For Self Driving Cars](https://medium.com/@ValipourMojtaba/my-approach-for-project-3-2545578a9319#.337eo3ns7) : Mojtaba Valipour
 - [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.10nhc95af) : Vivek Yadav
 - [
 Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.r2q33ajg7) : Param Aggarwal
-- [Behavioral Cloning for Autonomous Vehicles](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148) : DAVID A. VENTIMIGLIA
+
 
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
 ![Line detection](https://cdn-images-1.medium.com/max/800/1*861hYMj2um2xgPzmeaJizQ.png)
 - [Udacity Advance Lane Finding Notes](https://medium.com/@fromtheast/computer-vision-resources-411ae9bfef51#.h7wz91uf6) : A Nguyen
-- [Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.is20rudnp) : Arnaldo Gunzi
-* [Advanced Lane Finding](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.trmrym9py) : 차선 인식 제안 방안 설명
-* [Advanced Lane detection](https://medium.com/@MSqalli/advanced-lane-detection-6a769de0d581#.29pkw239p) : 차선 인식 제안 방안 설명, [[GitHub]](https://github.com/MehdiSv/AdvancedLineDetection)
-* [Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.4qezclz13)
+- <del>[Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.is20rudnp) : Arnaldo Gunzi, 추천 </del>
+* [Advanced Lane Finding](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.trmrym9py) : Milutin N. Nikolic, 추천
+* <Del>[Advanced Lane detection](https://medium.com/@MSqalli/advanced-lane-detection-6a769de0d581#.29pkw239p) : Mehdi Sqalli </del>
 - [Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.ht4k5r8p0): Paul Heraty
 - [Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.dxkxvqw6e) : Andrew WilkieFollowing
-- [Advanced Lane Lines](http://davidaventimiglia.com/advanced_lane_lines.html) : DAVID A. VENTIMIGLIA
+
 
 ### 2.5 Project 5 - Vehecle Detection
-* [Milutin N. Nikolic](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb)
-- [Towards a real-time vehicle detection: SSD multibox approach](https://medium.com/@vivek.yadav/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.cldxjz489) : Vivek Yadav
-- [Small U-Net for vehicle detection](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.75z3or11a) : Vivek Yadav
+* [Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb) : Milutin N. Nikolic
+- [Small U-Net for vehicle detection](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.75z3or11a) : Vivek Yadav, 뉴럴네트워크를 이용한 접근법
 * [Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.2baik24s1) : 차량 인식 제안 방안 설명
+- [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개
 
 ### 2.6 강사 코멘트
+[Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1)
 [6 Awesome Projects from Udacity Students](https://medium.com/self-driving-cars/6-awesome-projects-from-udacity-students-and-1-awesome-thinkpiece-550004812558#.q86pa2wnr)
 - P5: Vehicle Detection with Linear SVC classification : Rana Khalil
 [6 Different End-to-End Neural Networks](https://medium.com/self-driving-cars/6-different-end-to-end-neural-networks-f307fa2904a5#.m9oak3lui)
@@ -140,6 +140,10 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Self-Driving Car Engineer Diary — 1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-1-33cf9f8ff1cd#.rc4fdlwp0) :Andrew Wilkie
 - [Comparing model performance: Including Max Pooling and Dropout Layers](http://www.jessicayung.com/comparing-model-performance-including-max-pooling-and-dropout-layers/) : Jessica Yung
 
+### 2.7 저자별 모음 : DAVID A. VENTIMIGLIA
+- [Behavioral Cloning for Autonomous Vehicles](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148) : DAVID A. VENTIMIGLIA
+- [Advanced Lane Lines](http://davidaventimiglia.com/advanced_lane_lines.html) : DAVID A. VENTIMIGLIA
+
 
 
 # 2. Nexar
@@ -153,8 +157,14 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 ## Challenge #2 : Coming Soon
 
+# 3. commai
+- [홈페이지]() [[GitHub]](https://github.com/commaai/research)
+- [논문](http://arxiv.org/abs/1608.01230) : Learning a Driving Simulator
+
+
 # Article
 - [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
+- [Towards a real-time vehicle detection: SSD multibox approach](https://medium.com/@vivek.yadav/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.cldxjz489) : Vivek Yadav
 
 # Open Data
 * [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)
