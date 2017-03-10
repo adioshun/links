@@ -152,8 +152,8 @@ P5: Vehecle Detection
 - Arnaldo Gunzi: P1, P2, [P3](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.xhycchtm4), [P4](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.twavzh60e), [P5](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.t6aqd290a)
 - Milutin N. Nikolic: P1, P2, P3, [P4](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.a47g46ddk), [P5](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.23x509ck5)
 - Kaspar Sakmann: P1, P2, [P3](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713#.96mwidezy), P4, [P5](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.cvv7xwg2t)
+- Vivek Yadav: P1, [P2](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.pehltjdi2), [P3-1](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.qju3jgn6n),[P3-2](https://chatbotslife.com/learning-human-driving-behavior-using-nvidias-neural-network-model-and-image-augmentation-80399360efee#.b10ontn6k) [P4](https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.9vxso5cqk), [P5-1](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.ys1nu1ovc), [P5-2](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.phldagwx4)
 - ooo: [P1](), [P2](), [P3](), [P4](), [P5]()
-
 
 # 2. Nexar
 Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이지](https://www.getnexar.com/), [Challenge](https://www.getnexar.com/challenges/)
