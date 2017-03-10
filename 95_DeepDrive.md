@@ -139,11 +139,20 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Hardware, tools, and cardboard mockups](https://djwbrown.github.io/self-driving-nanodegree/brz/update/2017/01/23/hardware-tools-and-cardboard-mockups.html) : Dylan Brown
 - [Self-Driving Car Engineer Diary — 1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-1-33cf9f8ff1cd#.rc4fdlwp0) :Andrew Wilkie
 - [Comparing model performance: Including Max Pooling and Dropout Layers](http://www.jessicayung.com/comparing-model-performance-including-max-pooling-and-dropout-layers/) : Jessica Yung
+- [Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.79czobkvx) : Kaspar Sakmann
 
-### 2.7 저자별 모음 : DAVID A. VENTIMIGLIA
-- [Behavioral Cloning for Autonomous Vehicles](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148) : DAVID A. VENTIMIGLIA
-- [Advanced Lane Lines](http://davidaventimiglia.com/advanced_lane_lines.html) : DAVID A. VENTIMIGLIA
+### 2.7 저자별 모음
+P1: Detect Lane Lines
+P2: Traffic Sign Classifier
+P3: Behavioral Cloning
+P4: Advanced Lane Line Finding
+P5: Vehecle Detection
 
+- DAVID A. VENTIMIGLIA: P1, P2, [P3](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148), [P4](http://davidaventimiglia.com/advanced_lane_lines.html), [P5](http://davidaventimiglia.com/vechicle_detection.html)
+- Arnaldo Gunzi: P1, P2, [P3](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.xhycchtm4), [P4](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.twavzh60e), [P5](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.t6aqd290a)
+- Milutin N. Nikolic: P1, P2, P3, [P4](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.a47g46ddk), [P5](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.23x509ck5)
+- Kaspar Sakmann: P1, P2, [P3](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713#.96mwidezy), P4, [P5](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.cvv7xwg2t)
+- ooo: [P1](), [P2](), [P3](), [P4](), [P5]()
 
 
 # 2. Nexar
@@ -165,6 +174,7 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 # Article
 - [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 - [Towards a real-time vehicle detection: SSD multibox approach](https://medium.com/@vivek.yadav/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.cldxjz489) : Vivek Yadav
+
 
 # Open Data
 * [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)
