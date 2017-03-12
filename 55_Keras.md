@@ -1,3 +1,7 @@
+## List
+- [List of Keras resources](https://github.com/fchollet/keras-resources): Keras-Tensorflow 모델, Keras공식
+
+
 # Keras
 * [모음: Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
 
@@ -10,7 +14,7 @@
 * [케라스 이야기](https://tykimos.github.io/Keras/2017/01/27/Keras_Talk/)
 
 * [추천: Review of Keras (Deep Learning) Core Layers](https://www.picnet.com.au/blogs/guido/post/2016/05/16/review-of-keras-deep-learning-core-layers/)
-- [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html) : CNN의 인식 결과를 시각화하여 확인할수 있는 방법, 논문 작성이나 시각화시 활용 가능 
+- [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html) : CNN의 인식 결과를 시각화하여 확인할수 있는 방법, 논문 작성이나 시각화시 활용 가능
 
 
 # 구현
@@ -33,9 +37,3 @@
 * [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)
 * [MNIST - MLP + CNN](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
 * [CIFAR-10 CNN](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
-
-* [Tutorial: Deep Learning in PyTorch](http://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
-  - Part 1: PyTorch Installation
-  - Part 2: Matrices and Linear Algebra in PyTorch
-  - Part 3: Building a Feedforward Network (starting with a familiar one)
-  - Part 4: The State of PyTorch

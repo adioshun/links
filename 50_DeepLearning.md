@@ -12,8 +12,13 @@
 * [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
 * [List of DeepLearning Terms](https://github.com/tgjeon/Keras-Tutorials/blob/master/DeepLearningGlossary.md) : [한글] 딥러닝 용어 사전
 - [A Tour Of Machine Learning Algorithms](https://topdata.news/a-tour-of-machine-learning-algorithms-analytics-machinelearning-rt/)
+- [List of Deeplearning Tools](http://www.datasciencecentral.com/profiles/blogs/deep-learning-resource-matrix): TensorFlow,
+Theano, Caffe, MXNet, Apache, SystemML, BigDL, DistBelief
+- [List of Reading](http://deeplearning.net/reading-list/)
+- [List of Deeplearning](https://github.com/GunhoChoi/Deep_Learning_Collection): Gunho-Choi 모음
 
 ## Paper
+![](http://andrewyuan.github.io/img/DeepLearning.png)
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
 * [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
@@ -22,6 +27,9 @@
 * [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) :
 - [PathNet: Evolution Channels Gradient Descent in Super
 Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
+- [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771): 딥러닝의 정확도가 높은 원인으로 `unrolled iterative estimation`로 설명한 논문 (기존:각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view")
+- [Neural Machine Translation and Sequence-to-sequence Models:
+A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을 이용한 기계 번역
 
 
 ## eBook/ Tutorial
@@ -34,8 +42,10 @@ Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
+- [Deeploearning Workflow](https://github.com/adioshun/DeepLearningProjectWorkflow): Andrew Ng's recommended machine learning workflow
 
-
+## Deep Visualization toolbox
+- [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis):
 
 
 ## 추천 모델들
@@ -45,6 +55,7 @@ Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
 * [SyntaxNet](http://cpuu.postype.com/post/166917/) : 구글이 자연어 처리(정확히는 자연어 이해)를 수행하는 코드, [[설치]](http://cpuu.postype.com/post/197684/)
 * [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
 * [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) : Biomedical Image Segmentation 참고용
+- [YOLO](https://pjreddie.com/darknet/yolo/) : 실시간 Object탐지용
 
 ###### CNN/ILSVRC 우승 모델
 * [2012_AlexNet]

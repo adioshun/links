@@ -15,6 +15,7 @@
 # 구현
 * [SimGan](https://github.com/wayaai/SimGAN)
 * [SimGAN_NYU_Hand](https://github.com/shinseung428/simGAN_NYU_Hand) : Simulated+Unsupervised (S+U) learning in TensorFlow /w NYU Hand Dataset
+- [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6uamvl61e): Dev Nag's 미디엄 포스트
 
 # Project
 

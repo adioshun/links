@@ -21,6 +21,8 @@
 * [ppt: Google TensorFlow Tutorial](https://www.slideshare.net/tw_dsconf/tensorflow-tutorial) : 김성훈 교수 추천 자료
 * [ppt: Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1), [[Github]](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice/)
 * [pdf: TensorFlow Worksop](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) : [김성훈교수 추천] 간단한 모델, 데이터 읽기, Word2Vec, 인셥션 모델 재사용, hyperparameter 자동튜닝, TensorBoard, [[GitHub]](https://github.com/amygdala/tensorflow-workshop)
+- [텐서플로우 - 파일에서 학습데이타를 읽어보자#2 CSV 파일을 읽어보자](http://bcho.tistory.com/1165)
+
 
 ### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)
@@ -30,3 +32,7 @@
 
 ### TensorBoard
 * [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
+
+### Rasperry Pi
+![](https://cdn-images-1.medium.com/max/800/1*kZAy4r4H-RBtczsv8o1kfA.png)
+- [TensorFlow Image Recognition on a Raspberry Pi](https://blog.insightdatascience.com/tensorflow-image-recognition-on-a-raspberry-pi-3645a1634c66#.d2avqp25i)

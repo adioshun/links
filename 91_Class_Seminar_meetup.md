@@ -22,7 +22,8 @@
 ##### 6.S191: Introduction to Deep Learning
 http://introtodeeplearning.com/
 
-
+###### 스탬포드 CS224N Winter17
+- [GitHub: 강의노트](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
 ###### Convolutional Neural Networks for Visual Recognition
   * [홈페이지](http://cs231n.github.io/convolutional-networks/), [[링크]](http://cs231n.github.io/), [[Syllabus]](http://cs231n.stanford.edu/syllabus.html), [[Course Project]](http://cs231n.stanford.edu/reports2016.html)

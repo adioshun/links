@@ -6,10 +6,12 @@
 * [MS Python을 사용한 프로그래밍 소개(한글](https://mva.microsoft.com/ko/training-courses/python%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%86%8C%EA%B0%9C-8360?l=CrrhO0O8_6204984382)
 
 
+# Reference
+- [CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
 
 # Tutorial
 * [Fluent Python](https://github.com/fluentpython/notebooks) : 쥬피터 코드
-
+* ['Python 분석과 프로그래밍' 45건](http://rfriend.tistory.com/category/Python%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D): R Friend 블로그
 
 # Python/Numpy
 * [Python 강좌 모음](http://todd.tistory.com/554)

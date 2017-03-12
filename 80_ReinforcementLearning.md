@@ -20,6 +20,30 @@
 * [ppt_InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 * [강화 학습 기초 Reinforcement Learning an introduction](https://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079) : 김태훈(carpedm20)
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
+- [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
+
+# A3C
+- Asynchronous Advantage Actor-Critic (A3C), [[분석글]](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/), [[논문]](https://arxiv.org/pdf/1602.01783.pdf)
+- DQN의 단점을 보안한 제안(2016)
+
+
+# Tutorial
+- [GitHub: Practical_RL](https://github.com/yandexdataschool/Practical_RL) : HSE대학교 강의 자료
+- [강화학습 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705): 모두의 연구실 자료
+  - 1. Introduction to OpenAI
+  - 2-1. Intro to Reinforcement Learning (1) MDP & Value Function
+  - 2-2. Intro to Reinforcement Learning (2) Q Learning
+  - 3-1. CartPole with Deep Q Learning (1) CartPole example  
+  - 3-2. CartPole with Deep Q Learning (2) DQN
+  - 3-3. CartPole with Deep Q Learning (3) TensorFlow
+  - 3-4. CartPole with Deep Q Learning (4) Code review
+  - 4-1. CartPole with Policy Gadient (1) Policy Gradient
+  - 4-2. CartPole with Policy Gadient (2) Code review
+  - 5-1. about Atari games
+  - 5-2. Atari "Pong"
+  - 5-3. Atari "Breakout"
+
+6. MuJoCo
 
 # Paper
 - [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274) : Yuxi Li

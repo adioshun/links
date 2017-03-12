@@ -8,6 +8,9 @@
 * [Denoising Autoencoder demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/autoencoder.html)
 
 
+## API
+- [Recognizing objects in videos](https://getpocket.com/a/read/1646058449): Google
+
 ## TensorFlow Implementation
 * [List of Awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations/blob/master/README.md) : 페이스북 그룹 텐서플로우 코리아 관리
 * [TensorFlow Models](https://github.com/tensorflow/models) : Google관리
@@ -27,8 +30,6 @@
 
 
 ## Project
-
-
 ### 행동파악(Predict human action)
 * [Predicting Future Human Behavior with Deep Learning](http://www.kdnuggets.com/2016/09/predicting-future-human-behavior-deep-learning.html)
 
@@ -45,10 +46,11 @@
 * [Image Resolution](https://github.com/alexjc/neural-enhance?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more):Neural Enhance: Super Resolution for images using deep learning.[6,057 stars on Github]
 * [GitHub: Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 - [Super-Resolution using Coordinate-Based Neural Networks](http://liviu.me/blog/super-resolution-using-coordinates-networks) : Liviu Pirvan
+- [Faces from Noise: Super Enhancing 8x8 Images with EnhanceGAN](https://medium.com/@richardherbert/faces-from-noise-super-enhancing-8x8-images-with-enhancegan-ebda015bb5e0#.uw87ku3ns): Richard Herbert's 미디엄 포스트
 
 
-
-### 영문법 교정
+### 번역/작문/영문법 교정
+* [GitHub: OpenNMT: Open-Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT): 오픈소스 번역
 * [Grammatical Error Identification](https://arxiv.org/abs/1604.04677) : 영어의 문법도 딥러닝으로 고치기, word2vec 이랑 비슷
 - [Reddit: How do you solve this problem: detecting and correcting incorrect usage of English articles in a given text?](https://www.reddit.com/r/MachineLearning/comments/5woras/d_how_do_you_solve_this_problem_detecting_and/)
 
@@ -73,11 +75,16 @@ Transforming a query image according to an example pair of related images
 자동으로 사진에 대한 설명문을 작성
 * [ppt_A neural image caption generator](http://www.slideshare.net/ssuser06e0c5/a-neural-image-caption-generator) : 김홍배, 한국항곡우주연구원, 2016.07
 * [Image Question Answering](https://github.com/renmengye/imageqa-public) : Exploring Models and Data for Image Question Answering, 2015
+
 ## etc.
 * [Introduction to Trainspotting](http://www.kdnuggets.com/2016/11/introduction-trainspotting.html) : 기차 관찰
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029#.m7fuo0mcw) : 위성사진으로 찍은 사진에서 도로데이타를 추출
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/) : Buzzvil 사내 프로젝트
 * [Sequence to Sequence - Video to Text](http://vsubhashini.github.io/s2vt.html) : Venugopalan et al. "Sequence to sequence-video to text." 2015
+* [Mathpix](http://docs.mathpix.com/#introduction): 수학공식 이미지를 설명(??)이나 latex나 변경
+
+## Rasberry Pi
+- [MTCNN with Motion Detection On Raspberry Pi 3](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
 
 ## 샘플 코드
 
