@@ -183,8 +183,17 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 * [Udacity Driving Dataset](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5#.1aq6pztwj) : Mountain View, 223G(10시간)
 - [INI](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) : 독일 신호등 데이터셋
 - [Udacity_Annotated Driving Dataset](https://github.com/udacity/self-driving-car/tree/master/annotations) : 도로상 차량, 트럭, 보행자 4.5GB
-- [KITTI](http://www.cvlibs.net/datasets/kitti/):
+- [KITTI](http://www.cvlibs.net/datasets/kitti/): 동영상??
 - [GTI](http://www.gti.ssr.upm.es/data/Vehicle_database.html): 차량 이미지 데이터셋
+- [CMU Visual Localization Data Set](http://3dvis.ri.cmu.edu/data-sets/localization/): Dataset collected using the Navlab 11 equipped with IMU, GPS, Lidars and cameras.
+- [NYU RGB-D Dataset](http://cs.nyu.edu/~silberman/datasets/): Indoor dataset captured with a Microsoft Kinect that provides semantic labels.
+- [TUM RGB-D Dataset](http://cvpr.in.tum.de/data/datasets/rgbd-dataset): Indoor dataset captured with Microsoft Kinect and high-accuracy motion capturing.
+- [New College Dataset](http://www.robots.ox.ac.uk/NewCollegeData/): 30 GB of data for 6 D.O.F. navigation and mapping (metric or topological) using vision and/or laser.
+- [The Rawseeds Project](http://www.rawseeds.org/): Indoor and outdoor datasets with GPS, odometry, stereo, omnicam and laser measurements for visual, laser-based, omnidirectional, sonar and multi-sensor SLAM evaluation.
+- [Victoria Park Sequence](http://www-personal.acfr.usyd.edu.au/nebot/victoria_park.htm): Widely used sequence for evaluating laser-based SLAM. Trees serve as landmarks, detection code is included.
+- [Malaga Dataset 2009](http://www.mrpt.org/Paper:Malaga_Dataset_2009) and [Malaga Dataset 2013](http://www.mrpt.org/MalagaUrbanDataset): Dataset with GPS, Cameras and 3D laser information, recorded in the city of Malaga, Spain.
+- [Ford Campus Vision and Lidar Dataset](http://robots.engin.umich.edu/SoftwareData/Ford): Dataset collected by a Ford F-250 pickup, equipped with IMU, Velodyne and Ladybug.
+
 
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)
