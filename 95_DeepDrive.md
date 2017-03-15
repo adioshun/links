@@ -113,6 +113,7 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 * [Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.2baik24s1) : 차량 인식 제안 방안 설명
 - [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개
 - <del>[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.79czobkvx) : Kaspar Sakmann, svm과 YOLO비교 </del>
+- [Towards a real-time vehicle detection: SSD multibox approach](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.dlc43ymgv): Vivek Yadav
 
 ### 2.6 강사 코멘트
 - [Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1) : Behavioral Cloning
