@@ -1,3 +1,52 @@
+# 기초 강좌
+1. 기본
+  - <del> [Basics of TensorFlow](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_tensorflow.ipynb): 텐서플로우 변수, 상수 처리법 </del>
+  - <del> [MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_mnist.ipynb): 이미지 읽기 부분만 </del>
+  - <del> [Numpy](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_python.ipynb): numpy, Matplot기초 </del>
+  - <del> [Image Processing](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_imgprocess.ipynb): 이미지 읽기, 크기조절 등 </del>
+  - <del>[Generating Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_gendataset.ipynb): Helper 함수, 기능 </del>
+2. Machine Learing Basics with TensorFlow:
+  - <del>[Linear Regression](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/linear_regression.ipynb): 난수 생성후 리그레이션 수행 W,b 맞추기 </del>
+  - [Logistic Regression with MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/logistic_regression_mnist.ipynb)
+  - [Logistic Regression with Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/logistic_regression_customdata.ipynb)
+3. Multi-Layer Perceptron (MLP)
+  - [Simple MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/mlp_mnist_simple.ipynb)
+  - [Deeper MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/mlp_mnist_deeper.ipynb)
+  - [Xavier Init MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/mlp_mnist_xavier.ipynb)
+  - [Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/mlp_customdata_basic.ipynb)
+4. Convolutional Neural Network (CNN)
+  - [Simple MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cnn_mnist_simple.ipynb)
+  - [Deeper MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cnn_mnist_basic.ipynb)
+  - [Simple Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cnn_customdata_simple.ipynb)
+  - [Basic Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cnn_customdata_basic.ipynb)
+5. Using Pre-trained Model (VGG)
+  - [Simple Usage](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/use_vgg.ipynb)
+  - [CNN Fine-tuning on Custom Dataset](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cnn_customdata_vgg_finetune.ipynb)
+6. Recurrent Neural Network (RNN)
+  - [Simple MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/rnn_mnist_simple.ipynb)
+  - [Char-RNN Train](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/char_rnn_train_tutorial.ipynb)
+  - [Char-RNN Sample](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/char_rnn_sample_tutorial.ipynb)
+  - [Hangul-RNN Train](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/char_rnn_train_hangul.ipynb)
+  - [Hangul-RNN Sample](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/char_rnn_sample_hangul.ipynb)
+7. Word Embedding (Word2Vec)
+  - [Simple Version](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/word2vec_simple.ipynb)
+  - [Complex Version](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/word2vec_basic.ipynb)
+8. Auto-Encoder Model
+  - [Simple Auto-Encoder](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/dae_mnist.ipynb)
+  - [Denoising Auto-Encoder](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/dae_mnist_dropout.ipynb)
+  - [Convolutional Auto-Encoder (deconvolution)](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/cae_mnist.ipynb)
+9. Class Activation Map (CAM): [Global Average Pooling on MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/gap_mnist.ipynb)
+10. TensorBoard Usage: [Linear Regression](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/vis_linear_regression.ipynb) / [MLP](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/vis_mlp_mnist.ipynb) / [CNN](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/vis_cnn_mnist.ipynb)
+11. [Semantic segmentation](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/semseg_basic.ipynb)
+12. [Super resolution (in progress)](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/superres_cnn.ipynb)
+13. [Web crawler](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/webcrawling_naverstock.ipynb)
+14. [Gaussian process regression](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/gp_demo.ipynb)
+15. [Neural Style](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/neural_style.ipynb)
+16. [Face detection with OpenCV](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_opencv2.ipynb)
+
+
+
+
 # [Tool]텐서 플로우 참고 자료
 * [Tensorflow Official Tutorial_CNN](https://www.tensorflow.org/tutorials/deep_cnn/)
 * [Tensorflow Official Tutorial_Image Recognition](https://www.tensorflow.org/tutorials/image_recognition/)
