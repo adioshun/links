@@ -1,28 +1,52 @@
-# GAN
-* [논문_NIPS 2016 Tutorial:Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160v1.pdf),[youtube](http://fbsight.com/t/goodfellow-gan-nips-2016-tutorial/59058)
-* [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
-* [ppt_InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
-* [번역 : Generative Adversarial Network (GAN) 설명](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)
+# Article / Blog
 
+* [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
+
+* [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.pjokxgjca)
+
+- [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.jmn4i02yi)
+
+- <del>[GAN 그리고 Unsupervised Learning](http://t-robotics.blogspot.com/2017/03/gan-unsupervised-learning.html#.WNGonCErJxB): 개요로 읽기 적당한글, t-robotics블로그, 테크M 투고글</del>
+
+* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets: [논문](https://arxiv.org/abs/1606.03657),  [ppt정리](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
+
+
+* NIPS 2016 Tutorial:Generative Adversarial Networks: [논문](https://arxiv.org/pdf/1701.00160v1.pdf),[youtube](http://fbsight.com/t/goodfellow-gan-nips-2016-tutorial/59058), 논문 및 저자 설명
 
 # 논문
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828v1.pdf) : Ashish Shrivastava, Apple, 216
  * the blueprint for training state-of-the-art neural nets from only __synthetic__ and unlabelled data
  * 영문 정리 글 : [SimGANs - a game changer in unsupervised learning, self driving cars, and more](https://medium.com/waya-ai/simgans-applied-to-autonomous-driving-5a8c6676e36b#.tcbuo9za5)
+- Improved Techniques for Training GANs: [논문](https://arxiv.org/abs/1606.03498)
 
+### 초짜 대학원생 입장에서 이해하는
+
+- Generative Adversarial Nets논문 분석 : [# 1](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html), [# 2](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
+
+- Domain-Adversarial Training of Neural Networks (DANN) : [#1](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html), [#2](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-2.html), [#3](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural-3.html)
+
+- Deep Convolutional Generative Adversarial Network (DCGAN): [#1](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html), [#2](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html)
+
+- Unrolled Generative Adversarial Networks: [#1](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html), [#2](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 
 
 # 구현
-* [SimGan](https://github.com/wayaai/SimGAN)
+* [SimGan](https://github.com/wayaai/SimGAN): Keras 코드
+
+- An introduction to Generative Adversarial Networks (with code in TensorFlow): [원문](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/), [정리](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html), [GitHub](https://github.com/AYLIEN/gan-intro)
+
+
 * [SimGAN_NYU_Hand](https://github.com/shinseung428/simGAN_NYU_Hand) : Simulated+Unsupervised (S+U) learning in TensorFlow /w NYU Hand Dataset
+
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.6uamvl61e): Dev Nag's 미디엄 포스트
 
-# Project
+- [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 
+- [DiscoGAN](https://github.com/SKTBrain/DiscoGAN): SKTBrain, Pythrch기반
+  - [DiscoGAN 설명자료](https://www.facebook.com/notes/sk-t-brain/sk-t-brain-research/398821727155314)
+  - [DiscoGAN Arxiv 논문 링크](https://arxiv.org/abs/1703.05192)
+  - [Taehoon Kim 님이 구현하신 DiscoGAN 소스코드](https://github.com/carpedm20/DiscoGAN-pytorch)
+  - [wiseodd 님이 구현하신 DiscoGAN 소스코드](https://github.com/…/generative-m…/tree/master/GAN/disco_gan)
+- [List of generative models](https://github.com/wiseodd/generative-models): 거의 모든 GAN코드 모음
 
-
-# Article / Blog
-* [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
-* [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.pjokxgjca)
-- [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.jmn4i02yi)
-- [[AI기획]경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
+- Deep Convolutional GAN(DCGAN): Tensorflow,  [code](https://github.com/carpedm20/DCGAN-tensorflow),  [demo](http://carpedm20.github.io/faces/)

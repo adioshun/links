@@ -2,7 +2,6 @@
 * [List of Python 강좌](http://todd.tistory.com/554)
 
 
-
 ## 가전대 강의 자료 Gachon CS50 프로그래밍 입문 with Python
 * [Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
 * [TeamLab](https://www.youtube.com/channel/UC_kvhNYJtP1-Ap67byTbfuw)
@@ -15,7 +14,10 @@
 
 ## PANDAS
 * [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-
+- [Top 8 resources for learning data analysis with pandas](http://www.dataschool.io/best-python-pandas-resources/)
+- [Pandas Tutorial: Data analysis with Python: Part 1](https://www.dataquest.io/blog/pandas-python-tutorial/)
+- [Pandas Basics](https://www.learnpython.org/en/Pandas_Basics)
+- [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.g6j5CcI) : 데이터 캠프 11개 강좌
 
 # Reference
 - [CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)

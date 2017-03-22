@@ -39,6 +39,8 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
 * A Neural Network in 11 lines of Python
   * [Part 1](http://iamtrask.github.io/2015/07/12/basic-python-network/) : low-level 단위 구현으로 알아 보는 뉴럴네트워크
+- [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md): 도커를 이용한 인터엑티브 서적
+
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.

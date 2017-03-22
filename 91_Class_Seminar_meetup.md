@@ -22,12 +22,14 @@
 ##### 6.S191: Introduction to Deep Learning
 http://introtodeeplearning.com/
 
-###### 스탬포드 CS224N Winter17
+###### 스탠포드 CS224N Winter17
 - [GitHub: 강의노트](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
-###### Convolutional Neural Networks for Visual Recognition
+###### 스탠포드cs231n: Convolutional Neural Networks for Visual Recognition
   * [홈페이지](http://cs231n.github.io/convolutional-networks/), [[링크]](http://cs231n.github.io/), [[Syllabus]](http://cs231n.stanford.edu/syllabus.html), [[Course Project]](http://cs231n.stanford.edu/reports2016.html)
-  * [[Download]](https://archive.org/download/cs231n-CNNs),[[번역1]](http://aikorea.org/cs231n/)[[번역2]](http://ishuca.tistory.com/381),[[CS231n 강좌가 닫혔습니다.]](https://tensorflow.blog/2016/05/04/stanford-cs231n-%EA%B0%95%EC%A2%8C%EA%B0%80-%EB%8B%AB%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4/)
+  - [Youtube](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
+  * [Download](https://archive.org/download/cs231n-CNNs),[[번역1]](http://aikorea.org/cs231n/)[[번역2]](http://ishuca.tistory.com/381),[자막](https://github.com/aikorea/cs231n/tree/master/captions/Ko)
+  - [CS231n 강좌가 닫혔습니다.](https://tensorflow.blog/2016/05/04/stanford-cs231n-%EA%B0%95%EC%A2%8C%EA%B0%80-%EB%8B%AB%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4/)
 
 ######  스탠포드대 CS 20SI: Tensorflow for Deep Learning Research
 * [GitHub: Assignments3_ChatBot 만들기](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)

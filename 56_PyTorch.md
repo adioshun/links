@@ -11,3 +11,5 @@
   - Part 2: Matrices and Linear Algebra in PyTorch
   - Part 3: Building a Feedforward Network (starting with a familiar one)
   - Part 4: The State of PyTorch
+
+- [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
