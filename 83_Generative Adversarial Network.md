@@ -1,5 +1,8 @@
 # Article / Blog
 
+- 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow): [[추천]: youtube](https://youtu.be/soJ-wDOSCf4?t=1m47s), 김태훈, PyCon APAC 2016
+
+
 * [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
 
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.pjokxgjca)

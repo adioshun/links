@@ -84,6 +84,8 @@
 
 ### TensorBoard
 * [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
+- [Youtube: 모두를 위한 딥려닝](https://youtu.be/eDKxY5Z5dVQ)
+- [Youtube: 강의중 일부](https://youtu.be/DYlHnxfrrZY?t=51m43s)
 
 ### Rasperry Pi
 ![](https://cdn-images-1.medium.com/max/800/1*kZAy4r4H-RBtczsv8o1kfA.png)
