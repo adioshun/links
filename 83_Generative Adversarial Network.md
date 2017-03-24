@@ -36,8 +36,9 @@
 # 구현
 * [SimGan](https://github.com/wayaai/SimGAN): Keras 코드
 
-- An introduction to Generative Adversarial Networks (with code in TensorFlow): [원문](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/), [정리](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html), [GitHub](https://github.com/AYLIEN/gan-intro)
+- An introduction to Generative Adversarial Networks (with code in TensorFlow): [원문](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/), <del>[정리](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)</del>, [GitHub](https://github.com/AYLIEN/gan-intro)
 
+- Least Squares Generative Adversarial Networks[(LSGAN)](https://github.com/GunhoChoi/GAN_simple/blob/master/LSGAN/LSGAN_TF.ipynb), [구현시 어려웠던점](https://m.facebook.com/groups/TensorFlowKR/?view=permalink&id=434490703558660)
 
 * [SimGAN_NYU_Hand](https://github.com/shinseung428/simGAN_NYU_Hand) : Simulated+Unsupervised (S+U) learning in TensorFlow /w NYU Hand Dataset
 

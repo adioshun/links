@@ -155,6 +155,8 @@ P5: Vehecle Detection
 - Andrew Wilkie(Keras활용): [P1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.ucg0skl79), [P2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-4-c75150cf93d5#.7yds41cdl), [P3](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-5-63d2daab4591#.zfartnf4j), [P4](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.fxotng3xb), P5
 - ooo: [P1](), [P2](), [P3](), [P4](), [P5]()
 
+- [추천] 한글_전체 코드 제공 [[GitHub]](http://blog.naver.com/windowsub0406)
+
 # 2. Nexar
 Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이지](https://www.getnexar.com/), [Challenge](https://www.getnexar.com/challenges/)
 - You can compete to win prizes (1st place $5,000, 2nd place $2,000, 3rd place iPhone 7)
