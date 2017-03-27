@@ -1,3 +1,5 @@
+- [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision): Jiwon Kim
+
 # NL/CNN
 
 * [UCLA CNN] A Beginner’s Guide To Understanding Convolutional Neural Networks
@@ -30,10 +32,11 @@
 * [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
 
 * [이미지 분석에 꼭 필요한 딥러닝 기술을 정리한 자료](http://fbsight.com/t/topic/3024)
-* [List_Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+
 * [ppt : Deep Learning in Computer Vision](https://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160) : Sungjoon Samuel 작성
 * [ppt: Convolutional neural network in practice](https://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 
+* [ppt_CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 
 # Paper
 - [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
