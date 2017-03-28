@@ -7,6 +7,7 @@
   - [[Step2]](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
   - [[Step3]](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html?ref=mybridge.co?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
+- [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 * 조대협의 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해
   - [개요](http://bcho.tistory.com/1149)
@@ -40,3 +41,5 @@
 
 # Paper
 - [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
+
+- [Faster R-CNN한글 정리](https://curt-park.github.io/2017-03-17/faster-rcnn/)

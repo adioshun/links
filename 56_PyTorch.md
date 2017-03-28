@@ -13,3 +13,9 @@
   - Part 4: The State of PyTorch
 
 - [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
+
+# Implementation
+
+- [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
+
+- [Simple RNN](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)

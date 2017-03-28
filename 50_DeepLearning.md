@@ -1,6 +1,6 @@
 ![](http://api.ning.com/files/0qR8BrPZ-VZNxGOCc9HIXhtVdu4FIxXA3BKWwtrYkXQ0nvVO1yOJKU76E4LcCd3ln-bdReqYkhipURC00JjlWMTMOr340TB9/ML87i.png)
 
-# DeepLearning
+# List
 * [List_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
 * [DeepLearning Gallery](http://deeplearninggallery.com) : List of awesome Deep Learning Projects
@@ -17,8 +17,11 @@ Theano, Caffe, MXNet, Apache, SystemML, BigDL, DistBelief
 - [List of Reading](http://deeplearning.net/reading-list/)
 - [List of Deeplearning](https://github.com/GunhoChoi/Deep_Learning_Collection): Gunho-Choi 모음
 
+
 ## Paper
 ![](http://andrewyuan.github.io/img/DeepLearning.png)
+
+- [List of Deep Learning Papers Reading Roadmap]9https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): 논문 읽기 로드맵
 * [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
 * [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
@@ -31,6 +34,14 @@ Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
 - [Neural Machine Translation and Sequence-to-sequence Models:
 A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을 이용한 기계 번역
 
+- [Failures of Deep Learning](https://arxiv.org/abs/1703.07950): 딥러닝의 제약(??)
+
+- [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039): 추천, 튜토리얼
+  1. DNN 디자인 요소에 대한 이해
+  2. 여러 DNN 하드웨어 벤치마크를 평가할 수 있게 됨.
+  3. 다양한 DNN 아키텍쳐와 플랫폼 비교
+  4. DNN 디자인을 여러 테크닉과 프로세스 이해
+  5. 최신 트렌드와 연구 기회 포착 등
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)
@@ -49,8 +60,10 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 ## Deep Visualization toolbox
 - [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis):
 
+- [Tensorflow PlayGround](http://playground.tensorflow.org)
 
 ## 추천 모델들
+- [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba): 유명한 모델들 전체 설명 
 * [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기
 * [DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)
@@ -97,3 +110,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 # Datasets
 - 얼굴 이미지 : [PubFig](http://www.cs.columbia.edu/CAVE/databases/pubfig/)
+
+
+###### [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
+![](https://qph.ec.quoracdn.net/main-qimg-7cf7b440214805b55069d5a676312145-p)

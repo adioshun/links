@@ -22,13 +22,22 @@
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 - [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
 
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): 진화알고리즘 적용, OpenAI
+
+
+
 # A3C
+
 - Asynchronous Advantage Actor-Critic (A3C), [[분석글]](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/), [[논문]](https://arxiv.org/pdf/1602.01783.pdf)
+
 - DQN의 단점을 보안한 제안(2016)
 
 
 # Tutorial
+
 - [GitHub: Practical_RL](https://github.com/yandexdataschool/Practical_RL) : HSE대학교 강의 자료
+
+
 - [강화학습 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705): 모두의 연구실 자료
   - 1. Introduction to OpenAI
   - 2-1. Intro to Reinforcement Learning (1) MDP & Value Function
@@ -42,6 +51,7 @@
   - 5-1. about Atari games
   - 5-2. Atari "Pong"
   - 5-3. Atari "Breakout"
+
 
 6. MuJoCo
 
@@ -58,6 +68,8 @@
 # Implementation
 * [A set of Deep Reinforcement Learning Agents implemented in Tensorflow.](https://github.com/awjuliani/DeepRL-Agents) : Reinforcement Learning with TensorFlow&OpenAI Gym강의
 * [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 (CatchGame)](http://solarisailab.com/archives/486)
+
+- [Human-Level Control through Deep Reinforcement Learning](https://github.com/songrotek/DQN-tensorflow): Songrotek, DQN-Tensorflow
 
 ## 4. Simple Reinforcement Learning with Tensorflow
 * [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.ghnfibna9), [[번역]](http://ishuca.tistory.com/391)

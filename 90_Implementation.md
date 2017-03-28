@@ -57,7 +57,12 @@
 
 
 ### 이미지 탐지 / 식별 / 추적
+
 * [YOLO_tensorflow](https://getpocket.com/a/read/1228390039) : Real-Time Object Detection
+
+- [YoLo기술 설명](https://curt-park.github.io/2017-03-26/yolo/)
+
+- [Jupyter Yolo](https://github.com/adioshun/jupyter/blob/master/5_%EB%AF%B8%EB%B6%84%EB%A5%98_%EC%88%98%EC%A7%91%EC%9E%90%EB%A3%8C/Yolo.ipynb)
 
 
 ### 여러형상의 이미지 유추생성(Deep Visual Analogy-Making)
@@ -75,6 +80,7 @@ Transforming a query image according to an example pair of related images
 자동으로 사진에 대한 설명문을 작성
 * [ppt_A neural image caption generator](http://www.slideshare.net/ssuser06e0c5/a-neural-image-caption-generator) : 김홍배, 한국항곡우주연구원, 2016.07
 * [Image Question Answering](https://github.com/renmengye/imageqa-public) : Exploring Models and Data for Image Question Answering, 2015
+- [Neural Image Captioning using TensorFlow](https://github.com/fregu856/CS224n_project): GitHub, CS224n_project
 
 ## etc.
 * [Introduction to Trainspotting](http://www.kdnuggets.com/2016/11/introduction-trainspotting.html) : 기차 관찰

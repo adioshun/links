@@ -53,4 +53,9 @@
   - [wiseodd 님이 구현하신 DiscoGAN 소스코드](https://github.com/…/generative-m…/tree/master/GAN/disco_gan)
 - [List of generative models](https://github.com/wiseodd/generative-models): 거의 모든 GAN코드 모음
 
+- [DCGAN-MNIST](https://github.com/erilyth/DCGANs): Keras버젼, erilyth
+
+- [Variational Auto-Encoder (VAE)](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+
+
 - Deep Convolutional GAN(DCGAN): Tensorflow,  [code](https://github.com/carpedm20/DCGAN-tensorflow),  [demo](http://carpedm20.github.io/faces/)

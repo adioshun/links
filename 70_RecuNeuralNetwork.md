@@ -17,6 +17,19 @@
 
 * Understanding LSTM Networks: colah's Blog [원문]((http://colah.github.io/posts/2015-08-Understanding-LSTMs/), <del>[번역1](https://brunch.co.kr/@chris-song/9)</del>, [번역2](http://whydsp.org/280)
 
+- [ppt: Introduction For seq2seq(sequence to sequence) and RNN](https://www.slideshare.net/HyeminAhn/introduction-for-seq2seqsequence-to-sequence-and-rnn)
+
+- [4 APPROACHES TO NATURAL LANGUAGE PROCESSING & UNDERSTANDING](http://www.topbots.com/4-different-approaches-natural-language-processing-understanding): LP의 4가지 다른 접근방법
+1. Distributional : 최근 유행하는 ML이 여기죠~ 폭은 넓힐 수 있지만, 깊이는 잡지 못함
+2. Frame-based: 마빈 민스키 ... 논리적 semantics 에 강점. 확고한 supervision이 존재해야 한다는 큰 단점이~
+3. Model-theoretical: Q/A와 rich semantics의 장점. labor-intensive and narrow in scope (프레임 기반보다 더함)
+4. Interactive learning: language as a cooperative game between speaker and listener ... 이게 앞으로 제일 promising 하지 않을까?
+```
+이 개념이 재미있네요.
+1. Syntax – what is grammatical? : “no compiler errors”
+2. Semantics – what is the meaning?: “no implementation bugs”
+3. Pragmatics – what is the purpose or goal?: “implemented the right algorithm.” ... 사실 목표는 여기!
+```
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/): RNN의 선능
 
 - [RNN Regularizations](http://nmhkahn.github.io/RNN-Regularizations): RNN 오버피팅 문제 해결법 정리
@@ -35,11 +48,19 @@
 
 # Tutorial
 
+- [음성인식 관련 텐서플로우 RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/): TensorFlow RNN Tutorial, 2017.03.23
+
 * [모두의 연구소:RNN과 LSTM - 쫄지말자 딥러닝](http://www.modulabs.co.kr/DeepLAB_library/11886)
 
 # Implemetation
 
 * [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+
+- [모두를 위한 딥러닝 RNN자료](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-12-1-hello-rnn.py): lab-12-1-hello-rnn.py
+
+- [Hello_LSTM](https://github.com/skyer9/hello_lstm/blob/master/hello_lstm.py)
+
+- [hello_sequence.py](https://gist.github.com/pannous/b3f8ab944a85b33e694de21c6ded029e): simple Sequence-to-sequence model with an attention mechanism
 
 # Papers
 - [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619)

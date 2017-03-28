@@ -16,6 +16,7 @@
 * [추천: Review of Keras (Deep Learning) Core Layers](https://www.picnet.com.au/blogs/guido/post/2016/05/16/review-of-keras-deep-learning-core-layers/)
 - [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html) : CNN의 인식 결과를 시각화하여 확인할수 있는 방법, 논문 작성이나 시각화시 활용 가능
 
+- [Integrating Keras & TensorFlow: The Keras workflow, expanded (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=UeheTiBJ0Io&feature=youtu.be)
 
 # 구현
 * [RNN 기본 구조와 Keras를 사용한 RNN 구현](https://www.datascienceschool.net/view-notebook/1d93b9dc6c624fbaa6af2ce9290e2479/)
