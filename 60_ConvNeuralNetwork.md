@@ -43,3 +43,5 @@
 - [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
 
 - [Faster R-CNN한글 정리](https://curt-park.github.io/2017-03-17/faster-rcnn/)
+
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870): 얀쿤 추천 논문

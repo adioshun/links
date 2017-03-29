@@ -157,7 +157,20 @@ P5: Vehecle Detection
 
 - [추천] 한글_전체 코드 제공 [[GitHub]](http://blog.naver.com/windowsub0406)
 
-# 2. Nexar
+# Affordable Self-Driving Cars
+- 토론토 대학교 [Raquel Urtasun 교수](http://www.cs.toronto.edu/~urtasun/) 연구팀
+
+- [ppt: Towards Affordable Self-Driving Cars](http://www.nasonline.org/programs/sackler-forum/frontiers-of-machine-learning/urtasun-ppt.pdf)
+
+### Youtube
+- [Raquel Urtasun - Towards Affordable Self-Driving Cars - The Frontiers of Machine Learning](https://www.youtube.com/watch?v=sW4M7-xcseI)
+- [Raquel Urtasun - Q&A - The Frontiers of Machine Learning](https://www.youtube.com/watch?v=-p4YgPgPkXM)
+
+### Paper
+- [TorontoCity: Seeing the World with a Million Eyes](https://arxiv.org/pdf/1612.00423.pdf): 2016
+
+
+# Nexar
 Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이지](https://www.getnexar.com/), [Challenge](https://www.getnexar.com/challenges/)
 - You can compete to win prizes (1st place $5,000, 2nd place $2,000, 3rd place iPhone 7)
 
@@ -168,10 +181,22 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 ## Challenge #2 : Coming Soon
 
-# 3. commai
+# commai
 - [홈페이지]() [[GitHub]](https://github.com/commaai/research)
 - [논문](http://arxiv.org/abs/1608.01230) : Learning a Driving Simulator
 
+
+
+# AutoX
+- 센서 없이 카메라 만으로 자율주행차 구현을 목적으로 함
+
+- [홈페이지](http://autox.ai/): 인트로 동영상외 자료 없음
+
+- [CEO Professor X](http://www.jianxiongxiao.com/?m=1): CEO 프로필
+
+- [AutoX - Self Driving Car startup that makes sense](https://medium.com/@mslavescu/autox-self-driving-car-startup-that-makes-sense-301b3a955979): Meduim 소개글
+
+- [신문 소개글](http://www.businessinsider.com/autox-ceo-jianxiong-xiao-interview-2017-3)
 
 # Article
 - [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)

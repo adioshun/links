@@ -2,7 +2,12 @@
 
 비디오 파일, 강의자료(ppt, Jupyter) 등을 포함한 대학교, 컨퍼런스, 세미나 자료등 모음입니다.
 
-###### Washington University : Applications of Deep Neural Networks [Spring 2017]
+###### 토론토 대학교 CSC2541: Visual Perception for Autonomous Driving [Winter 2016]
+- Homepage : [Toronto](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+
+- 세미나 형식의 수업(??), 커리큘럼 및 주요 논문 리스트 제공
+
+###### 워싱텅 대학교: Applications of Deep Neural Networks [Spring 2017]
 * Homepage : [Washington University ](https://sites.wustl.edu/jeffheaton/t81-558/) , [Youtube](https://youtu.be/gfOcjfIc0Nc?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN), [GitHub](https://github.com/jeffheaton/t81_558_deep_learning)
 * [1주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)
 * [2주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)
