@@ -9,6 +9,8 @@
 
 - [How do GANs intuitively work?](https://hackernoon.com/how-do-gans-intuitively-work-2dda07f247a1#.jmn4i02yi)
 
+- [Fantastic GANs and where to find them](http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them): GAN의 여러 모형들 설명
+
 - <del>[GAN 그리고 Unsupervised Learning](http://t-robotics.blogspot.com/2017/03/gan-unsupervised-learning.html#.WNGonCErJxB): 개요로 읽기 적당한글, t-robotics블로그, 테크M 투고글</del>
 
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets: [논문](https://arxiv.org/abs/1606.03657),  [ppt정리](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)

@@ -198,6 +198,10 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 - [신문 소개글](http://www.businessinsider.com/autox-ceo-jianxiong-xiao-interview-2017-3)
 
+# SegNet
+- [Homepage](http://mi.eng.cam.ac.uk/projects/segnet/): 캠프리지
+- [논문](https://arxiv.org/pdf/1511.00561.pdf)
+
 # Article
 - [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 - [Towards a real-time vehicle detection: SSD multibox approach](https://medium.com/@vivek.yadav/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.cldxjz489) : Vivek Yadav
@@ -229,6 +233,7 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 # Lab
 - [버클리대 DeepDrive](http://bdd.berkeley.edu) : 선진 연구 분야 살펴 보기 좋음
+
 
 # Startups
 - [NAUTO](https://medium.com/self-driving-cars/startup-watch-nauto-1fc88c00a809#.51ybxti2k)

@@ -1,6 +1,6 @@
 - [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision): Jiwon Kim
 
-# NL/CNN
+- [What is the class of this image ?](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html): 경진대회 우수 방식 및 논문 리스트
 
 * [UCLA CNN] A Beginner’s Guide To Understanding Convolutional Neural Networks
   - [[Step1]](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
