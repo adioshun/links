@@ -81,3 +81,8 @@ CAN-Bus Board for Raspberry Pi  (Instead of OBD2 Connector)
 - [Youtube: DIY OBD2 with an Arduino](https://www.youtube.com/watch?v=mVleYAK-PFs): 2017
   - OBD2 : Unknown
   - Code : Unknown
+
+
+# ADAS
+
+  - [우분투에서 openCV 카메라 영상받기 예제](http://minimonk.net/3238)

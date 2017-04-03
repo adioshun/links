@@ -96,13 +96,14 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Self-Driving Car Simulator — Behavioral Cloning](https://medium.com/@jmlbeaujour/self-driving-car-simulator-behavioral-cloning-p3-c9f4338c86b0#.duindt4b0) : Jean-Marc Beaujour
 - [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a#.ix1eccm5j): Matt Harvey, Keras코드 제공
 
+- [Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8): Muddassir Ahmed
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
 ![Line detection](https://cdn-images-1.medium.com/max/800/1*861hYMj2um2xgPzmeaJizQ.png)
-- [Udacity Advance Lane Finding Notes](https://medium.com/@fromtheast/computer-vision-resources-411ae9bfef51#.h7wz91uf6) : A Nguyen
-- <del>[Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.is20rudnp) : Arnaldo Gunzi, 추천 </del>
-* [Advanced Lane Finding](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.trmrym9py) : Milutin N. Nikolic, 추천
-* <Del>[Advanced Lane detection](https://medium.com/@MSqalli/advanced-lane-detection-6a769de0d581#.29pkw239p) : Mehdi Sqalli </del>
+- [Udacity Advance Lane Finding Notes](https://medium.com/@fromtheast/computer-vision-resources-411ae9bfef51#.h7wz91uf6) : An Nguyen, 본문 코드 포함
+- <del>[Advanced Lane Line Project](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.is20rudnp) : Arnaldo Gunzi, 추천 , [GitHub](https://github.com/asgunzi/ArnaldoGunzi_CarNDAdvancedLaneFinding)</del>
+* [Advanced Lane Finding](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.trmrym9py) : Milutin N. Nikolic,[GitHub](https://github.com/ajsmilutin/CarND-Advanced-Lane-Lines) 추천
+* <Del>[Advanced Lane detection](https://medium.com/@MSqalli/advanced-lane-detection-6a769de0d581#.29pkw239p) : Mehdi Sqalli, [GitHub](https://github.com/MehdiSv/AdvancedLineDetection) </del>
 - [Udacity SDCND : Advanced Lane Finding Using OpenCV](https://medium.com/@heratypaul/udacity-sdcnd-advanced-lane-finding-45012da5ca7d#.ht4k5r8p0): Paul Heraty
 - <del>[Self-Driving Car Engineer Diary — 6](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.dxkxvqw6e) : Andrew Wilkie, Keras활용 </Del>
 
@@ -114,6 +115,10 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개
 - <del>[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.79czobkvx) : Kaspar Sakmann, svm과 YOLO비교 </del>
 - [Towards a real-time vehicle detection: SSD multibox approach](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.dlc43ymgv): Vivek Yadav
+
+- [Self Driving Cars: Vehicle Detection](https://medium.com/@andreasdaiminger/self-driving-cars-vehicle-detection-e4b95fc82baf): Andreas Daiminger
+
+- [Vehicle-Tracking with HOG and Linear SVM](https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a): Mithi.xyz
 
 ### 2.6 강사 코멘트
 - [Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1) : Behavioral Cloning
