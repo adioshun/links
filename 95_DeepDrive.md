@@ -66,15 +66,38 @@
 - [Hello Lane Lines](http://www.blog.autonomousd.com/2016/12/hello-lane-lines.html?showComment=1485840449048#c2413863224281126452) : Josh Pierro
 
 ### 2.2 Project 2- Traffic Sign Classifier
+
+- [Traffic signs classification with a convolutional network](https://medium.com/@navoshta/traffic-signs-classification-with-a-convolutional-network-288eb9ebe030): Alex Staravoitau
+
 - <del>[How to identify a Traffic Sign using Machine Learning !!](https://medium.com/@sujaybabruwad/how-to-identify-a-traffic-sign-using-machine-learning-7aa98c871469#.12d91nj06) : Sujay Babruwad</del>
 - <del>[Traffic Sign Classification](https://medium.com/@hengcherkeng/updated-my-99-40-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-5580ae5bd51f#.iobd79qzu) : Cherkeng Heng, [[UPdated]](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8#.lg10dmxg7)</del>
 - <del>[Traffic Sign Classifier: Normalising Data](http://www.jessicayung.com/traffic-sign-classifier-normalising-data/) : 전처리 부분 중심으로, Jessica Yung</del>
 
-#### [다른 소스에서의 자료 ]
+- [How to build a Traffic Sign Classification System with 98.5% accuracy from scratch— | Python | VGG-Net | TensorFlow | GTSRB](https://medium.com/@vamsiramakrishnan/build-a-neural-network-based-traffic-sign-classification-system-with-98-5-ed42a9273a20): 추천, Vamsi Ramakrishnan, [GitHub](https://github.com/vamsiramakrishnan/TrafficSignRecognition.git)
+
+- [UDACITY SDCE Nanodegree: Term 1- Project 2: Traffic Sign Classifier!](https://medium.com/@ckyrkou/udacity-sdc-nanodegree-term-1-project-2-traffic-sign-classifier-8d8a30e735b8): Christos Kyrkou, [GitHub](https://github.com/ckyrkou/Traffic_Sign_Classifier)
+
+- [Machine versus human learning in traffic sign classification](https://chatbotslife.com/machine-versus-human-learning-in-traffic-sign-classification-2819e49e5e9): Arnaldo Gunzi, [GitHub](https://github.com/asgunzi/CarND-Traffic-Sign-Classifier-Project)
+
+- [Convolutional Neural Network for Traffic Sign Classification — CarND](https://medium.com/@gruby/convolutional-neural-network-for-traffic-sign-classification-carnd-e46e95453899): Satya Sheel
+
+- [TSR(Traffic Sign Recognition) using TensorFlow](https://github.com/jjjhoon/TSR_with_DeepLearning): jjjhoon, GitHub
+
 - Traffic Sign Recognition with TensorFlow
   - [확인] [Part1](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.v2g5b44hl) : Image classification with Simple model  [[GitHub]](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
   - Part2() : 아직 작성 안됨,  Convolutional networks, data augmentation, and object detection.
 - [Kaggle : Traffic Sign Recognition](https://inclass.kaggle.com/c/traffic-sign-recognition)
+
+- [Intricacies of Traffic Sign Classification with TensorFlow](https://medium.com/computer-car/intricacies-of-traffic-sign-classification-with-tensorflow-8f994b1c8ba): Param Aggarwal, [GitHub](https://github.com/paramaggarwal/CarND-Traffic-Sign-Classifier-Project)
+
+- Traffic Sign Classification:hengcherkeng, [99.37%](https://medium.com/@hengcherkeng/this-is-a-test-bc767cfaf76e), [Updated! My 99.40% solution](https://medium.com/@hengcherkeng/updated-my-99-40-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-5580ae5bd51f), [Updated! My 99.68% solution](https://medium.com/@hengcherkeng/updated-my-99-68-solution-to-udacity-nanodegree-project-p2-traffic-sign-classification-56840768dec8), [GitHub](https://github.com/hengck23-udacity/udacity-driverless-car-nd-p2/tree/master/submission%28notebook%2Bhtml%29/001)
+
+- [Traffic Sign Recognition with TensorFlow](https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6): Waleed Abdulla, [GitHub](https://github.com/waleedka/traffic-signs-tensorflow/blob/master/notebook1.ipynb)
+
+- [German Traffic Sign Classification Using Deep Learning](https://medium.com/@muddassirahmed/german-traffic-sign-classification-using-deep-learning-219c53fba329): Muddassir Ahmed, [GitHub](https://github.com/muddassir235/German-Traffic-Sign-Classifier/tree/master)
+
+### 2.2.1 Traffic light
+
 
 ### 2.3 Project 3 — Behavioral Cloning
 * <del>[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : Jeremy Shannon, 핸들 각도 분포에 따른 성능 평가 </del>  [[GitHub: 기술적 설명]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
@@ -184,6 +207,8 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 - [Recognizing Traffic Lights With Deep Learning](https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.l2iu0aqag) : David Brailovsky
 - [The world through the eyes of a self-driving car](https://medium.freecodecamp.com/what-is-my-convnet-looking-at-7b0533e4d20e#.wnom5expq) : David Brailovsky
 
+- [How I learned deep learning in 10 weeks, then won $5,000 by recognizing traffic lights](https://medium.freecodecamp.com/how-i-learned-deep-learning-in-10-weeks-then-won-5-000-by-recognizing-traffic-lights-f3e7b1b37ea)
+
 ## Challenge #2 : Coming Soon
 
 # commai
@@ -231,6 +256,7 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 - [Malaga Dataset 2009](http://www.mrpt.org/Paper:Malaga_Dataset_2009) and [Malaga Dataset 2013](http://www.mrpt.org/MalagaUrbanDataset): Dataset with GPS, Cameras and 3D laser information, recorded in the city of Malaga, Spain.
 - [Ford Campus Vision and Lidar Dataset](http://robots.engin.umich.edu/SoftwareData/Ford): Dataset collected by a Ford F-250 pickup, equipped with IMU, Velodyne and Ladybug.
 
+- [Build Your Own Real Time Traffic Data Feed]http://www.chioka.in/build-your-own-real-time-traffic-data-feed/): 교통카메라를 이용항 차량 이미지 획득 방법에 대하여
 
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)
