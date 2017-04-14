@@ -75,6 +75,7 @@
 * [pdf: TensorFlow Worksop](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) : [김성훈교수 추천] 간단한 모델, 데이터 읽기, Word2Vec, 인셥션 모델 재사용, hyperparameter 자동튜닝, TensorBoard, [[GitHub]](https://github.com/amygdala/tensorflow-workshop)
 - [텐서플로우 - 파일에서 학습데이타를 읽어보자#2 CSV 파일을 읽어보자](http://bcho.tistory.com/1165)
 
+- [논문:https://arxiv.org/pdf/1610.01178.pdf](https://arxiv.org/pdf/1610.01178.pdf)
 
 ### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)

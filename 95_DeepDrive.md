@@ -1,3 +1,25 @@
+| 작성자 |P1: Detect Lane Lines |P2: Traffic Sign Classifier|P3: Behavioral Cloning| P4: Advanced Lane Line Finding|P5: Vehecle Detection|
+|-|-|-|-|-|-|
+
+- windowsub0406: [P1], [P2], [P3], [P4](http://blog.naver.com/windowsub0406), [P5]
+
+- [Daniel Stang(WuStangDan)](http://www.cellar--door.com/sdc) : P1, [G2](https://github.com/WuStangDan/Project-02-Traffic-Sign-Classifier), [G3](https://github.com/WuStangDan/Project-03-Behavioral-Cloning), [G4](https://github.com/WuStangDan/Project-04-Advanced-Lane-Lines), [G5](https://github.com/WuStangDan/Project-05-Vehicle-Detection-and-Tracking/blob/master/proj5-DAS.ipynb)
+
+- DAVID A. VENTIMIGLIA: P1, P2, [P3](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148), [P4](http://davidaventimiglia.com/advanced_lane_lines.html), [P5](http://davidaventimiglia.com/vechicle_detection.html)
+
+- Arnaldo Gunzi: P1, P2, [P3](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.xhycchtm4), [P4](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.twavzh60e), [P5](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.t6aqd290a)
+
+- Milutin N. Nikolic: P1, P2, P3, [P4](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.a47g46ddk), [P5](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.23x509ck5)
+
+- Kaspar Sakmann(ksakmann): P1, [G2](https://github.com/ksakmann/CarND-TrafficSignClassifier)/[G2-Keras](https://github.com/ksakmann/KerasTrafficSignClassifier), [P3](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713#.96mwidezy)/[G3](https://github.com/ksakmann/CarND-BehavioralCloning), [G4](https://github.com/ksakmann/CarND-Advanced-Lane-Lines), [P5](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.cvv7xwg2t)/[G5](https://github.com/ksakmann/CarND-Vehicle-Detection/blob/master/search_classify.ipynb)
+
+- Vivek Yadav: P1, [P2](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.pehltjdi2), [P3-1](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.qju3jgn6n),[P3-2](https://chatbotslife.com/learning-human-driving-behavior-using-nvidias-neural-network-model-and-image-augmentation-80399360efee#.b10ontn6k) [P4](https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.9vxso5cqk), [P5-1](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.ys1nu1ovc), [P5-2](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.phldagwx4)
+
+- Andrew Wilkie: Keras활용,  [P1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.ucg0skl79), [P2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-4-c75150cf93d5#.7yds41cdl), [P3](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-5-63d2daab4591#.zfartnf4j), [P4](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.fxotng3xb), P5
+
+- ooo: [P1](), [P2](), [P3](), [P4](), [P5]()
+
+
 ![](https://cdn-images-1.medium.com/max/800/1*HTyatXEYA62kjN_kNxYW7g.png)
 
 [2017: The year for autonomous vehicles](https://machinelearnings.co/2017-the-year-for-autonomous-vehicles-8359fec2d2db#.bh2nr1v38)
@@ -57,7 +79,8 @@
 
 
 ## 2 Projects
-[Daniel Stang](http://www.cellar--door.com/sdc) : Project 1~5까지의 해결 과정/내용 정리
+
+
 
 ### 2.1 Project 1 — Detect Lane Lines
 - <del>[Building a lane detection system using Python 3 and OpenCV](https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0#.c2gg3agft) : Galen Ballew [[GitHub]](https://github.com/galenballew/Lane-Detection-OpenCV)</del>
@@ -132,16 +155,18 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 
 
 ### 2.5 Project 5 - Vehicle Detection
-* <del>[Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb) : Milutin N. Nikolic,[추천] 차간 거리 인식 포함 </del>
+* <del>[Vehicle Detection and Distance Estimation](https://medium.com/@ajsmilutin/vehicle-detection-and-distance-estimation-7acde48256e1#.cicseb3pb) : Milutin N. Nikolic,[추천] 차간 거리 인식 포함, [GitHub](https://github.com/ajsmilutin/CarND-Vehicle-Detection) </del>
 - <del>[Small U-Net for vehicle detection](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.75z3or11a) : Vivek Yadav, U-Net 뉴럴네트워크를 이용한 접근법 </del>
 * [Feature extraction for Vehicle Detection using HOG+](https://medium.com/@mohankarthik/feature-extraction-for-vehicle-detection-using-hog-d99354a84d10#.2baik24s1) : 차량 인식 제안 방안 설명
-- [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개
-- <del>[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.79czobkvx) : Kaspar Sakmann, svm과 YOLO비교 </del>
+- [Vehicle Detection and Tracking using Computer Vision](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.45tw9zjae) : Arnaldo Gunzi, 위젯을 이용한 기법 소개, [GitHub](https://github.com/asgunzi/CarND-VehicleDetection)
+- <del>[Vehicle tracking using a support vector machine vs. YOLO](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.79czobkvx) : Kaspar Sakmann, svm과 YOLO비교, [GitHub](https://github.com/ksakmann/CarND-Vehicle-Detection) </del>
 - [Towards a real-time vehicle detection: SSD multibox approach](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.dlc43ymgv): Vivek Yadav
+
+- [[추천] Vehicle Detection Project](http://davidaventimiglia.com/vechicle_detection.html): DAVID A. VENTIMIGLIA, [GitHub](https://github.com/dventimi/CarND-Vehicle-Detection)
 
 - [Self Driving Cars: Vehicle Detection](https://medium.com/@andreasdaiminger/self-driving-cars-vehicle-detection-e4b95fc82baf): Andreas Daiminger
 
-- [Vehicle-Tracking with HOG and Linear SVM](https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a): Mithi.xyz
+- [Vehicle-Tracking with HOG and Linear SVM](https://medium.com/@mithi/vehicles-tracking-with-hog-and-linear-svm-c9f27eaf521a): Mithi.xyz, [GitHub](https://github.com/mithi/vehicle-tracking-2/)
 
 ### 2.6 강사 코멘트
 - [Behavioral Cloning](https://medium.com/udacity/how-udacitys-self-driving-car-students-approach-behavioral-cloning-5ffbfd2979e5#.utl189or1) : Behavioral Cloning
@@ -168,22 +193,6 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Hardware, tools, and cardboard mockups](https://djwbrown.github.io/self-driving-nanodegree/brz/update/2017/01/23/hardware-tools-and-cardboard-mockups.html) : Dylan Brown
 - [Comparing model performance: Including Max Pooling and Dropout Layers](http://www.jessicayung.com/comparing-model-performance-including-max-pooling-and-dropout-layers/) : Jessica Yung
 
-### 2.7 저자별 모음
-P1: Detect Lane Lines
-P2: Traffic Sign Classifier
-P3: Behavioral Cloning
-P4: Advanced Lane Line Finding
-P5: Vehecle Detection
-
-- DAVID A. VENTIMIGLIA: P1, P2, [P3](http://davidaventimiglia.com/carnd_behavioral_cloning_part1.html?fb_comment_id=1429370707086975_1432730663417646&comment_id=1432702413420471&reply_comment_id=1432730663417646#f2752653e047148), [P4](http://davidaventimiglia.com/advanced_lane_lines.html), [P5](http://davidaventimiglia.com/vechicle_detection.html)
-- Arnaldo Gunzi: P1, P2, [P3](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.xhycchtm4), [P4](https://chatbotslife.com/advanced-lane-line-project-7635ddca1960#.twavzh60e), [P5](https://chatbotslife.com/vehicle-detection-and-tracking-using-computer-vision-baea4df65906#.t6aqd290a)
-- Milutin N. Nikolic: P1, P2, P3, [P4](https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514#.a47g46ddk), [P5](https://medium.com/towards-data-science/vehicle-detection-and-distance-estimation-7acde48256e1#.23x509ck5)
-- Kaspar Sakmann: P1, P2, [P3](https://medium.com/@ksakmann/behavioral-cloning-make-a-car-drive-like-yourself-dc6021152713#.96mwidezy), P4, [P5](https://medium.com/@ksakmann/vehicle-detection-and-tracking-using-hog-features-svm-vs-yolo-73e1ccb35866#.cvv7xwg2t)
-- Vivek Yadav: P1, [P2](https://chatbotslife.com/german-sign-classification-using-deep-learning-neural-networks-98-8-solution-d05656bf51ad#.pehltjdi2), [P3-1](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.qju3jgn6n),[P3-2](https://chatbotslife.com/learning-human-driving-behavior-using-nvidias-neural-network-model-and-image-augmentation-80399360efee#.b10ontn6k) [P4](https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.9vxso5cqk), [P5-1](https://chatbotslife.com/small-u-net-for-vehicle-detection-9eec216f9fd6#.ys1nu1ovc), [P5-2](https://chatbotslife.com/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.phldagwx4)
-- Andrew Wilkie(Keras활용): [P1](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-2-11eacba4d2a7#.ucg0skl79), [P2](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-4-c75150cf93d5#.7yds41cdl), [P3](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-5-63d2daab4591#.zfartnf4j), [P4](https://medium.com/@andrew.d.wilkie/self-driving-car-engineer-diary-6-15ca3fa08277#.fxotng3xb), P5
-- ooo: [P1](), [P2](), [P3](), [P4](), [P5]()
-
-- [추천] 한글_전체 코드 제공 [[GitHub]](http://blog.naver.com/windowsub0406)
 
 # Affordable Self-Driving Cars
 - 토론토 대학교 [Raquel Urtasun 교수](http://www.cs.toronto.edu/~urtasun/) 연구팀
