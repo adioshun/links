@@ -1,0 +1,1 @@
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
