@@ -95,4 +95,4 @@ CAN-Bus Board for Raspberry Pi  (Instead of OBD2 Connector)
 - YOLO Detector Trained using Udacity SDC dataset, it runs at 15 hz with a GTX 1070﻿
 - https://www.youtube.com/watch?v=qrL7ko_ARb0
 
-- [Streaming Video Analysis in Python](https://getpocket.com/a/read/1697807931), [원문](https://svds.com/streaming-video-analysis-python/?utm_campaign=ODSC%20blog&utm_source=ODSC)
+- [Streaming Video Analysis in Python](https://opendatascience.com/blog/streaming-video-analysis-python/), [원문](https://svds.com/streaming-video-analysis-python/?utm_campaign=ODSC%20blog&utm_source=ODSC)
