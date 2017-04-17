@@ -3,6 +3,9 @@
 # Article / post
 - CS231n : Transfer Learning and Fine-tuning Convolutional Neural Networks: [원문](http://cs231n.github.io/transfer-learning), [번역](http://ishuca.tistory.com/entry/CS231n-Transfer-Learning-and-Finetuning-Convolutional-Neural-Networks-한국어-번역)
 
+
+- [reddit: Looking for a review of visual CNNs where one of the last layers is popped off and retrained on a new task.](https://www.reddit.com/r/MachineLearning/comments/656q8u/d_looking_for_a_review_of_visual_cnns_where_one/)
+
 - Transfer Learning - Machine Learning's Next Frontier : [8Chapter](http://sebastianruder.com/transfer-learning/index.html)
 
 - [TensorFlow 와 Inception-v3 를 이용하여 원하는 이미지 학습과 추론 해보기](http://gusrb.tistory.com/m/16)

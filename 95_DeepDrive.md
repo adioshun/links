@@ -267,6 +267,8 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 - [Build Your Own Real Time Traffic Data Feed]http://www.chioka.in/build-your-own-real-time-traffic-data-feed/): 교통카메라를 이용항 차량 이미지 획득 방법에 대하여
 
+- [US 차량 궤적](https://www.fhwa.dot.gov/publications/research/operations/its/06135/index.cfm): NGSIM (Next Generation SIMulation이라 하여 미국 고속도로에 대해 비디오 분석 및 수작업을 통해 추적한 차량의 주행 궤적자료를 포함
+
 # 장비/센서
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)
 - [Mini Autonomous Vehicle](https://medium.com/self-driving-cars/miniature-autonomous-vehicle-dc48d0740afc#.aa4w6l1bs)

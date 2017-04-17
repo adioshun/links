@@ -1,5 +1,8 @@
 ![](http://api.ning.com/files/0qR8BrPZ-VZNxGOCc9HIXhtVdu4FIxXA3BKWwtrYkXQ0nvVO1yOJKU76E4LcCd3ln-bdReqYkhipURC00JjlWMTMOr340TB9/ML87i.png)
 
+![](https://cdn-images-1.medium.com/max/800/1*CQXIj_SEfhfeMpMgFE8XRg.jpeg)
+[[DeepLearnig RoadMap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
+
 # List
 * [List_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Deep Learning Study](https://github.com/carpedm20/deep-learning-study) : carpedm20
@@ -45,9 +48,13 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 ## eBook/ Tutorial
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)
+
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
+
 * [여러 모델별 설명]http://colah.github.io/
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning
+
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) : Neural Networks and Deep Learning, [[한글정리]](https://www.facebook.com/groups/TensorFlowKR/permalink/451098461897884/)
+
 * A Neural Network in 11 lines of Python
   * [Part 1](http://iamtrask.github.io/2015/07/12/basic-python-network/) : low-level 단위 구현으로 알아 보는 뉴럴네트워크
 - [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md): 도커를 이용한 인터엑티브 서적
@@ -63,7 +70,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 - [Tensorflow PlayGround](http://playground.tensorflow.org)
 
 ## 추천 모델들
-- [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba): 유명한 모델들 전체 설명 
+- [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba): 유명한 모델들 전체 설명
 * [Deep-Q-Networks](http://solarisailab.com/archives/486?ckattempt=1) : 텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기
 * [DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [git_Energy-based generative adversarial network ( EBGAN )](https://github.com/buriburisuri/ebgan)

@@ -89,6 +89,7 @@
 - [Youtube: 강의중 일부](https://youtu.be/DYlHnxfrrZY?t=51m43s)
 - [Hands-on TensorBoard (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=eBbEDRsCmv4&feature=youtu.be): [[코드]](https://gist.githubusercontent.com/dandelionmane/4f02ab8f1451e276fea1f165a20336f1/raw/bb6be73bd34211543ed16bc3a7f8e9646e5892ae/mnist.py)
 
-### Rasperry Pi
-![](https://cdn-images-1.medium.com/max/800/1*kZAy4r4H-RBtczsv8o1kfA.png)
-- [TensorFlow Image Recognition on a Raspberry Pi](https://blog.insightdatascience.com/tensorflow-image-recognition-on-a-raspberry-pi-3645a1634c66#.d2avqp25i)
+- [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+
+# 디버깅
+- [TF에서 그래프 중간 중간에 값을 보려면 ](https://www.facebook.com/groups/TensorFlowKR/permalink/452606621747068/)

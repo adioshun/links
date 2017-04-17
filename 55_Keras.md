@@ -2,13 +2,13 @@
 - [List of Keras resources](https://github.com/fchollet/keras-resources): Keras-Tensorflow 모델, Keras공식
 
 
+
 # Keras
-* [모음: Simple tutorials using Keras Framework](https://github.com/tgjeon/Keras-Tutorials)
 
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
 * [5 Step Life-Cycle for Neural Network Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
 * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python, [[번역]](https://byeongkijeong.github.io/Keras-cnn-tutorial/)
+* [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python, <del> [[번역]](https://byeongkijeong.github.io/Keras-cnn-tutorial/)</del>
 * [Keras as a simplified interface to TensorFlow: tutorial](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [케라스 이야기](https://tykimos.github.io/Keras/2017/01/27/Keras_Talk/)
@@ -24,9 +24,9 @@
 * [한글: Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [Keras로 Multi layer Perceptron구현하기](http://iostream.tistory.com/111)
 
-# Seminar
+# [추천]강좌/케라스, 그 간결함에 빠지다, 김태영
 * [Taeyoung Kim's Keras blog_케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
-*
+* [컨볼루션 신경망 모델 만들어보기](https://tykimos.github.io/Keras/2017/03/08/CNN_Getting_Started/)
 
 # Tutorial
 ## Neural Network in Python With Keras
@@ -38,3 +38,10 @@
 * [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/)
 * [MNIST - MLP + CNN](http://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
 * [CIFAR-10 CNN](http://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/)
+
+* [Simple tutorials using Keras](https://github.com/tgjeon/Keras-Tutorials): tgjeon
+
+
+# Tips
+
+- [Where do I call the BatchNormalization function in Keras?](http://stackoverflow.com/questions/34716454/where-do-i-call-the-batchnormalization-function-in-keras)

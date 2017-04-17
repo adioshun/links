@@ -86,3 +86,13 @@ CAN-Bus Board for Raspberry Pi  (Instead of OBD2 Connector)
 # ADAS
 
   - [우분투에서 openCV 카메라 영상받기 예제](http://minimonk.net/3238)
+
+  ### Rasperry Pi
+  ![](https://cdn-images-1.medium.com/max/800/1*kZAy4r4H-RBtczsv8o1kfA.png)
+  - [TensorFlow Image Recognition on a Raspberry Pi](https://blog.insightdatascience.com/tensorflow-image-recognition-on-a-raspberry-pi-3645a1634c66#.d2avqp25i)
+
+# 실시간 수행 예
+- YOLO Detector Trained using Udacity SDC dataset, it runs at 15 hz with a GTX 1070﻿
+- https://www.youtube.com/watch?v=qrL7ko_ARb0
+
+- [Streaming Video Analysis in Python](https://getpocket.com/a/read/1697807931), [원문](https://svds.com/streaming-video-analysis-python/?utm_campaign=ODSC%20blog&utm_source=ODSC)

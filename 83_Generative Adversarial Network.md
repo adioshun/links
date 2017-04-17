@@ -1,6 +1,11 @@
+- [List of GAN Implementation](https://github.com/wiseodd/generative-models): wiseodd, 설명 [BLog](http://wiseodd.github.io/techblog/)
+
+
 # Article / Blog
 
 - 지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow): [[추천]: youtube](https://youtu.be/soJ-wDOSCf4?t=1m47s), 김태훈, PyCon APAC 2016
+
+- [TensorFlowKR_PR12모임 GAN 설명](https://www.facebook.com/groups/TensorFlowKR/permalink/456848987989498/)
 
 
 * [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
@@ -15,6 +20,7 @@
 
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets: [논문](https://arxiv.org/abs/1606.03657),  [ppt정리](http://www.slideshare.net/ssuser06e0c5/infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets-72268213)
 
+- [아주 간단한 GAN구현하기](http://blog.naver.com/atelierjpro/220984758512): 참고 [GitHub](https://github.com/hwalsuklee/tensorflow-GAN-1d-gaussian-ex), Generative Adversarial Network for approximating a 1D Gaussian distribution
 
 * NIPS 2016 Tutorial:Generative Adversarial Networks: [논문](https://arxiv.org/pdf/1701.00160v1.pdf),[youtube](http://fbsight.com/t/goodfellow-gan-nips-2016-tutorial/59058), 논문 및 저자 설명
 
