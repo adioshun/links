@@ -115,6 +115,13 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 * [한글로 설명이 잘되어있는 라온피플 블로그](http://laonple.blog.me/220463627091)
 * [MDP and Reinforcement Learning](https://papoudakis.github.io/announcements/mdp-rl/?utm_content=buffer68602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) : 마코브 체인과 강화 학습의 관계설명
 
+# [추천]전처리
+- [cifarnet_preprocessing.py](https://github.com/tensorflow/models/tree/master/slim/preprocessing)
+- inception_preprocessing.py
+- lenet_preprocessing.py
+- preprocessing_factory.py
+- vgg_preprocessing.py
+
 # Datasets
 - 얼굴 이미지 : [PubFig](http://www.cs.columbia.edu/CAVE/databases/pubfig/)
 

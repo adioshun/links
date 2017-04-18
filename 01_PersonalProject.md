@@ -96,3 +96,10 @@ CAN-Bus Board for Raspberry Pi  (Instead of OBD2 Connector)
 - https://www.youtube.com/watch?v=qrL7ko_ARb0
 
 - [Streaming Video Analysis in Python](https://opendatascience.com/blog/streaming-video-analysis-python/), [원문](https://svds.com/streaming-video-analysis-python/?utm_campaign=ODSC%20blog&utm_source=ODSC)
+
+- [Real-time facial landmark detection with OpenCV, Python, and dlib](http://www.pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/): 실시간 비디오 입력 받기
+
+
+
+# GUI 만들기
+- [Creating Kivy apps](https://kivy.org/docs/gettingstarted/intro.html)

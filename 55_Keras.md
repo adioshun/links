@@ -24,6 +24,8 @@
 * [한글: Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [Keras로 Multi layer Perceptron구현하기](http://iostream.tistory.com/111)
 
+- AlexNet: [GitHub](https://github.com/duggalrahul/AlexNet-Experiments-Keras), [Blog](https://rahulduggal2608.wordpress.com/2017/04/02/alexnet-in-keras/), [reddit](https://www.reddit.com/r/MachineLearning/comments/64cs0a/p_releasing_codes_for_training_alexnet_using_keras/?st=j1d0iu2p&sh=4bf414d8)
+
 # [추천]강좌/케라스, 그 간결함에 빠지다, 김태영
 * [Taeyoung Kim's Keras blog_케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
 * [컨볼루션 신경망 모델 만들어보기](https://tykimos.github.io/Keras/2017/03/08/CNN_Getting_Started/)
