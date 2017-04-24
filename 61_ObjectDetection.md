@@ -8,6 +8,7 @@ Fast RCNN분야
 
 # SSD
 
+- [SSD Tensorflow](https://medium.com/@mslavescu/dhruv-parthasarathy-you-can-try-ssd-tensorflow-very-easily-especially-if-you-use-my-gtarobotics-1e515e693d51)
 
 # TensorBox
 

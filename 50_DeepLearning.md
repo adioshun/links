@@ -59,6 +59,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
   * [Part 1](http://iamtrask.github.io/2015/07/12/basic-python-network/) : low-level 단위 구현으로 알아 보는 뉴럴네트워크
 - [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md): 도커를 이용한 인터엑티브 서적
 
+- [P119: machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/blob/master/machine-learning-cheat-sheet.pdf)
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.

@@ -1,6 +1,12 @@
 | 작성자 |P1: Detect Lane Lines |P2: Traffic Sign Classifier|P3: Behavioral Cloning| P4: Advanced Lane Line Finding|P5: Vehecle Detection|
 |-|-|-|-|-|-|
 
+---
+
+# 논문
+
+- [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://arxiv.org/abs/1704.05519)
+
 - windowsub0406: [P1], [P2], [P3], [P4](http://blog.naver.com/windowsub0406), [P5]
 
 - [Daniel Stang(WuStangDan)](http://www.cellar--door.com/sdc) : P1, [G2](https://github.com/WuStangDan/Project-02-Traffic-Sign-Classifier), [G3](https://github.com/WuStangDan/Project-03-Behavioral-Cloning), [G4](https://github.com/WuStangDan/Project-04-Advanced-Lane-Lines), [G5](https://github.com/WuStangDan/Project-05-Vehicle-Detection-and-Tracking/blob/master/proj5-DAS.ipynb)
@@ -223,7 +229,6 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 # commai
 - [홈페이지]() [[GitHub]](https://github.com/commaai/research)
 - [논문](http://arxiv.org/abs/1608.01230) : Learning a Driving Simulator
-
 
 
 # AutoX
