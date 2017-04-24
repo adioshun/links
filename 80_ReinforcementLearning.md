@@ -24,7 +24,7 @@
 
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): 진화알고리즘 적용, OpenAI
 
-
+- [강화학습 예제 14](https://github.com/rlcode/reinforcement-learning/blob/master/README-kr.md): RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo 입니다
 
 # A3C
 

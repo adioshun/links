@@ -10,6 +10,12 @@ Fast RCNN분야
 
 - [SSD Tensorflow](https://medium.com/@mslavescu/dhruv-parthasarathy-you-can-try-ssd-tensorflow-very-easily-especially-if-you-use-my-gtarobotics-1e515e693d51)
 
+
+# FRRNs
+
+- Full-Resolution Residual Networks (FRRNs) for Semantic Image Segmentation in Street Scenes: [논문](https://arxiv.org/abs/1611.08323), [youtube](https://www.youtube.com/watch?v=PNzQ4PNZSzc&feature=youtu.be)
+
+
 # TensorBox
 
 - [GitHub](https://github.com/TensorBox/TensorBox)

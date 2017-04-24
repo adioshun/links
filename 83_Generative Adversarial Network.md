@@ -24,6 +24,8 @@
 
 * NIPS 2016 Tutorial:Generative Adversarial Networks: [논문](https://arxiv.org/pdf/1701.00160v1.pdf),[youtube](http://fbsight.com/t/goodfellow-gan-nips-2016-tutorial/59058), 논문 및 저자 설명
 
+- [유투브 강의:How to Generate Images with Tensorflow (LIVE) ](https://www.youtube.com/watch?v=iz-TZOEKXzA&feature=youtu.be)
+
 # 논문
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828v1.pdf) : Ashish Shrivastava, Apple, 216
  * the blueprint for training state-of-the-art neural nets from only __synthetic__ and unlabelled data

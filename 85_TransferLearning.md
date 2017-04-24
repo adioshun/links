@@ -27,3 +27,9 @@
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/inception): 텐서플로우 공식 코드
 
 - [Jupyter: 08_Transfer_Learning](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/08_Transfer_Learning.ipynb): Hvass, 동영상
+
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+
+- [Using Transfer Learning and Bottlenecking to Capitalize on State of the Art DNNs](https://medium.com/@galen.ballew/transferlearning-b65772083b47)
+
+- [CarND-Transfer-Learning-Lab](https://github.com/paramaggarwal/CarND-Transfer-Learning-Lab)

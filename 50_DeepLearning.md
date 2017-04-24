@@ -65,6 +65,9 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.
 - [Deeploearning Workflow](https://github.com/adioshun/DeepLearningProjectWorkflow): Andrew Ng's recommended machine learning workflow
 
+- [Deep Neural Network from scratch](https://matrices.io/deep-neural-network-from-scratch/): 한 페이지로 정리한 DNN [[Code]](https://github.com/theflofly/dnn_from_scratch_py)
+
+
 ## Deep Visualization toolbox
 - [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis):
 

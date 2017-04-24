@@ -91,5 +91,7 @@
 
 - [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 
+- [Simple Introduction to Tensorboard Embedding Visualisation](http://www.pinchofintelligence.com/simple-introduction-to-tensorboard-embedding-visualisation/)
+
 # 디버깅
 - [TF에서 그래프 중간 중간에 값을 보려면 ](https://www.facebook.com/groups/TensorFlowKR/permalink/452606621747068/)
