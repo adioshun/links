@@ -8,11 +8,9 @@
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
 * [5 Step Life-Cycle for Neural Network Models in Keras](http://machinelearningmastery.com/5-step-life-cycle-neural-network-models-keras/)
 * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
-* [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python, <del> [[번역]](https://byeongkijeong.github.io/Keras-cnn-tutorial/)</del>
+* [Keras Tutorial Contents](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more) : Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python, <del> [[한글 번역]](https://byeongkijeong.github.io/Keras-cnn-tutorial/)</del>
 * [Keras as a simplified interface to TensorFlow: tutorial](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
-* [케라스 이야기](https://tykimos.github.io/Keras/2017/01/27/Keras_Talk/)
-
 * [추천: Review of Keras (Deep Learning) Core Layers](https://www.picnet.com.au/blogs/guido/post/2016/05/16/review-of-keras-deep-learning-core-layers/)
 - [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html) : CNN의 인식 결과를 시각화하여 확인할수 있는 방법, 논문 작성이나 시각화시 활용 가능
 
@@ -28,7 +26,9 @@
 
 # [추천]강좌/케라스, 그 간결함에 빠지다, 김태영
 * [Taeyoung Kim's Keras blog_케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
-* [컨볼루션 신경망 모델 만들어보기](https://tykimos.github.io/Keras/2017/03/08/CNN_Getting_Started/)
+  * <del>[컨볼루션 신경망 레이어 이야기](https://tykimos.github.io/Keras/2017/01/27/CNN_Layer_Talk/) </del>
+  * <del>[컨볼루션 신경망 모델 만들어보기](https://tykimos.github.io/Keras/2017/03/08/CNN_Getting_Started/)</del>
+  * 계속 Update 중
 
 # Tutorial
 ## Neural Network in Python With Keras

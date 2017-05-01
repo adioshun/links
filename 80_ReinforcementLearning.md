@@ -22,6 +22,8 @@
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 - [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
 
+- [The Next Challenges for Reinforcement Learning](http://www.maluuba.com/blog/2017/3/14/the-next-challenges-for-reinforcement-learning)
+
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): 진화알고리즘 적용, OpenAI
 
 - [강화학습 예제 14](https://github.com/rlcode/reinforcement-learning/blob/master/README-kr.md): RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo 입니다
@@ -58,6 +60,9 @@
 # Paper
 - [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274) : Yuxi Li
 - [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) : Alexander Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Heess, Max Jaderberg, David Silver, Koray Kavukcuoglu(2017.03)
+
+- [Overcoming catastrophic forgetting in neural networks](http://www.pnas.org/content/114/13/3521.abstract): 강화학습 + transfer-learning
+  - the concept of transfering the learning of reinforcement agents from environment to environment.
 
 ## Inverse reinforcement-learning
 * [ppt: Inverse Reinforcement Learning Algorithms](https://www.slideshare.net/samchoi7/inverse-reinforcement-learning-algorithms) : Sungjoon Samuel 작성
