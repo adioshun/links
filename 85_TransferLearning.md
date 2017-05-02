@@ -7,7 +7,7 @@
 
 - <Del>[추천] [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/index.html)</del> 추천
 
-- [Using Transfer Learning and Bottlenecking to Capitalize on State of the Art DNNs](https://medium.com/@galen.ballew/transferlearning-b65772083b47), [Transfer Learning in Keras](https://galenballew.github.io//articles/transfer-learning/),  [GitHub](https://github.com/galenballew/transfer-learning)
+- <del>[Using Transfer Learning and Bottlenecking to Capitalize on State of the Art DNNs](https://medium.com/@galen.ballew/transferlearning-b65772083b47), [Transfer Learning in Keras](https://galenballew.github.io//articles/transfer-learning/): 후반 텐서보드 코드  [GitHub](https://github.com/galenballew/transfer-learning)</del>
 
 - <del>[TensorFlow 와 Inception-v3 를 이용하여 원하는 이미지 학습과 추론 해보기](http://gusrb.tistory.com/m/16): retrain.py코드를 이용한 실행, 코드 자체에 대한 이해필요</del>, [Google CodeLAb 실습](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0)
 
@@ -21,7 +21,11 @@
 
 - [PPT: Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras](https://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
 
+- <del>[Transfer Learning using Keras](https://medium.com/towards-data-science/transfer-learning-using-keras-d804b2e04ef8)</del>
+
 - [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+
+- Transfer learning using pytorch: Vishnu Subramanian, [Part 1](https://medium.com/towards-data-science/transfer-learning-using-pytorch-4c3475f4495), [Part 2](https://medium.com/towards-data-science/transfer-learning-using-pytorch-part-2-9c5b18e15551)
 
 
 - [Globa Average Pooling](https://www.quora.com/What-is-global-average-pooling)을 사용함으로써 기존 학습시 사용했던 학습의 제약 없이 아무 Tensor/image size를 사용할수 있음
@@ -48,6 +52,8 @@
 - [Keras Exampls](https://github.com/fchollet/keras/tree/master/examples): fchollet
 
 - [Fine-Tune CNN Model via Transfer Learning](https://github.com/abnera/image-classifier): abnera, [Kaggle](https://www.kaggle.com/abnera/dogs-vs-cats-redux-kernels-edition/transfer-learning-keras-xception-cnn)
+
+* [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
 
 - [CarND-Transfer-Learning-Lab](https://github.com/paramaggarwal/CarND-Transfer-Learning-Lab)
 

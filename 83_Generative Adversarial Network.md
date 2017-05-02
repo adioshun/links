@@ -7,6 +7,7 @@
 
 - [TensorFlowKR_PR12모임 GAN 설명](https://www.facebook.com/groups/TensorFlowKR/permalink/456848987989498/)
 
+- [GAN by Example using Keras on Tensorflow Backend](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0): Rowel Atienza, 코드포함
 
 * [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
 
@@ -44,6 +45,9 @@
 
 
 # 구현
+
+- [13줄 간단 코드 및 설명](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb): nlintz
+
 * [SimGan](https://github.com/wayaai/SimGAN): Keras 코드
 
 - An introduction to Generative Adversarial Networks (with code in TensorFlow): [원문](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/), <del>[정리](http://keunwoochoi.blogspot.com/2016/12/generative-adversarial-network-gan.html)</del>, [GitHub](https://github.com/AYLIEN/gan-intro)

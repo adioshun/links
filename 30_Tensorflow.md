@@ -83,6 +83,8 @@
 ### TensorDebugger
 * [git_Offical](https://github.com/ericjang/tdb), [TFDBG](https://www.tensorflow.org/versions/master/how_tos/debugger/)
 
+- [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개합니다.](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
+
 ### TensorBoard
 * [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
 - [Youtube: 모두를 위한 딥려닝](https://youtu.be/eDKxY5Z5dVQ)

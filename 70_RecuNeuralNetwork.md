@@ -6,6 +6,8 @@
 
 # Article / Post
 
+- [ppt:홍콩과기대 김성훈 교수](https://docs.google.com/presentation/d/1HtcH9Kam8Lmv-QIT_fJ5rXleatgog7pgMkXVwzrYkY4/edit#slide=id.g216584368d_0_205)
+
 - <del>[초보자를 위한 RNNs과 LSTM 가이드](https://deeplearning4j.org/kr/lstm): Deeplearning4J 번역 자료 </del>
   - [DL4J와 RNNs (Recurrent Neural Networks)](https://deeplearning4j.org/kr/usingrnns)
 

@@ -3,6 +3,8 @@
 
 - [Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art](https://arxiv.org/abs/1704.05519)
 
+- [Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car](https://arxiv.org/abs/1704.07911)
+
 
 
 
@@ -63,7 +65,7 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 # OSSDC
 
-- [Open Source Self Driving Car Initiative](http://ossdc.org)
+- [Open Source Self Driving Car Initiative](http://ossdc.org): [GitHUb](https://github.com/OSSDC), OSSDC-VisionBasedACC, OSSDC-LKAS, OSSDC-SmartCamera
 
 # AutoX
 - 센서 없이 카메라 만으로 자율주행차 구현을 목적으로 함
@@ -112,6 +114,8 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 - [Lida](https://www.blackmoreinc.com/) : [간략 설명](https://medium.com/self-driving-cars/startup-watch-blackmore-1c0f43e24467#.1lfeyxf5f)
 - [Mini Autonomous Vehicle](https://medium.com/self-driving-cars/miniature-autonomous-vehicle-dc48d0740afc#.aa4w6l1bs)
 
+- [Startup Watch: Luminar](https://medium.com/self-driving-cars/startup-watch-luminar-39b4e5e89238): Lidar 센서
+
 # Lab
 - [버클리대 DeepDrive](http://bdd.berkeley.edu) : 선진 연구 분야 살펴 보기 좋음
 
@@ -119,3 +123,17 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 # Startups
 - [NAUTO](https://medium.com/self-driving-cars/startup-watch-nauto-1fc88c00a809#.51ybxti2k)
 - [Zoox]](https://medium.com/self-driving-cars/startup-watch-zoox-b99b64a1db30#.nce3tldm7)
+
+## V2X
+
+- [Autotalks](http://www.auto-talks.com/): automotive-grade communication chips
+
+- [Cohoda Wireless](http://www.cohdawireless.com/): automotive-grade communication chips
+
+- [Kymeta](http://www.kymetacorp.com/): automotive satellite communications
+
+- [RoboCV](http://robocv.com/): collision avoidance with vehicle-to-vehicle communication
+
+- [Savari](http://savari.net/): vehicle-to-anything communication infrastructure
+
+- [Veniam](https://veniam.com/): automotive mesh WiFi
