@@ -100,7 +100,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
   4. DNN 디자인을 여러 테크닉과 프로세스 이해
   5. 최신 트렌드와 연구 기회 포착 등
 
-## eBook/ Tutorial
+## Tutorial (series)
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)
 
 * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) : 강추_Andrew NG Deep Learning Tutorial
@@ -114,6 +114,9 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 - [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md): 도커를 이용한 인터엑티브 서적
 
 - [P119: machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet/blob/master/machine-learning-cheat-sheet.pdf)
+
+* [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/): machinelearningmastery, 14강좌
+
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.

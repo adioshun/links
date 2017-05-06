@@ -27,6 +27,7 @@
 
 - Transfer learning using pytorch: Vishnu Subramanian, [Part 1](https://medium.com/towards-data-science/transfer-learning-using-pytorch-4c3475f4495), [Part 2](https://medium.com/towards-data-science/transfer-learning-using-pytorch-part-2-9c5b18e15551)
 
+- [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html): Keras 공식 자료, [[GitHub]](https://gist.github.com/fchollet/f35fbc80e066a49d65f1688a7e99f069), [[VGG16_weight]](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 
 - [Globa Average Pooling](https://www.quora.com/What-is-global-average-pooling)을 사용함으로써 기존 학습시 사용했던 학습의 제약 없이 아무 Tensor/image size를 사용할수 있음
 
@@ -34,7 +35,9 @@
 
 
 # paper
-- [A Survey on Transfer Learning - SJ Pan et al. 2010](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
+- [A Survey on Transfer Learning ](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf):SJ Pan et al. 2010 [ppt](https://www.slideshare.net/azuring/a-survey-on-transfer-learning)
+
+- [A survey of transfer learning](https://goo.gl/e87S9y): Karl Weiss, 2016, 40P
 
 - [Transfer Schemes for Deep Learning in Image Classification, 2015,87P ](http://webia.lip6.fr/~carvalho/download/msc_micael_carvalho_2015.pdf):
 
@@ -43,9 +46,14 @@
 - [CNN Features off-the-shelf: an Astounding Baseline for Recognition,2014](https://arxiv.org/abs/1403.6382)
 
 # Implementation
+
+- [Convert Caffe models to TensorFlow.](https://github.com/ethereon/caffe-tensorflow)
+
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/inception): 텐서플로우 공식 코드
 
 - [Jupyter: 08_Transfer_Learning](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/08_Transfer_Learning.ipynb): Hvass, 동영상
+
+- [keras-transfer-learning](https://github.com/neocortex/keras-transfer-learning): 추천, 5개의 노트북으로 구성, TL은 3,4번 노트북
 
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
 
@@ -54,6 +62,14 @@
 - [Fine-Tune CNN Model via Transfer Learning](https://github.com/abnera/image-classifier): abnera, [Kaggle](https://www.kaggle.com/abnera/dogs-vs-cats-redux-kernels-edition/transfer-learning-keras-xception-cnn)
 
 * [jupyter_nception v3](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/07_Inception_Model.ipynb),[[논문]](http://arxiv.org/pdf/1512.00567v3.pdf),[[New Version]](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
+
+- [Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras](https://github.com/sujitpal/fttl-with-keras): sujitpal
+
+- [My experiments with AlexNet, using Keras and Theano](https://rahulduggal2608.wordpress.com/2017/04/02/alexnet-in-keras/): [GithubUb](https://github.com/duggalrahul/AlexNet-Experiments-Keras), [reddit](https://www.reddit.com/r/MachineLearning/comments/64cs0a/p_releasing_codes_for_training_alexnet_using_keras/?st=j1d0iu2p&sh=4bf414d8)
+  - AlexNet operates on 227×227 images.
+
+
+- [Heuritech project](https://github.com/heuritech/convnets-keras)
 
 - [CarND-Transfer-Learning-Lab](https://github.com/paramaggarwal/CarND-Transfer-Learning-Lab)
 
