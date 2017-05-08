@@ -1,7 +1,8 @@
 
 * [List of Reinforcement Learning 전반](https://github.com/dennybritz/reinforcement-learning?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more): Reinforcement Learning Algorithms in Python,OpenAI Gym, Tensorflow [2,185 stars on Github]
 
-# NL/Reinforcement Learning
+# Article / post
+
 * [Simple reinforcement learning methods to learn CartPole](http://kvfrans.com/simple-algoritms-for-solving-cartpole/) : OpenAI gym에서 만나는 가장 쉬운 강화학습 샘플인 카트폴을 상세히 풀이하여 소개
 * [강화학습 튜토리알 - 인공 신경망으로 ‘퐁’ 게임을 학습시키자](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html) : Karpathy의 Pong 강화학습 튜토리얼을 한글로 훌륭하게 번역
 * [Simple Reinforcement Learning](https://medium.com/@awjuliani) : 텐서플로우를 이용한 강화학습 자료를 올리고 있는 Arthur Julinani의 미디엄
@@ -25,6 +26,8 @@
 - [The Next Challenges for Reinforcement Learning](http://www.maluuba.com/blog/2017/3/14/the-next-challenges-for-reinforcement-learning)
 
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): 진화알고리즘 적용, OpenAI
+
+- [Introduction to Q-Learning](https://medium.com/towards-data-science/introduction-to-q-learning-88d1c4f2b49c)
 
 - [강화학습 예제 14](https://github.com/rlcode/reinforcement-learning/blob/master/README-kr.md): RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo 입니다
 
@@ -77,6 +80,9 @@
 * [텐서플로우(TensorFlow)를 이용해 간단한 DQN(Deep-Q-Networks) 에이전트를 만들어 보기 (CatchGame)](http://solarisailab.com/archives/486)
 
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/songrotek/DQN-tensorflow): Songrotek, DQN-Tensorflow
+
+- [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
+
 
 ## 4. Simple Reinforcement Learning with Tensorflow
 * [Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.ghnfibna9), [[번역]](http://ishuca.tistory.com/391)

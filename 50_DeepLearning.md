@@ -44,6 +44,35 @@ Theano, Caffe, MXNet, Apache, SystemML, BigDL, DistBelief
 - [List of Deeplearning](https://github.com/GunhoChoi/Deep_Learning_Collection): Gunho-Choi 모음
 
 
+# Paper
+![](http://andrewyuan.github.io/img/DeepLearning.png)
+
+- [List of Deep Learning Papers Reading Roadmap]9https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): 논문 읽기 로드맵
+
+- [Deep Learning Papers by task](https://github.com/sbrugman/deep-learning-papers)
+
+* [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
+* [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
+* [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
+* [Foundational papers](http://deeplearning.net/reading-list/)
+* [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) :
+- [PathNet: Evolution Channels Gradient Descent in Super
+Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
+- [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771): 딥러닝의 정확도가 높은 원인으로 `unrolled iterative estimation`로 설명한 논문 (기존:각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view")
+- [Neural Machine Translation and Sequence-to-sequence Models:
+A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을 이용한 기계 번역
+
+- [Failures of Deep Learning](https://arxiv.org/abs/1703.07950): 딥러닝의 제약(??)
+
+- [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039): 추천, 튜토리얼
+  1. DNN 디자인 요소에 대한 이해
+  2. 여러 DNN 하드웨어 벤치마크를 평가할 수 있게 됨.
+  3. 다양한 DNN 아키텍쳐와 플랫폼 비교
+  4. DNN 디자인을 여러 테크닉과 프로세스 이해
+  5. 최신 트렌드와 연구 기회 포착 등
+
+
 ## Article/Blog
 
 - [Brief History of Machine Learning](https://chatbotnewsdaily.com/since-the-initial-standpoint-of-science-technology-and-ai-scientists-following-blaise-pascal-and-804ac13d8151)
@@ -75,30 +104,7 @@ Theano, Caffe, MXNet, Apache, SystemML, BigDL, DistBelief
 
 
 
-# Paper
-![](http://andrewyuan.github.io/img/DeepLearning.png)
 
-- [List of Deep Learning Papers Reading Roadmap]9https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap): 논문 읽기 로드맵
-* [DeepLearning Papers 모음](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) : terryum 작성
-* [PathNet](https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.8rtiwsrib) : 딥마인드의 새 논문
-* [CVPR VQA Challenge Workshop논문정리](http://fbsight.com/t/vqa-challenge/2992)
-* [Foundational papers](http://deeplearning.net/reading-list/)
-* [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800) :
-- [PathNet: Evolution Channels Gradient Descent in Super
-Neural Networks](https://arxiv.org/pdf/1701.08734.pdf)
-- [Highway and Residual Networks learn Unrolled Iterative Estimation](https://arxiv.org/abs/1612.07771): 딥러닝의 정확도가 높은 원인으로 `unrolled iterative estimation`로 설명한 논문 (기존:각각의 계층이 특정한 추상적인 feature를 대표하며 이를 계층적으로 계산하기 때문이라는 "representation view")
-- [Neural Machine Translation and Sequence-to-sequence Models:
-A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을 이용한 기계 번역
-
-- [Failures of Deep Learning](https://arxiv.org/abs/1703.07950): 딥러닝의 제약(??)
-
-- [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039): 추천, 튜토리얼
-  1. DNN 디자인 요소에 대한 이해
-  2. 여러 DNN 하드웨어 벤치마크를 평가할 수 있게 됨.
-  3. 다양한 DNN 아키텍쳐와 플랫폼 비교
-  4. DNN 디자인을 여러 테크닉과 프로세스 이해
-  5. 최신 트렌드와 연구 기회 포착 등
 
 ## Tutorial (series)
 * [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.deeplearningbook.org/) :  An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville [[GitHub]](https://github.com/HFTrader/DeepLearningBook)

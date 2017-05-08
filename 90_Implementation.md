@@ -1,6 +1,3 @@
-# 나만의 모델을 만들어 보자
-* 참고 [[Youtube]](https://www.youtube.com/watch?v=076pp-42unI),  [[ppt]](http://www.slideshare.net/carpedm20/ss-63116251)
-
 
 
 ## Demo

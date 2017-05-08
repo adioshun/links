@@ -47,6 +47,8 @@
 
 # Implementation
 
+- [Udacity Deeplearning - Transfer Learning](https://github.com/udacity/deep-learning/tree/master/transfer-learning):
+
 - [Convert Caffe models to TensorFlow.](https://github.com/ethereon/caffe-tensorflow)
 
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/inception): 텐서플로우 공식 코드
@@ -67,6 +69,8 @@
 
 - [My experiments with AlexNet, using Keras and Theano](https://rahulduggal2608.wordpress.com/2017/04/02/alexnet-in-keras/): [GithubUb](https://github.com/duggalrahul/AlexNet-Experiments-Keras), [reddit](https://www.reddit.com/r/MachineLearning/comments/64cs0a/p_releasing_codes_for_training_alexnet_using_keras/?st=j1d0iu2p&sh=4bf414d8)
   - AlexNet operates on 227×227 images.
+
+- [Keras pretrained models (VGG16 and InceptionV3) + Transfer Learning for predicting classes in the Oxford 102 flower dataset](https://github.com/Arsey/keras-transfer-learning-for-oxford102):
 
 
 - [Heuritech project](https://github.com/heuritech/convnets-keras)

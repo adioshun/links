@@ -1,5 +1,6 @@
 - [List of GAN Implementation](https://github.com/wiseodd/generative-models): wiseodd, 설명 [BLog](http://wiseodd.github.io/techblog/)
 
+- [List of really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 
 # Article / Blog
 
@@ -10,6 +11,8 @@
 - [GAN by Example using Keras on Tensorflow Backend](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0): Rowel Atienza, 코드포함
 
 * [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://medium.com/waya-ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.e6alt2dpu)
+
+- [GAN by Example using Keras on Tensorflow Backend](https://medium.com/towards-data-science/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0)
 
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.pjokxgjca)
 
@@ -44,7 +47,9 @@
 - Unrolled Generative Adversarial Networks: [#1](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html), [#2](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 
 
-# 구현
+# Implementation
+
+- [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial): bstriner
 
 - [13줄 간단 코드 및 설명](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb): nlintz
 

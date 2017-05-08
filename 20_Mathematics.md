@@ -7,3 +7,5 @@
 - [[번역] 머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
 
 - [Wasserstein GAN 수학 이해하기 I](https://www.slideshare.net/ssuser7e10e4/wasserstein-gan-i)
+
+- [확률(Probability) vs 가능도(Likelihood)](http://rstudio-pubs-static.s3.amazonaws.com/204928_c2d6c62565b74a4987e935f756badfba.html)

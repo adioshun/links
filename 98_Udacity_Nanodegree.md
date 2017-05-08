@@ -1,42 +1,13 @@
 - [List of posts](https://docs.google.com/spreadsheets/d/1Sd7vKwNNkcX3sBiONXyuMAa_QnYiDGrsEcp55ciRGa4/edit?usp=sharing)
 
 
-# 1. Udacity’s Self-Driving Car
-* Udacity제공 자율 주행 관련 교육 프로그램[[홈페이지]](https://www.udacity.com/drive), [[GitHub: Code]](https://github.com/udacity/self-driving-car), [[GitHub: 시뮬레이션]](https://github.com/udacity/self-driving-car-sim)), [[Slack]](https://nd013.slack.com/messages/@slackbot/)
-  * [Term1 커리큘럼](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.9kzwdddso)
-  * [Term2 커리큘럼](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502#.drwc2n71n)
-  * Term 2 강의 신청 (by 2017.04.25) [[링크]](https://admissions.udacity.com/new/nd013)
-  * [Challenges : We’re Building an Open Source Self-Driving Car](https://medium.com/udacity/were-building-an-open-source-self-driving-car-ac3e973cd163#.w3hnxhv6l)
 
-> [GitHub: Free Nanodegree Program](https://github.com/mikesprague/udacity-nanodegrees)
+#Term 1
 
-## 1. Challenges
-[List of Challenges](https://www.udacity.com/self-driving-car)
+### Project 2 - Traffic sign detectection
 
-### 1.1 Challenge #1 : 3D Model for Camera Mount
-* [개요 설명](https://medium.com/udacity/challenge-1-3d-model-for-camera-mount-f5ffcc1655b5#.gag46u20q)
+- [SSD in TensorFlow: Traffic Sign Detection and Classification](https://github.com/georgesung/ssd_tensorflow_traffic_sign_detection)
 
-> 기기 제작 관련 내용이라 Skip
-
-### 1.2 Challenge #2 : Using Deep Learning to Predict Steering Angles.
-* [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn),  [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
-  * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning)
-  * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
-* 1등 : Team Komanda(Team Lead: Ilya Edrenkin), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/komanda)
-* 2등 : Team Rambo(Team Lead: Tanel Pärnamaa), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
-* 3등 : Team Chauffeur(Team Lead: Matt Forbes),[간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0),
- [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
-
-### 1.3 Challenge #3: Image-Based Localization
-* [개요 설명](https://medium.com/udacity/challenge-3-image-based-localization-5d9cadcff9e7#.3lstquvvf)
-
-### 1.4 Challenge #4: Self-Driving Car Android Dashboard
-* [개요 설명](https://medium.com/udacity/challenge-4-self-driving-car-android-dashboard-83a2a5c8b29e#.1ndw38fam)
-
-
-커브 계산 법 : http://www.intmath.com/applications-differentiation/8-radius-curvature.php
-
----
 ### 2.3 Project 3 — Behavioral Cloning
 * <del>[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : Jeremy Shannon, 핸들 각도 분포에 따른 성능 평가 </del>  [[GitHub: 기술적 설명]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
 * <del>[Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버 </del>
@@ -92,3 +63,68 @@ Attempting to Visualize a Convolutional Neural Network in Realtime](https://medi
 - [Preparation, Generalization, and Hacking Cars](https://medium.com/self-driving-cars/carnd-0-on-preparation-generalization-and-hacking-cars-41f4f54be5ca#.m00tx4gkr)
 - [Hardware, tools, and cardboard mockups](https://djwbrown.github.io/self-driving-nanodegree/brz/update/2017/01/23/hardware-tools-and-cardboard-mockups.html) : Dylan Brown
 - [Comparing model performance: Including Max Pooling and Dropout Layers](http://www.jessicayung.com/comparing-model-performance-including-max-pooling-and-dropout-layers/) : Jessica Yung
+
+
+
+# Term2
+
+## 1. Sensor Fusion
+- Sensors
+The first lesson of the Sensor Fusion Module covers the physics of two of the most import sensors on an autonomous vehicle — radar and lidar.
+
+- Kalman Filters
+Kalman filters are the key mathematical tool for fusing together data. Implement these filters in Python to combine measurements from a single sensor over time.
+
+- C++ Primer
+Review the key C++ concepts for implementing the Term 2 projects.
+  - Project: Extended Kalman Filters in C++
+Extended Kalman filters are used by autonomous vehicle engineers to combine measurements from multiple sensors into a non-linear model. Building an EKF is an impressive skill to show an employer.
+
+- Unscented Kalman Filter
+The Unscented Kalman filter is a mathematically-sophisticated approach for combining sensor data. The UKF performs better than the EKF in many situations. This is the type of project sensor fusion engineers have to build for real self-driving cars.
+
+> Project: Pedestrian Tracking / Fuse noisy lidar and radar data together to track a pedestrian.
+
+## 2. Localization
+- Motion
+Study how motion and probability affect your belief about where you are in the world.
+
+- Markov Localization
+Use a Bayesian filter to localize the vehicle in a simplified environment.
+
+- Egomotion
+Learn basic models for vehicle movements, including the bicycle model. Estimate the position of the car over time given different sensor data.
+
+- Particle Filter
+Use a probabilistic sampling technique known as a particle filter to localize the vehicle in a complex environment.
+
+- High-Performance Particle Filter
+Implement a particle filter in C++.
+
+> Project: Kidnapped Vehicle / Implement a particle filter to take real-world data and localize a lost vehicle.
+
+## 3. Control
+- Control
+Learn how control systems actuate a vehicle to move it on a path.
+
+- PID Control
+Implement the classic closed-loop controller — a proportional-integral-derivative control system.
+
+- Linear Quadratic Regulator
+Implement a more sophisticated control algorithm for stabilizing the vehicle in a noisy environment.
+
+> Project: Lane-Keeping / Implement a controller to keep a simulated vehicle in its lane. For an extra challenge, use computer vision techniques to identify the lane lines and estimate the cross-track error.
+
+
+- [Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170)
+
+# Project 6 — Extended Kalman Filter
+
+- [Helping a Self Driving Car Localize itself](https://medium.com/@priya.dwivedi/helping-a-self-driving-car-localize-itself-88705f419e4a): Priya Dwivedi, Particle Filters: higher accuracy — less than 10 cm, [[GitHUb]](https://github.com/priya-dwivedi/CarND-Kidnapped-Vehicle-Project)
+
+- [Robot Localization using Particle Filter](https://medium.com/@ioarun/robot-localization-using-particle-filter-fe051c5d38e2): Arun Kumar
+
+- [Udacity Self-Driving Car Nanodegree Project 6 — Extended Kalman Filte](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-6-extended-kalman-filter-c3eac16c283d): Jeremy Shannon
+
+# pedestrians
+- [Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170): Priya Dwivedi
