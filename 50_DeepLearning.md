@@ -43,6 +43,7 @@ Theano, Caffe, MXNet, Apache, SystemML, BigDL, DistBelief
 - [List of Reading](http://deeplearning.net/reading-list/)
 - [List of Deeplearning](https://github.com/GunhoChoi/Deep_Learning_Collection): Gunho-Choi 모음
 
+- [List of All AI Resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 
 # Paper
 ![](http://andrewyuan.github.io/img/DeepLearning.png)
@@ -155,6 +156,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
  * [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 * [MXNet](https://github.com/Azure/Cortana-Intelligence-Gallery-Content/tree/master/Tutorials/Training-ResNet-on-ImageNet-with-MRS-and-GPU-VMs) : Image Classification of ImageNet database
 
+- [MNIST Competition Tensorflow KR Group](https://github.com/kkweon/mnist-competition)
 
 
 # Datasets

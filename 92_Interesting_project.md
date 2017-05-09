@@ -2,3 +2,7 @@
 
 
 - [toy-autonomous-car](https://github.com/srikanthpagadala/toy-autonomous-car): [post](https://medium.com/@srikanth.pagadala/toy-autonomous-car-7a52a7c7d7b3)
+
+- [openpilot](https://github.com/commaai/openpilot): Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS)
+
+- [Autonomous Vehicle Speed Estimation from dashboard cam](https://chatbotslife.com/autonomous-vehicle-speed-estimation-from-dashboard-cam-ca96c24120e4): 카메라 촬영 정보를 기반으로 `속도` 파악 하기 

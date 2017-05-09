@@ -31,11 +31,8 @@
 
 - [강화학습 예제 14](https://github.com/rlcode/reinforcement-learning/blob/master/README-kr.md): RLCode팀이 직접 만든 강화학습 예제들을 모아놓은 Repo 입니다
 
-# A3C
-
 - Asynchronous Advantage Actor-Critic (A3C), [[분석글]](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/), [[논문]](https://arxiv.org/pdf/1602.01783.pdf)
-
-- DQN의 단점을 보안한 제안(2016)
+  - DQN의 단점을 보안한 제안(2016)
 
 
 # Tutorial
@@ -141,3 +138,8 @@ Lab 7-4: DQN Simple Pacman Demo (여러분은 최고 몇점까지 갈수 있나�
 
 ## ICML 2016 Tutorials
 * [All list](http://techtalks.tv/icml/2016/tutorials/)
+
+
+# implementation
+
+- [Reinforcement Agent to play the Helicopter Game](https://github.com/dandxy89/rf_helicopter)

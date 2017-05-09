@@ -72,6 +72,7 @@
 
 - [Keras pretrained models (VGG16 and InceptionV3) + Transfer Learning for predicting classes in the Oxford 102 flower dataset](https://github.com/Arsey/keras-transfer-learning-for-oxford102):
 
+- [How to use transfer learning and fine-tuning in Keras and Tensorflow to build an image recognition system and classify (almost) any object](https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-keras-and-tensorflow-to-build-an-image-recognition-94b0b02444f2)
 
 - [Heuritech project](https://github.com/heuritech/convnets-keras)
 

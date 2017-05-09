@@ -20,11 +20,17 @@
 ### 1.2 Challenge #2 : Using Deep Learning to Predict Steering Angles.
 * [개요 설명](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3#.7vo2x0vfn),  [결과 설명](https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c#.84hhfrsfc)
   * [GitHub: End to End Learning for Self-Driving Car](https://github.com/windowsub0406/Behavior-Cloning)
+  - [GitHub: Keras Implementation of End to End Learning for Self-Driving Cars](https://github.com/0bserver07/Nvidia-Autopilot-Keras)
+  - [GitHub: TensorFlow Implementation of End to End Learning for Self-Driving Cars](https://github.com/SullyChen/Autopilot-TensorFlow)
   * [Coding a Deep Neural Network to Steer a Car: Step By Step](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.7lxkxhoyd)
 * 1등 : Team Komanda(Team Lead: Ilya Edrenkin), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/komanda)
 * 2등 : Team Rambo(Team Lead: Tanel Pärnamaa), [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/rambo)
 * 3등 : Team Chauffeur(Team Lead: Matt Forbes),[간략 설명](https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.pmiaer9k0),
  [[GitHub]](https://github.com/udacity/self-driving-car/tree/master/steering-models/community-models/chauffeur)
+
+- 기타
+  - [abhayv](https://github.com/abhayv/self_driving_udacity_challenge2)
+
 
 ### 1.3 Challenge #3: Image-Based Localization
 * [개요 설명](https://medium.com/udacity/challenge-3-image-based-localization-5d9cadcff9e7#.3lstquvvf)
