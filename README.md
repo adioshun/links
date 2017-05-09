@@ -3,9 +3,14 @@
 
 # 논문 
 
+- [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
+
+- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴
+
+- [Arxiv-sanity](http://www.arxiv-sanity.com/): arxiv사이트 Re-Format 사이트  
 
 
-- [GitXiv](http://www.gitxiv.com/) : 
+- [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스 
 
 # GitHub 연동
 
