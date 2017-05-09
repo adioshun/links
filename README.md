@@ -5,7 +5,7 @@
 
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
 
-- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴
+- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[참고:수식 작성]](http://www.hostmath.com/)
 
 - [Arxiv-sanity](http://www.arxiv-sanity.com/): arxiv사이트 Re-Format 사이트  
 
