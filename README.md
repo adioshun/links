@@ -9,8 +9,9 @@
 
 - [Arxiv-sanity](http://www.arxiv-sanity.com/): arxiv사이트 Re-Format 사이트  
 
-
 - [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스 
+
+- [Distill](http://distill.pub/): Web기반 저널
 
 # GitHub 연동
 
