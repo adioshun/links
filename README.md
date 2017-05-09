@@ -13,6 +13,8 @@
 
 - [Distill](http://distill.pub/): Web기반 저널
 
+- [Research Gate](https://www.researchgate.net/home): 연구원들의SNS
+
 # GitHub 연동
 
 - [Github](https://github.com/adioshun)
