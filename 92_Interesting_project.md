@@ -5,4 +5,10 @@
 
 - [openpilot](https://github.com/commaai/openpilot): Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS)
 
-- [Autonomous Vehicle Speed Estimation from dashboard cam](https://chatbotslife.com/autonomous-vehicle-speed-estimation-from-dashboard-cam-ca96c24120e4): 카메라 촬영 정보를 기반으로 `속도` 파악 하기 
+- [Autonomous Vehicle Speed Estimation from dashboard cam](https://chatbotslife.com/autonomous-vehicle-speed-estimation-from-dashboard-cam-ca96c24120e4): 카메라 촬영 정보를 기반으로 `속도` 파악 하기
+
+- [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+
+- [자율주행 드론](https://www.gitbook.com/book/dnddnjs/drone-autonomous-flight/details): GitBook
+
+- [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)

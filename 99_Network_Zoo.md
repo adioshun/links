@@ -5,7 +5,7 @@
 - [VGG in TensorFlow](https://www.cs.toronto.edu/~frossard/post/vgg16/)
 
 
-
+- [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba)
 
 
 - [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)

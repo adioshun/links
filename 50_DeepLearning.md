@@ -162,6 +162,8 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 # Datasets
 - 얼굴 이미지 : [PubFig](http://www.cs.columbia.edu/CAVE/databases/pubfig/)
 
+- [Open Data](https://data.world)
+
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ###### [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)

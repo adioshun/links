@@ -10,34 +10,20 @@
 
 ### 2.3 Project 3 — Behavioral Cloning
 * <del>[Udacity Self-Driving Car Nanodegree Project 3 — Behavioral Cloning](https://medium.com/udacity/udacity-self-driving-car-nanodegree-project-3-behavioral-cloning-446461b7c7f9#.j6t0algy9) : Jeremy Shannon, 핸들 각도 분포에 따른 성능 평가 </del>  [[GitHub: 기술적 설명]](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
-* <del>[Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버 </del>
-- <del>[Training a Self-Driving Car via Deep Learning](http://blog.openroar.com/2016/12/29/self-driving-car-deep-learning/) : James Jackson </del>
-- [GitHub: Behavioral Cloning](https://github.com/jinchenglee/CarND-Behavioral-Cloning/blob/master/README.md) : jinchenglee
-- [Behavioural Cloning Applied to Self-Driving Car on a Simulated Track](https://medium.com/towards-data-science/behavioural-cloning-applied-to-self-driving-car-on-a-simulated-track-5365e1082230#.wkv74ptvr)
-- [Self Driving Car — Technology drives the Future !!](https://medium.com/@sujaybabruwad/teaching-a-car-to-ride-itself-by-showing-it-how-a-human-driver-does-it-797cc9c2462b#.3a1pznag8)
-- [You don’t need lots of data! (Udacity Behavioral Cloning)](https://medium.com/@fromtheast/you-dont-need-lots-of-data-udacity-behavioral-cloning-6d2d87316c52#.lw2tuad26)
-- [GitHub: windowsub0406](https://github.com/windowsub0406/Behavior-Cloning)
-- <del> [Behavioral Cloning — Transfer Learning with Feature Extraction](https://medium.com/@kastsiukavets.alena/behavioral-cloning-transfer-learning-with-feature-extraction-a17b0ebabf67#.8rw2nug86): Alena Kastsiukavets, Transfer Learning 기법 적용 </del>
-- <del>[Denise R. JamesFollowing](https://medium.com/@deniserjames/denise-james-bsee-msee-5beb448cf184#.b08sv8h38) </del>
-- [Behavioral Cloning For Self Driving Cars](https://medium.com/@ValipourMojtaba/my-approach-for-project-3-2545578a9319#.337eo3ns7) : Mojtaba Valipour
-- [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.10nhc95af) : Vivek Yadav
 
-- [Attempting to Visualize a Convolutional Neural Network in Realtime](https://medium.com/@paramaggarwal/attempting-to-visualize-a-convolutional-neural-network-in-realtime-1edd1f3d6c13#.r2q33ajg7) : Param Aggarwal
+* <del>[Teaching a car to drive itself](https://chatbotslife.com/teaching-a-car-to-drive-himself-e9a2966571c5#.g851pul4b) Arnaldo Gunzi, 전처리의 모든 부분 커버 </del>
+
+- <del> [Behavioral Cloning — Transfer Learning with Feature Extraction](https://medium.com/@kastsiukavets.alena/behavioral-cloning-transfer-learning-with-feature-extraction-a17b0ebabf67#.8rw2nug86): Alena Kastsiukavets, Transfer Learning 기법 적용 </del>
+
+- [Behavioral Cloning For Self Driving Cars](https://medium.com/@ValipourMojtaba/my-approach-for-project-3-2545578a9319#.337eo3ns7) : Mojtaba Valipour
+
+- [An augmentation based deep neural network approach to learn human driving behavior](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9#.10nhc95af) : Vivek Yadav
 
 - [MainSqueeze: The 52 parameter model that drives in the Udacity simulator](https://mez.github.io/deep%20learning/2017/02/14/mainsqueeze-the-52-parameter-model-that-drives-in-the-udacity-simulator/) : Mez Gebre, 추천
 
 - [End-to-end learning for self-driving cars](http://navoshta.com/end-to-end-deep-learning/) : Alex Staravoitau, 강추
 
-- [Self-Driving Car Simulator — Behavioral Cloning](https://medium.com/@jmlbeaujour/self-driving-car-simulator-behavioral-cloning-p3-c9f4338c86b0#.duindt4b0) : Jean-Marc Beaujour
-
 - [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a#.ix1eccm5j): Matt Harvey, Keras코드 제공
-
-- [End to End Learning for Self-Driving Cars](https://github.com/0bserver07/Nvidia-Autopilot-Keras): Keras + Theano '0.9, GTA V Dataset
-
-- [Making A Virtual Self-Driving Car](https://medium.com/@muddassirahmed/making-a-virtual-self-driving-car-2d81f3f539e8): Muddassir Ahmed
-
-- [Udacity Self-Driving Car Engineer Nanodegree - Behavioral Cloning Project](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project)
-
 
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
@@ -135,3 +121,5 @@ Implement a more sophisticated control algorithm for stabilizing the vehicle in 
 
 # pedestrians
 - [Tracking pedestrians for self driving cars](https://medium.com/towards-data-science/tracking-pedestrians-for-self-driving-cars-ccf588acd170): Priya Dwivedi
+
+- [Udacity Self-Driving Car Nanodegree Project 7 — Unscented Kalman Filter](https://medium.com/@jeremyeshannon/udacity-self-driving-car-nanodegree-project-7-unscented-kalman-filter-ea8bef72a5c7)

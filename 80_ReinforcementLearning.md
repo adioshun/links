@@ -39,6 +39,7 @@
 
 - [GitHub: Practical_RL](https://github.com/yandexdataschool/Practical_RL) : HSE대학교 강의 자료
 
+- [Gitbook:Fundamental of Reinforcement Learning](https://www.gitbook.com/book/dnddnjs/rl/details): 모두의 연구소 Woong won, Lee
 
 - [강화학습 그리고 OpenAI](http://www.modulabs.co.kr/RL_library/1705): 모두의 연구실 자료
   - 1. Introduction to OpenAI

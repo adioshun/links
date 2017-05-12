@@ -71,7 +71,7 @@ Transforming a query image according to an example pair of related images
 * [논문](http://www-personal.umich.edu/~reedscot/nips2015.pdf) : Deep Visual Analogy-Making
 * [Github](https://github.com/carpedm20/visual-analogy-tensorflow)
 
-
+- [Image augmentation for machine learning experiments.](https://github.com/aleju/imgaug)
 
 ### 그림 그리기(Draw a paint)
 * [샘플코드](https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/) : 반고흐 '별이 빛나는 밤' 같은 그림으로 변경

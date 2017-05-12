@@ -1,15 +1,24 @@
 
+# Paper
+
+-
 
 
-- [10 steps to bootstrap your machine learning project (part 1)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-1-aa7e1031f5b1)
+# Article / Post
 
-- [10 steps to bootstrap your machine learning project (part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)
+- <del>[14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)>/del>: 추천
+
+- 10 steps to bootstrap your machine learning project: [(part 1)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-1-aa7e1031f5b1), [(part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)]
+
+- Improve your neural networks:  [(Part 1)](http://adventuresinmachinelearning.com/improve-neural-networks-part-1/), [(Part 1한글)](https://www.nextobe.com/single-post/2017/05/11/Neural-Network-%25EA%25B0%259C%25EC%2584%25A0)
 
 - [Must Know Tips/Tricks in Deep Neural Networks (by  Vincent Granville)](http://www.datasciencecentral.com/profiles/blogs/must-know-tips-tricks-in-deep-neural-networks)
 
 - [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 
 - [Neural Network Tuning with TensorFlow](https://medium.com/computer-car/neural-network-tuning-with-tensorflow-cc14a23f132c)
+
+-
 
 - [How to Prevent Overfitting](http://sinahab.com/blog/how-to-prevent-overfitting/)
 
@@ -66,6 +75,8 @@ Here are some resources for tips and tricks for training neural networks. ([Reso
 - [How big should batch size and number of epochs be when fitting a model in Keras?](http://stackoverflow.com/questions/35050753/how-big-should-batch-size-and-number-of-epochs-be-when-fitting-a-model-in-keras)
 
 - [Hyperparameter search benchmark?](https://www.reddit.com/r/MachineLearning/comments/69n74f/p_hyperparameter_search_benchmark/)
+
+- <del>[How to design deep convolutional neural networks?](http://stackoverflow.com/questions/37280910/how-to-design-deep-convolutional-neural-networks): </del> 결론은 정해진 룰 없음. 경험적으로 반복 수행으로 찾아 내는것임
 
 # Limitation / Further Readings
 
