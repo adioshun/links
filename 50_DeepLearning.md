@@ -133,9 +133,13 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 
 ## Deep Visualization toolbox
-- [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis):
+- [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis): [중요] Caffe모델에서 CNN 각 레이어에서 보여 지는 값 시각화 , [[github]](https://github.com/yosinski/deep-visualization-toolbox), [[Tensorflow 버젼]](https://github.com/tensorflow/tensorflow/issues/842)
+  - Deep Visualization Toolbox 의 케라스(Keras) 버전격인 퀴버([Quiver](https://jakebian.github.io/quiver/), [github](https://github.com/jakebian/quiver)), [한글설명](https://tensorflow.blog/tag/deep-visualization-toolbox/)
+  - [https://aiexperiments.withgoogle.com/what-neural-nets-see](https://aiexperiments.withgoogle.com/what-neural-nets-see), [[Code]](https://github.com/ml4a/ml4a-ofx)
 
 - [Tensorflow PlayGround](http://playground.tensorflow.org)
+
+- [Image Kernels](http://setosa.io/ev/image-kernels/): 각 필터 역할 확인 가능한 사이트
 
 ## 추천 모델들
 - [Neural Network Architectures](https://medium.com/towards-data-science/neural-network-architectures-156e5bad51ba): 유명한 모델들 전체 설명
