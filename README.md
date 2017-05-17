@@ -1,6 +1,7 @@
 # Deeplearning을 공부하기 위해 필요한 자료들 모음 입니다.
 
-88
+88 Edit 기능 Pull 테스트 위 점 
+
 # 논문
 
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
