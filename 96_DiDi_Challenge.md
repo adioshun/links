@@ -9,10 +9,7 @@
 - Round 2(6/5~7/3) - Vehicles, Pedestrians : The second round will challenge participants to identify estimated dimensions and orientation, in addition to added pedestrians.
 
 
-
-- [UDacity-Challenge Hompage](https://challenge.udacity.com)
-
-- [Didi Challenge Github](https://github.com/udacity/didi-competition)
+> [UDacity-Challenge Hompage](https://challenge.udacity.com), [Didi Challenge Github](https://github.com/udacity/didi-competition)
 
 
 # hengcherkeng
