@@ -1,5 +1,11 @@
 
-- [UDacity Hompage](https://challenge.udacity.com)
+자율주행 차 개발의 주요 Task중 하나는 주변 상황을 이해 하는 것이다. 
+
+본 Challenge를 통해 참가자는 LIDA데이터와 Camera데이터를 활용하여 주변 상황을 인지 하여야 한다. 
+- 장애물 탐지
+- 노이즈 제거 
+
+[UDacity Hompage](https://challenge.udacity.com)
 
 # hengcherkeng
 
