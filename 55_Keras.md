@@ -16,6 +16,8 @@
 
 * <del> Keras Tutorial: The Ultimate Beginner’s Guide to Deep Learning in Python: [원문](https://elitedatascience.com/keras-tutorial-deep-learning-in-python?utm_source=mybridge&utm_medium=email&utm_campaign=read_more), [한글 번역](https://byeongkijeong.github.io/Keras-cnn-tutorial/)</del>
 
+- <del>[Keras Tensorflow tutorial: Practical guide from getting started to developing complex deep neural network](http://cv-tricks.com/tensorflow-tutorial/keras/)</del>
+
 * [Keras as a simplified interface to TensorFlow: tutorial](https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html): Keras 공식 블로그, Keras와 Tensorflow를 동시에 사용하는 방법
 
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
