@@ -5,6 +5,9 @@
 본 Challenge를 통해 참가자는 LIDA데이터와 Camera데이터를 활용하여 주변 상황을 인지 하여야 한다. 
 
 - Round 1(3/22~5/31) Vehicles : The first round will provide data collected from sensors on a moving car, and competitors must identify position of a single moving obstacles.
+	- 데이터 셋 : ROS bag = [Kitti Datasets](http://www.cvlibs.net/datasets/kitti/raw_data.php) + RADAR정보 + GPS/IMU 
+    - `Velodyne points`정보는 용량 문제로 제거 되어 있으므로 Velodyne LIDAR driver must be run during bag playback. 
+
 
 - Round 2(6/5~7/3) - Vehicles, Pedestrians : The second round will challenge participants to identify estimated dimensions and orientation, in addition to added pedestrians.
 
