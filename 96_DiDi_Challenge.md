@@ -1,9 +1,14 @@
+![](http://i.imgur.com/Kmm1uwY.png)
 
 자율주행 차 개발의 주요 Task중 하나는 주변 상황을 이해 하는 것이다. 
 
 본 Challenge를 통해 참가자는 LIDA데이터와 Camera데이터를 활용하여 주변 상황을 인지 하여야 한다. 
-- 장애물 탐지
-- 노이즈 제거 
+
+- Round 1(3/22~5/31) Vehicles : The first round will provide data collected from sensors on a moving car, and competitors must identify position of a single moving obstacles.
+
+- Round 2(6/5~7/3) - Vehicles, Pedestrians : The second round will challenge participants to identify estimated dimensions and orientation, in addition to added pedestrians.
+
+
 
 - [UDacity-Challenge Hompage](https://challenge.udacity.com)
 
