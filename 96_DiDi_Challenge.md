@@ -5,7 +5,10 @@
 - 장애물 탐지
 - 노이즈 제거 
 
-[UDacity Hompage](https://challenge.udacity.com)
+- [UDacity-Challenge Hompage](https://challenge.udacity.com)
+
+- [Didi Challenge Github](https://github.com/udacity/didi-competition)
+
 
 # hengcherkeng
 
