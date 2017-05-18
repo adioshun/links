@@ -1,6 +1,10 @@
 # List
 - [List of TensorFlow Python reference documentation](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/api_docs/python/)
 
+# Paper 
+
+- [논문:https://arxiv.org/pdf/1610.01178.pdf](https://arxiv.org/pdf/1610.01178.pdf)
+
 # 기초 강좌
 1. 기본
   - <del> [Basics of TensorFlow](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_tensorflow.ipynb): 텐서플로우 변수, 상수 처리법 </del>
@@ -50,7 +54,8 @@
 
 
 
-# [Tool]텐서 플로우 참고 자료
+# Article / Post
+
 * [Tensorflow Official Tutorial_CNN](https://www.tensorflow.org/tutorials/deep_cnn/)
 * [Tensorflow Official Tutorial_Image Recognition](https://www.tensorflow.org/tutorials/image_recognition/)
 * [TensorFlow 로 시작하는 기계 학습과 딥 러닝](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741) : CodeOnWeb의 총 9장중 6장 공개
@@ -75,7 +80,9 @@
 * [pdf: TensorFlow Worksop](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) : [김성훈교수 추천] 간단한 모델, 데이터 읽기, Word2Vec, 인셥션 모델 재사용, hyperparameter 자동튜닝, TensorBoard, [[GitHub]](https://github.com/amygdala/tensorflow-workshop)
 - [텐서플로우 - 파일에서 학습데이타를 읽어보자#2 CSV 파일을 읽어보자](http://bcho.tistory.com/1165)
 
-- [논문:https://arxiv.org/pdf/1610.01178.pdf](https://arxiv.org/pdf/1610.01178.pdf)
+
+- [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
+
 
 ### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)
@@ -85,15 +92,7 @@
 
 - [TensorFlow에서의 디버깅을 손쉽게 해주는 tfdbg를 소개합니다.](https://developers-kr.googleblog.com/2017/03/debug-tensorflow-models-with-tfdbg.html)
 
-### TensorBoard
-* [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
-- [Youtube: 모두를 위한 딥려닝](https://youtu.be/eDKxY5Z5dVQ)
-- [Youtube: 강의중 일부](https://youtu.be/DYlHnxfrrZY?t=51m43s)
-- [Hands-on TensorBoard (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=eBbEDRsCmv4&feature=youtu.be): [[코드]](https://gist.githubusercontent.com/dandelionmane/4f02ab8f1451e276fea1f165a20336f1/raw/bb6be73bd34211543ed16bc3a7f8e9646e5892ae/mnist.py)
 
-- [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
-
-- [Simple Introduction to Tensorboard Embedding Visualisation](http://www.pinchofintelligence.com/simple-introduction-to-tensorboard-embedding-visualisation/)
 
 # 디버깅
 - [TF에서 그래프 중간 중간에 값을 보려면 ](https://www.facebook.com/groups/TensorFlowKR/permalink/452606621747068/)
