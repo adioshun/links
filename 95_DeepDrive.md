@@ -86,6 +86,8 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 - [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 - [Towards a real-time vehicle detection: SSD multibox approach](https://medium.com/@vivek.yadav/towards-a-real-time-vehicle-detection-ssd-multibox-approach-2519af2751c#.cldxjz489) : Vivek Yadav
 
+- [SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving](https://github.com/BichenWuUCB/squeezeDet): GitHub
+
 
 # Open Data
 * [옥스포드 Robot Car Dataset](http://robotcar-dataset.robots.ox.ac.uk/index.html)

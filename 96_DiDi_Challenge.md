@@ -1,11 +1,11 @@
 ![](http://i.imgur.com/Kmm1uwY.png)
 
-자율주행 차 개발의 주요 Task중 하나는 주변 상황을 이해 하는 것이다. 
+자율주행 차 개발의 주요 Task중 하나는 주변 상황을 이해 하는 것이다.
 
-본 Challenge를 통해 참가자는 LIDA데이터와 Camera데이터를 활용하여 주변 상황을 인지 하여야 한다. 
+본 Challenge를 통해 참가자는 LIDA데이터와 Camera데이터를 활용하여 주변 상황을 인지 하여야 한다.
 
 - Round 1(3/22~5/31) Vehicles : The first round will provide data collected from sensors on a moving car, and competitors must identify position of a single moving obstacles.
-	- 데이터 셋 : ROS bag = [Kitti Datasets](http://www.cvlibs.net/datasets/kitti/raw_data.php) + RADAR정보 + GPS/IMU 
+	- 데이터 셋 : ROS bag = [Kitti Datasets](http://www.cvlibs.net/datasets/kitti/raw_data.php) + RADAR정보 + GPS/IMU
 
 - Round 2(6/5~7/3) - Vehicles, Pedestrians : The second round will challenge participants to identify estimated dimensions and orientation, in addition to added pedestrians.
 
@@ -34,17 +34,21 @@
 - [Vehicle detection using LIDAR: EDA, augmentation and feature extraction](https://chatbotslife.com/vehichle-detection-using-lidar-eda-augmentation-and-feature-extraction-udacity-didi-challenge-4c95a0c28566)
 
 
+# markstrefford
+
+- [github](https://github.com/markstrefford/didi-sdc-challenge-2017)
+
+
+
 # ROS
 
 - [play a rosbag file and visualize the result in RViz](https://getpocket.com/a/read/1673992757): jokla
 
 - [Installing Velodyne Drivers On Ros Kinetic and Ubuntu 16.04 LTS (Xenial)](https://github.com/markstrefford/udacity-didi-competition/blob/master/velodyne-tutorials/Installing-Velodyne-Drivers-On-Ros-Kinetic-Ubuntu-16.04-LTS-Xenial.md): markstrefford
 
-
-
 - [ROS and ROS bags - Part2](http://ronny.rest/blog/post_2017_03_30_ros2/)
 - [ROS and ROS bags - Part3](http://ronny.rest/blog/post_2017_03_30_ros3_and_lidar/)
 
+# Docker
 
-
-- [Vehicle detection using LIDAR: EDA, augmentation and feature extraction (Udacity/Didi challenge)](https://chatbotslife.com/vehichle-detection-using-lidar-eda-augmentation-and-feature-extraction-udacity-didi-challenge-4c95a0c28566): Vivek Yadav
+- [Karthikksamy-Teamsf4win](https://hub.docker.com/r/karthikksamy/teamsf4win/0)
