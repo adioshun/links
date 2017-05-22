@@ -1,7 +1,7 @@
 # List
 - [List of TensorFlow Python reference documentation](https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/api_docs/python/)
 
-# Paper 
+# Paper
 
 - [논문:https://arxiv.org/pdf/1610.01178.pdf](https://arxiv.org/pdf/1610.01178.pdf)
 

@@ -10,7 +10,15 @@
 - Round 2(6/5~7/3) - Vehicles, Pedestrians : The second round will challenge participants to identify estimated dimensions and orientation, in addition to added pedestrians.
 
 
-> [Homepage](https://www.udacity.com/didi-challenge), [Details](https://challenge.udacity.com), [Github](https://github.com/udacity/didi-competition)
+> [Homepage](https://www.udacity.com/didi-challenge), [Details #1](https://challenge.udacity.com), - [Details #2](http://www.yuchao.us/2017/04/didi-challenge.html)[Github](https://github.com/udacity/didi-competition)
+
+
+
+# Solution
+
+- [HenryDev](https://github.com/HenryDev/MLND-P5-DiDi-Chuxing-Algorithm-Competition): MLND-P5-DiDi-Chuxing-Algorithm-Competition
+
+- [omgteam](https://github.com/omgteam/Didi-competition-solution): This repository is to provide visualization, calibration, detection ROS nodes.
 
 
 # hengcherkeng
@@ -24,7 +32,6 @@
 - [part.4a: Car and pedestrian Detection using Lidar and RGB](https://medium.com/@hengcherkeng/part-4-didi-udacity-challenge-2017-car-and-pedestrian-detection-using-lidar-and-rgb-6f6a964b94b5)
 
 - [part.4b: Car and pedestrian Detection using Lidar and RGB](https://medium.com/@hengcherkeng/part-4b-didi-udacity-challenge-2017-car-and-pedestrian-detection-using-lidar-and-rgb-9f8b910562fc)
-
 
 - [hengck23's GitHub](https://github.com/hengck23/didi-udacity-2017)
 
@@ -40,14 +47,32 @@
 
 
 
-# ROS
+# Ronny Restrep
 
-- [play a rosbag file and visualize the result in RViz](https://getpocket.com/a/read/1673992757): jokla
+- [Lidar Data to 2D](http://ronny.rest/blog/post_2017_03_25_lidar_to_2d/)
 
-- [Installing Velodyne Drivers On Ros Kinetic and Ubuntu 16.04 LTS (Xenial)](https://github.com/markstrefford/udacity-didi-competition/blob/master/velodyne-tutorials/Installing-Velodyne-Drivers-On-Ros-Kinetic-Ubuntu-16.04-LTS-Xenial.md): markstrefford
+- [Lidar Birds Eye Views](http://ronny.rest/blog/post_2017_03_26_lidar_birds_eye/)
+
+- [ROS and ROS bags - Part1](http://ronny.rest/blog/post_2017_03_29_ros/)
 
 - [ROS and ROS bags - Part2](http://ronny.rest/blog/post_2017_03_30_ros2/)
+
 - [ROS and ROS bags - Part3](http://ronny.rest/blog/post_2017_03_30_ros3_and_lidar/)
+
+
+# ROS Viwer
+
+
+- [redlinesolutions](https://github.com/redlinesolutions/Udacity-Didi-Challenge-ROSBag-Reader): Udacity-Didi-Challenge-ROSBag-Reader
+
+- [mjshiggins](https://github.com/mjshiggins/ros-examples): height-map
+
+- <del>[RViz for DiDi challenge](https://github.com/jokla/didi_challenge_ros)</del>: jokla
+
+- [Youtube](https://www.youtube.com/watch?v=RVFpwMAeBOA): a small tutorial how to visualize the given bag files in ROS., [[GitHub]](https://github.com/didi-challenge-team-khodro/data_analysis)
+
+
+
 
 # Docker
 
