@@ -12,6 +12,8 @@
 
 > [Homepage](https://www.udacity.com/didi-challenge), [Details #1](https://challenge.udacity.com), - [Details #2](http://www.yuchao.us/2017/04/didi-challenge.html)[Github](https://github.com/udacity/didi-competition)
 
+[Discussions-udacity](https://discussions.udacity.com/c/didi-udacity-challenge-2017)
+
 
 
 # Solution
@@ -20,6 +22,9 @@
 
 - [omgteam](https://github.com/omgteam/Didi-competition-solution): This repository is to provide visualization, calibration, detection ROS nodes.
 
+- [3D Vehicle Detection for Self Driving Car](https://experiencor.github.io/sdc_3d.html)
+
+- [LIDAR Point Clouds and Deep Learning](https://bigsnarf.wordpress.com/2017/05/12/lidar-point-clouds-and-deep-learning/)
 
 # hengcherkeng
 
