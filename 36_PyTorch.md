@@ -14,6 +14,8 @@
 
 - [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 
+- [yunjey](https://github.com/yunjey/pytorch-tutorial)
+
 # Implementation
 
 - [토치 학습 자료 한국어 번역본](https://github.com/jaewoosong/torch-tutorial-korean/)
