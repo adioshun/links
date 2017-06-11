@@ -1,5 +1,8 @@
 [모델들 벤치마킹](https://github.com/jcjohnson/cnn-benchmarks): jcjohnson' CNN-benchmarks, AlexNet, Inception, VGG, ResNet
 
+[Modern Machine Learning Algorithms: Strengths and Weaknesses](https://elitedatascience.com/machine-learning-algorithms)
+
+
 # VGG
 
 - [VGG in TensorFlow](https://www.cs.toronto.edu/~frossard/post/vgg16/)

@@ -43,6 +43,8 @@
 
 - [Image Segmentation](https://experiencor.github.io/segmentation.html)
 
+- [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org): [정리](https://www.facebook.com/groups/AIKoreaOpen/permalink/1546985648668873/)
+
 
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)

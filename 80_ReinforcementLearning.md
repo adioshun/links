@@ -35,6 +35,8 @@
   - DQN의 단점을 보안한 제안(2016)
 
 
+- [one-step-Q-learning algorithm for this AI ](https://github.com/barkdong123/ToeBot/tree/master/Prj_mayDay/Prj_FrankenShtine/jamessSkynetProject): q-learning 을 이용한 틱-택-토 AI 를 만들어보았습니다. 
+
 # Tutorial
 
 - [GitHub: Practical_RL](https://github.com/yandexdataschool/Practical_RL) : HSE대학교 강의 자료

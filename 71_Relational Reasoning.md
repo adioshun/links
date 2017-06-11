@@ -1,5 +1,9 @@
 
 
+# Article/post
+
+- ["추론도 가능하다"…AI 연구 새 이정표 썼다](http://m.zdnet.co.kr/news_view.asp?article_id=20170609151041#imadnews): zdnet뉴스
+
 [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 - 시각인식과 문장이해가 결합된 관계추론(RN : Relational Reasoning)에 관한 딥마인드의 논문
 - 딥마인드

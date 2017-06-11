@@ -1,6 +1,6 @@
 ![](https://github.com/jettan/tikz_cnn/blob/master/output.png?raw=true)
 
-### TensorBoard
+# TensorBoard
 * [Jupyter에서 텐서보드 출력하기](http://stackoverflow.com/questions/38189119/simple-way-to-visualize-a-tensorflow-graph-in-jupyter)
 - [Youtube: 모두를 위한 딥려닝](https://youtu.be/eDKxY5Z5dVQ)
 - [Youtube: 강의중 일부](https://youtu.be/DYlHnxfrrZY?t=51m43s)
@@ -11,6 +11,8 @@
 - [Simple Introduction to Tensorboard Embedding Visualisation](http://www.pinchofintelligence.com/simple-introduction-to-tensorboard-embedding-visualisation/)
 
 - [Tensorboard-embedding-visualization](https://github.com/jireh-father/tensorboard-embedding-visualization)
+
+- [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
 
 
 # Tikz

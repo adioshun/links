@@ -10,6 +10,11 @@
 
 # Article / Post
 
+- [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
+  - Learning I: the value of pre-training
+  - Learning II: caveats of real-world label distributions
+  - Learning III: understanding black box models
+
 - <del>[14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)>/del>: 추천
 
 - 10 steps to bootstrap your machine learning project: [(part 1)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-1-aa7e1031f5b1), [(part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)]
@@ -61,14 +66,26 @@ Some important parameters to look out for while optimizing neural networks are:
 Here are some resources for tips and tricks for training neural networks. ([Resource 1](http://cs231n.github.io/neural-networks-3/#baby), [Resource 2](https://www.quora.com/Machine-Learning-What-are-some-tips-and-tricks-for-training-deep-neural-networks), [Resource 3](https://arxiv.org/abs/1206.5533))
 
 
+# Tools
+
+-[Xcessiv](https://github.com/reiinakano/xcessiv): 웹에서 모델과 데이터를 지정하고 하이퍼파라미터 탐색을 위한 조건을 걸어서 자동으로 튜닝해주는 코드
+
+- 
+
 # 나만의 모델을 만들어 보자
 * 참고 [[Youtube]](https://www.youtube.com/watch?v=076pp-42unI),  [[ppt]](http://www.slideshare.net/carpedm20/ss-63116251)
 
 
 
 - [추천][Use Keras Deep Learning Models with Scikit-Learn in Python](http://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/): Keras와 Scikit-Learn을 이용한 성능향상
+
 * [Evaluate the Performance Of Deep Learning Models in Kerasn](http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+
 - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+
+
+
+
 
 # QnA
 

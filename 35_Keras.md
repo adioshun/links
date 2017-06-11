@@ -78,3 +78,5 @@
 - [Keras examples directory](https://github.com/fchollet/keras/tree/master/examples): fchollet
 
 - ResNet 50 (with pre-trained weights): [1](https://github.com/raghakot/keras-resnet),[2](https://github.com/asmith26/wide_resnets_keras), [3](https://github.com/titu1994/Wide-Residual-Networks)
+
+- [케라스 CNN을 활용하여 구현하는 이미지 인식 모델 - VGG16, VGG19, ResNet50, Inception V3, Xception](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/?spm=5176.100239.blogcont78726.60.hB83tc)

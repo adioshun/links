@@ -13,6 +13,7 @@
 
 - [Drowsiness detection with OpenCV](http://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
+- [Machine Learning-based Web Exception Detection](https://yq.aliyun.com/articles/89782): 웹공격 패턴을 학습하여 능동적으로 대응하는 애플리케이션 방화벽 구현
 
 ## Demo
 * [MNIST demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
@@ -51,6 +52,10 @@
 ### 심리파악(Predict human Emotions)
 * [Tracking Emotions with R and Python](https://www.r-bloggers.com/election-2016-tracking-emotions-with-r-and-python/)
 
+
+### 새로운 학습 방법
+
+- [OpenAI, 가상현실(AR)에서 '배우는 로봇' AI 알고리즘](http://m.seminartoday.net/news/articleView.html?idxno=9519): 비전 네트워크(vision network)와 모방 네트워크(imitation network)라는 두 개의 신경 네트워크(neural networks)에 의해 구동
 
 ### Neural Image Caption(NIC)
 
@@ -112,6 +117,8 @@ Transforming a query image according to an example pair of related images
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/) : Buzzvil 사내 프로젝트
 * [Sequence to Sequence - Video to Text](http://vsubhashini.github.io/s2vt.html) : Venugopalan et al. "Sequence to sequence-video to text." 2015
 * [Mathpix](http://docs.mathpix.com/#introduction): 수학공식 이미지를 설명(??)이나 latex나 변경
+
+- [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://www.facebook.com/groups/TensorFlowKR/permalink/476460292695034/)
 
 ## Rasberry Pi
 - [MTCNN with Motion Detection On Raspberry Pi 3](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
