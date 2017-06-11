@@ -18,8 +18,6 @@
 
 # Solution
 
-- [HenryDev](https://github.com/HenryDev/MLND-P5-DiDi-Chuxing-Algorithm-Competition): MLND-P5-DiDi-Chuxing-Algorithm-Competition
-
 - [omgteam](https://github.com/omgteam/Didi-competition-solution): This repository is to provide visualization, calibration, detection ROS nodes.
 
 - [3D Vehicle Detection for Self Driving Car](https://experiencor.github.io/sdc_3d.html)

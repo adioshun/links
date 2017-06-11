@@ -1,3 +1,7 @@
+# 스스로 모델 만들기
+
+- [github:DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
+
 
 # Paper
 

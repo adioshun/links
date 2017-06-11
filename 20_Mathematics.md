@@ -13,3 +13,4 @@
 - [Youtube: 2013 2학기 선형대수[이상화 교수]](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3): 23강
 
 - [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+s
