@@ -60,6 +60,8 @@
 
 - [SSD: Single Shot MultiBox Detector in TensorFlow](https://github.com/OSSDC/SSD-Tensorflow)
 
+- Keras SSD : [Keras v1](https://github.com/rykov8/ssd_keras), [Keras v2](https://github.com/cory8249/ssd_keras)
+
 # u-net
 * [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) : Biomedical Image Segmentation 참고용
 
