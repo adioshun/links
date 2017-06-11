@@ -44,6 +44,10 @@
 ### 행동파악(Predict human action)
 * [Predicting Future Human Behavior with Deep Learning](http://www.kdnuggets.com/2016/09/predicting-future-human-behavior-deep-learning.html)
 
+- [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64): 핸드폰의 가속 센서를 이용한 사람행동 분석,  test-set에서 97% 정확도로 분류
+
+- [산만한 운전자 찾기](https://www.kaggle.com/c/state-farm-distracted-driver-detection): Kaggle, 차량에 운전자를 비추는 카메라를 달고 데이터 수집
+
 ### 심리파악(Predict human Emotions)
 * [Tracking Emotions with R and Python](https://www.r-bloggers.com/election-2016-tracking-emotions-with-r-and-python/)
 
@@ -69,6 +73,11 @@
 * [Grammatical Error Identification](https://arxiv.org/abs/1604.04677) : 영어의 문법도 딥러닝으로 고치기, word2vec 이랑 비슷
 - [Reddit: How do you solve this problem: detecting and correcting incorrect usage of English articles in a given text?](https://www.reddit.com/r/MachineLearning/comments/5woras/d_how_do_you_solve_this_problem_detecting_and/)
 
+
+### Assistance Writing
+회사 보고서를 임원의 입맛에 맞게 바꾸어 주는 건 어떤가?
+
+- [Assisted Writing](https://medium.com/@samim/assisted-writing-7adea9aed19)
 
 
 ### 이미지 탐지 / 식별 / 추적

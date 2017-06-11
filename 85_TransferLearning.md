@@ -29,6 +29,8 @@
 
 - [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html): Keras 공식 자료, [[GitHub]](https://gist.github.com/fchollet/f35fbc80e066a49d65f1688a7e99f069), [[VGG16_weight]](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 
+- [Transfer learning & The art of using Pre-trained Models in Deep Learning](https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/)
+
 - [Globa Average Pooling](https://www.quora.com/What-is-global-average-pooling)을 사용함으로써 기존 학습시 사용했던 학습의 제약 없이 아무 Tensor/image size를 사용할수 있음
 
 > What is important to know about global average pooling is that it allows the network to accept any Tensor/image size, instead of expecting the size that it was originally trained on.

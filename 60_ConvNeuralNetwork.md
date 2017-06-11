@@ -1,3 +1,9 @@
+# Paper
+- [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
+
+- [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285v1.pdf):
+
+# List of 
 - [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision): Jiwon Kim
 
 - [What is the class of this image ?](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html): 경진대회 우수 방식 및 논문 리스트
@@ -41,8 +47,7 @@
 
 * [ppt_CNN 초보자가 만드는 초보자 가이드 (VGG 약간 포함)](https://www.slideshare.net/leeseungeun/cnn-vgg-72164295)
 
-# Paper
-- [Large-Scale Evolution of Image Classifiers](https://arxiv.org/abs/1703.01041)
+
 
 # Implementation
 

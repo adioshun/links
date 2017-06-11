@@ -22,7 +22,7 @@
 
 - [Neural Network Tuning with TensorFlow](https://medium.com/computer-car/neural-network-tuning-with-tensorflow-cc14a23f132c)
 
--
+- [Machine Learning Pipeline](http://bcho.tistory.com/1177): 조대협, 머신러닝 시스템 프로세스와 아키텍쳐
 
 - [How to Prevent Overfitting](http://sinahab.com/blog/how-to-prevent-overfitting/)
 

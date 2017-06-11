@@ -6,6 +6,8 @@
 
 # Article / Post
 
+- [(한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
+
 - [ppt:홍콩과기대 김성훈 교수](https://docs.google.com/presentation/d/1HtcH9Kam8Lmv-QIT_fJ5rXleatgog7pgMkXVwzrYkY4/edit#slide=id.g216584368d_0_205)
 
 - <del>[초보자를 위한 RNNs과 LSTM 가이드](https://deeplearning4j.org/kr/lstm): Deeplearning4J 번역 자료 </del>

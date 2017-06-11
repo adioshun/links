@@ -12,6 +12,7 @@ python -m pudb.run foo.py
 # Python
 * [List of Python 강좌](http://todd.tistory.com/554)
 
+- [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 
 ## 가전대 강의 자료 Gachon CS50 프로그래밍 입문 with Python
 * [Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
