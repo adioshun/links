@@ -4,7 +4,7 @@
 
 # Article - blog
 
-- [Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI](http://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
+- <del>[Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI](http://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)</del>: [한글정리](https://www.gitbook.com/book/adioshun/deep_learning/edit#/edit/master/bayesian-deep-learning/c815-b9ac-deep-learning-is-not-good-enough-we-need-bayesian-deep-learning-for-safe-a.md?_k=d07dvo)
 
 1. What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? [[논문]](https://arxiv.org/pdf/1703.04977.pdf)
 2. Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. [[논문]](https://arxiv.org/pdf/1705.07115.pdf)
@@ -23,3 +23,5 @@
 - [What is exactly a Bayesian guy in machine learning?](https://www.reddit.com/r/MachineLearning/comments/6dbwnf/d_what_is_exactly_a_bayesian_guy_in_machine/):
 
 - [Uncertainty and deep learning ](https://www.reddit.com/r/MachineLearning/comments/6fu8vx/d_uncertainty_and_deep_learning/)
+
+- [Anyone have experience with "automated" ML tools? Like AutML, TPOT, scikit-hyperopt, etc.?](https://www.reddit.com/r/MachineLearning/comments/6efs8u/d_anyone_have_experience_with_automated_ml_tools/)
