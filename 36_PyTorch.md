@@ -1,6 +1,10 @@
 PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
+
 - [공식 discuss forum](https://discuss.pytorch.org)
+
 - [공식 slack](http://pytorch.slack.com)
+
+- [공식 Manual](http://pytorch.org/docs/index.html)
 
 # Article
 - [A gentle introduction to PyTorch and TensorFlow with a Reddit link](https://theintelligenceofinformation.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
@@ -10,7 +14,7 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 - [Pytorch API](https://github.com/j-min/pytorch_exercise/blob/master/torch_API.ipynb)
 
 
-- [Pytorch Getting Started](http://andersonjo.github.io/pytorch/2017/04/01/PyTorch-Getting-Started/)
+- [Pytorch Getting Started](http://andersonjo.github.io/pytorch/2017/04/01/PyTorch-Getting-Started/): 한글, 설치, Variable, MNIST Tutorial
 
 
 # Tutorial
