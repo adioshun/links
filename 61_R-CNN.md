@@ -31,6 +31,11 @@
 이 논문을 소개시켜드린 것은 오늘 김홍배 박사님이 data augmentation에 대해 문의하셨는데.. 위와 같은 방식으로 하면 일종의 hard example을 생성하는 data augmentation을 학습하는 방법으로 생각하실 수 있습니다. 최근 Smart Augmentation Learning an Optimal Data Augmentation Strategy (https://arxiv.org/pdf/1703.08383.pdf)과 같은 논문에서는 학습 성능을 향상시키는 data augmentation을 학습시키려고 했습니다. 이번 논문을 다시 생각하면 occlusion이나 deformation을 하나의 data augmentation이라고 생각하면 hard example을 만드는 data augmentation을 학습하는 구조로 이해하실 수도 있을거 같습니다.
 
 ```
+
+
+
+
+
 # List
 
 - list of [Mask R-CNN](http://forums.fast.ai/t/implementing-mask-r-cnn/2234)
@@ -45,6 +50,7 @@
 
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org): [정리](https://www.facebook.com/groups/AIKoreaOpen/permalink/1546985648668873/)
 
+- <del>[Counting Objects with Faster R-CNN](https://softwaremill.com/counting-objects-with-faster-rcnn/)</del>
 
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)

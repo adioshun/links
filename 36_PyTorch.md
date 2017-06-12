@@ -20,6 +20,9 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
   - Part 3: Building a Feedforward Network (starting with a familiar one)
   - Part 4: The State of PyTorch
 
+- [A Tour of PyTorch Internals (Part I)](https://gist.github.com/killeent/4675635b40b61a45cac2f95a285ce3c0)
+
+
 - [Adversarial Autoencoders (with Pytorch)](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 
 - [yunjey](https://github.com/yunjey/pytorch-tutorial)

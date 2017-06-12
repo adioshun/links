@@ -25,6 +25,8 @@
 
 - [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a#.ix1eccm5j): Matt Harvey, Keras코드 제공
 
+- [self-driving truck in Euro Truck Simulator 2](https://github.com/aleju/self-driving-truck)
+
 
 ### 2.4 Project 4 — Advanced Lane Line Finding
 ![Line detection](https://cdn-images-1.medium.com/max/800/1*861hYMj2um2xgPzmeaJizQ.png)

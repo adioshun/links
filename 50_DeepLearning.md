@@ -3,6 +3,7 @@
 ![](https://cdn-images-1.medium.com/max/800/1*CQXIj_SEfhfeMpMgFE8XRg.jpeg)
 [[DeepLearnig RoadMap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 
+[추천 : State of the Art in ML](https://martin-thoma.com/sota/)
 
 # List
 * [List_Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)

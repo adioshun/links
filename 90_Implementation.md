@@ -120,8 +120,13 @@ Transforming a query image according to an example pair of related images
 
 - [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://www.facebook.com/groups/TensorFlowKR/permalink/476460292695034/)
 
+# Device
+
 ## Rasberry Pi
 - [MTCNN with Motion Detection On Raspberry Pi 3](https://github.com/Pi-DeepLearning/RaspberryPi-FaceDetection-MTCNN-Caffe-With-Motion)
+
+## 스마트폰
+- []
 
 ## 샘플 코드
 

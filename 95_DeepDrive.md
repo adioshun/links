@@ -5,7 +5,7 @@
 
 - [Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car](https://arxiv.org/abs/1704.07911)
 
-
+- [A New Performance Measure and Evaluation Benchmark for Road Detection Algorithms](http://www.cvlibs.net/publications/Fritsch2013ITSC.pdf)
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*HTyatXEYA62kjN_kNxYW7g.png)

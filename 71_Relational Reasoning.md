@@ -1,12 +1,16 @@
 
-
 # Article/post
 
-- ["추론도 가능하다"…AI 연구 새 이정표 썼다](http://m.zdnet.co.kr/news_view.asp?article_id=20170609151041#imadnews): zdnet뉴스
+- <del>["추론도 가능하다"…AI 연구 새 이정표 썼다](http://m.zdnet.co.kr/news_view.asp?article_id=20170609151041#imadnews)</del>: zdnet뉴스
 
-[A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
+##### [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 - 시각인식과 문장이해가 결합된 관계추론(RN : Relational Reasoning)에 관한 딥마인드의 논문
-- 딥마인드
+- 추리소설을 읽고 단서들을 모아 살인범이 누군지를 예상
+- 아이가 흐르는 공이 강물에 빠지지 않도록 그 앞을 막아서는 것
+- 쇼핑객들이 시장에서 키위랑 망고 중 어떤 것을 사는게 나을지를 비교
+
+
+[A neural approach to relational reasoning](https://deepmind.com/blog/neural-approach-relational-reasoning/): 구글 공식 블로그
 
 - 그렇지만, 여전히 해결하지 못했던 것이 복잡한 관계를 추론하고, 이에 대한 답을 내는 것에 있어서는 인간과 비교할 수 없는 수준이었습니다. 이 문제를 해결하기 위해서 그 동안 신경망을 그래프 구조의 노드가 아닌 관계를 설명하는 엣지에 더 중점을 둔 연구들이 최근들어 계속 나오고 있었습니다. 대표적인 것들이 Graph Neural Networks, Gated Graph Sequence Neural Networks, Interaction Networks 등입니다.
 
@@ -38,3 +42,9 @@ https://github.com/facebook/bAbI-tasks
 https://arxiv.org/pdf/1706.01427.pdf
 을 보다 폭넓게 이해하시고, 후속연구를 실행하시는데 동기와 도움이 되셨으면 하는 바람에서 글을 올립니다.
 ( 되돌아 보니, 보충자료의 50%정도도 이미 정 교수님께서 5월 중순경에 선보이셨던 내용이네요. 하지만, 아셨던 분들도 이 시점에서 주의 환기용으로 의미 있으리라 생각하고 싶습니다^^; )
+
+
+
+##### [비주얼 상호작용 네트워크(Visual Interaction Networks, VIN)'](https://arxiv.org/abs/1706.01433): 복잡한 인지시스템을 활용해 사물들 간 관계에 따른 물리적 상호작용을 추론
+- 축구공을 찼을 때 인간의 뇌는 공이 벽에 부딪친 뒤 다음 어떻게 움직일지 예상
+- VIN은 RN으로 강화된 인공신경망이 이런 작업까지 수행할 수 있다는 사실을 증명

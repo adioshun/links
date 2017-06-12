@@ -2,7 +2,7 @@
 - [Bayesian Deep Learning](http://bayesiandeeplearning.org): NIPS 2016 Workshop
 
 
-# Article/posts
+# Article - blog
 
 - [Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI](http://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/)
 
@@ -18,6 +18,8 @@
 
 - [한글: 베이지안 딥러닝](https://drive.google.com/file/d/0B8v4MKOWQrJAa3J1bXRFTERWbEU/view): 서울대학교, 김용대교수
 
-# QnA
+# QnA - Raddit
 
-- [What is exactly a Bayesian guy in machine learning?](https://www.reddit.com/r/MachineLearning/comments/6dbwnf/d_what_is_exactly_a_bayesian_guy_in_machine/): Raddit
+- [What is exactly a Bayesian guy in machine learning?](https://www.reddit.com/r/MachineLearning/comments/6dbwnf/d_what_is_exactly_a_bayesian_guy_in_machine/):
+
+- [Uncertainty and deep learning ](https://www.reddit.com/r/MachineLearning/comments/6fu8vx/d_uncertainty_and_deep_learning/)

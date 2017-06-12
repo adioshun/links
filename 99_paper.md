@@ -16,7 +16,8 @@ A survey of DL papers at ICML 2016 https://t.co/7veynzxX39
 
 - Deep Photo Style Transfer: [동영상]( https://www.facebook.com/DrSonicwave/videos/1562824043750262/), [자료](http://www.modulabs.co.kr/DeepLAB_library/13532), [논문](https://arxiv.org/abs/1703.07511)
 
-
+# CNN
+- [Towards perspective-free object counting with deep learning](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf): 16p, 2016, [[Code]](https://github.com/gramuah/ccnn)
 
 
 # 딥러닝의 본질에 대한 논문
