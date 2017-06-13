@@ -1,66 +1,48 @@
 # 머신러닝/딥러닝 관련 강좌
-
 비디오 파일, 강의자료(ppt, Jupyter) 등을 포함한 대학교, 컨퍼런스, 세미나 자료등 모음입니다.
 
-###### 토론토 대학교 CSC2541: Visual Perception for Autonomous Driving [Winter 2016]
-- Homepage : [Toronto](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html)
+- 토론토 대학교 CSC2541: Visual Perception for Autonomous Driving [Winter 2016](http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html): 세미나 형식의 수업(??), 커리큘럼 및 주요 논문 리스트 제공
 
-- 세미나 형식의 수업(??), 커리큘럼 및 주요 논문 리스트 제공
+- 워싱텅 대학교: Applications of Deep Neural Networks [Spring 2017](https://sites.wustl.edu/jeffheaton/t81-558/) : [Youtube](https://youtu.be/gfOcjfIc0Nc?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN), [GitHub](https://github.com/jeffheaton/t81_558_deep_learning), [1주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb), [2주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb), [3주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb), [4주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)
 
-###### 워싱텅 대학교: Applications of Deep Neural Networks [Spring 2017]
-* Homepage : [Washington University ](https://sites.wustl.edu/jeffheaton/t81-558/) , [Youtube](https://youtu.be/gfOcjfIc0Nc?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN), [GitHub](https://github.com/jeffheaton/t81_558_deep_learning)
-* [1주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class1_intro_python.ipynb)
-* [2주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class2_tensor_flow.ipynb)
-* [3주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class3_training.ipynb)
-* [4주차](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class4_class_reg.ipynb)
+- 스탠포드 CS 20SI: [Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
 
-###### 스탠포드 CS 20SI: Tensorflow for Deep Learning Research
-* Homepage : [Stanford](http://web.stanford.edu/class/cs20si/)
+- MIT 6.S094: Deep Learning for Self-Driving Cars
+  * Homepage : [MIT](http://selfdrivingcars.mit.edu/)
+  * 1주차 : [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+  * 2주차 : [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw)
+  * 3주차 : [MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task](https://www.youtube.com/watch?v=U1toUkZw6VI)
+  * 4주차 : [MIT 6.S094: Recurrent Neural Networks for Steering Through Time](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
 
-##### MIT 6.S094: Deep Learning for Self-Driving Cars
-* Homepage : [MIT](http://selfdrivingcars.mit.edu/)
-* 1주차 : [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-* 2주차 : [MIT 6.S094: Deep Reinforcement Learning for Motion Planning](https://www.youtube.com/watch?v=QDzM8r3WgBw)
-* 3주차 : [MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task](https://www.youtube.com/watch?v=U1toUkZw6VI)
-* 4주차 : [MIT 6.S094: Recurrent Neural Networks for Steering Through Time](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
+- [S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 
-##### 6.S191: Introduction to Deep Learning
-http://introtodeeplearning.com/
+- [스탠포드 CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
-###### 스탠포드 CS224N Winter17
-- [GitHub: 강의노트](https://github.com/stanfordnlp/cs224n-winter17-notes)
+- 스탠포드 CS 20SI: Tensorflow for Deep Learning Research: [GitHub: Assignments3_ChatBot 만들기](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
 
-###### 스탠포드cs231n: Convolutional Neural Networks for Visual Recognition
+- 타이완대, [YUN-NUNG (VIVIAN) CHEN의 Applied Deep Learning ](https://www.csie.ntu.edu.tw/~yvchen/f105-adl/syllabus.html): 김성훈 교수 추천
+
+- 토론토대, [CSC 411: Introduction to Machine Learning](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC411.html)
+
+- 스탠포드 Machine Learning, [Andrew Ng교수](http://www.holehouse.org/mlclass/): [강의 노트](http://deeplearning.stanford.edu/tutorial/)
+
+- 스탠포드 cs231n: Convolutional Neural Networks for Visual Recognition
   * [홈페이지](http://cs231n.github.io/convolutional-networks/), [[링크]](http://cs231n.github.io/), [[Syllabus]](http://cs231n.stanford.edu/syllabus.html), [[Course Project]](http://cs231n.stanford.edu/reports2016.html)
   - [Youtube](https://www.youtube.com/playlist?list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA)
   * [Download](https://archive.org/download/cs231n-CNNs),[[번역1]](http://aikorea.org/cs231n/)[[번역2]](http://ishuca.tistory.com/381),[자막](https://github.com/aikorea/cs231n/tree/master/captions/Ko)
   - [CS231n 강좌가 닫혔습니다.](https://tensorflow.blog/2016/05/04/stanford-cs231n-%EA%B0%95%EC%A2%8C%EA%B0%80-%EB%8B%AB%ED%98%94%EC%8A%B5%EB%8B%88%EB%8B%A4/)
 
-######  스탠포드대 CS 20SI: Tensorflow for Deep Learning Research
-* [GitHub: Assignments3_ChatBot 만들기](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
+- Sungjoon Choi Samuel 6주강의코드발표자료 : [코드](https://github.com/sjchoi86/Tensorflow-101), [발표자료](https://github.com/sjchoi86/Deep-Learning-101)
 
-
-###### Stanford Machine Learning
-* 스탠포드대 __Andrew Ng__교수 강의 노트(19강의)
-* [홈페이지](http://www.holehouse.org/mlclass/)
-
-###### Stanford Deep Learning Tutorial
-* 스탠포드대 __Andrew Ng__교수 강의 노트(24강의)
-* [홈페이지](http://deeplearning.stanford.edu/tutorial/)
-
-###### Sungjoon Choi Samuel 6주강의코드발표자료
-* [코드](https://github.com/sjchoi86/Tensorflow-101)
-* [발표자료](https://github.com/sjchoi86/Deep-Learning-101)
-
-##### 7일강좌_fast.ai
-* [홈페이지](http://course.fast.ai/lessons/lessons.html) : kaggle President
-* [1장: Image Recognition](http://course.fast.ai/lessons/lesson1.html)
-* [2장: CNNs](http://course.fast.ai/lessons/lesson2.html)
-* [3장: Overfitting](http://course.fast.ai/lessons/lesson3.html)
-* [4장: Embeddings](http://course.fast.ai/lessons/lesson4.html)
-* [5장: NLP](http://course.fast.ai/lessons/lesson5.html)
-* [6장: RNNs](http://course.fast.ai/lessons/lesson6.html)
-* [7장: CNN Architectures](http://course.fast.ai/lessons/lesson7.html)
+- 7일강좌_fast.ai
+  * [홈페이지](http://course.fast.ai/lessons/lessons.html) : kaggle President
+  * [1장: Image Recognition](http://course.fast.ai/lessons/lesson1.html)
+  * [2장: CNNs](http://course.fast.ai/lessons/lesson2.html)
+  * [3장: Overfitting](http://course.fast.ai/lessons/lesson3.html)
+  * [4장: Embeddings](http://course.fast.ai/lessons/lesson4.html)
+  * [5장: NLP](http://course.fast.ai/lessons/lesson5.html)
+  * [6장: RNNs](http://course.fast.ai/lessons/lesson6.html)
+  * [7장: CNN Architectures](http://course.fast.ai/lessons/lesson7.html)
 
 # Seminar / Conference / Meetup
 
@@ -107,8 +89,7 @@ http://introtodeeplearning.com/
 * [RL Course by David Silver - Lecture 8: Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc)
 
 
-# 3. 버클리대 CS 294: Deep Reinforcement Learning, Spring 2017
-* [홈페이지](http://rll.berkeley.edu/deeprlcourse/)
+- [버클리대 CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
 
 
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)

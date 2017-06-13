@@ -15,6 +15,8 @@
 
 - [IMPLEMENTING A CNN FOR TEXT CLASSIFICATION IN TENSORFLOW](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
+- [컨볼루션 이해하기](https://brunch.co.kr/@chris-song/24): 추천, [colah글](http://colah.github.io/posts/2014-07-Understanding-Convolutions/) 번역
+
 * 조대협의 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해
   - [개요](http://bcho.tistory.com/1149)
   - [1/2](http://bcho.tistory.com/1156)

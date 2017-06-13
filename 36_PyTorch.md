@@ -21,6 +21,7 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 
 - <del>[PyTorch MNIST Example](https://tensorflow.blog/2017/01/26/pytorch-mnist-example/): [[Code]](https://github.com/rickiepark/pytorch-examples/blob/master/mnist.ipynb)</del>
 
+- [Pytorch로 구현한 CIFAR-10, CIFAR-100 학습](https://github.com/meliketoy/Pytorch-wide-resnet): wide-residual network 포함한 간단한 CNN들이 구현
 
 # Tutorial
 
@@ -49,6 +50,8 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 - [SSD: Single Shot MultiBox Object Detector, in PyTorch](https://github.com/amdegroot/ssd.pytorch)
 
 - [VIN: Value Iteration Networks](https://github.com/zuoxingdong/VIN_PyTorch_Visdom)
+
+- [pix2pix + BEGAN](https://github.com/taey16/pix2pixBEGAN.pytorch)
 
 # Torch - not Pytorch
 

@@ -54,6 +54,9 @@
 
 - <del>[Counting Objects with Faster R-CNN](https://softwaremill.com/counting-objects-with-faster-rcnn/)</del>
 
+- Object detection with neural networks — a simple tutorial using keras : [Blog](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491): [Youtube](https://www.youtube.com/watch?v=K9a6mGNmhbc&feature=youtu.be), [Code](https://github.com/jrieke/shape-detection)
+
+
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)
 

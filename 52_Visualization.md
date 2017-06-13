@@ -33,3 +33,6 @@ Pytorch에서 활용 가능한 시각화 툴(??)
 - [Neptune](http://neptune.deepsense.io) is a machine learning platform for managing and monitoring data science experiments.
 
 - [Tensorflow fold](https://github.com/tensorflow/fold/): 네트워크 아키텍쳐를 박스로 표현
+
+
+- [Guild](https://guild.ai): Tensorflow를 강화해주는 Guild라는 툴 소개입니다.[Code](https://github.com/guildai/guild)
