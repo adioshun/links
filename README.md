@@ -6,7 +6,7 @@
 
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
 
-- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[수식 작성]](http://www.hostmath.com/)
+- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[Online 툴]](http://www.hostmath.com/) [[테이블]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
 
 - [Arxiv-sanity](http://www.arxiv-sanity.com/): arxiv사이트 Re-Format 사이트  
 
