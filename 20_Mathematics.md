@@ -23,7 +23,7 @@ s
 
 ###### 2. 더 진도를 나가려면 기초를 다지는 것이 좋았습니다.아래 2개 강좌는 반드시 듣는게 매우 중요할 듯 합니다.
   - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3): 이상화 교수, [[교재]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
-  - [확률통계 강좌](http://www.kocw.net/home/search/kemView.do?kemId=1056974): 이상화 교수
+  - [확률통계 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V): 이상화 교수
 
 > 위 2개 강의를 듣고 나면, 신경망에 대한 조금은 본질적인 개념 이해나 차원축소 기법들 이해하는데 도움이 되고 수식 notation이 눈에 많이 들어오는 것 같았습니다. 그리고 카이스트 문일철 교수님 강의도 좋은데, 바로 들어가면 어렵더군요. 위 3개 강좌를 듣고 들어가시는 게 아마도 좋지 않을까 합니다. 그리고 문교수님 강의 듣기 전에 하나 더 선행하면 좋을 듯 합니다.
 
