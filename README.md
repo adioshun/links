@@ -4,11 +4,13 @@
 
 # 논문
 
+- Arxiv : [Arxiv-sanity](http://www.arxiv-sanity.com/), [Trend](http://trendingarxiv.smerity.com/ ), [한글Facebook](https://www.facebook.com/ArxivSanityKR), [한글Facebook_board](http://fbsight.com/c/arxiv/)
+
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
 
 - [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[Online 툴]](http://www.hostmath.com/) [[테이블]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
 
-- [Arxiv-sanity](http://www.arxiv-sanity.com/): arxiv사이트 Re-Format 사이트  
+- : arxiv사이트 Re-Format 사이트  
 
 - [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스
 
