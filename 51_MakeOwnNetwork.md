@@ -2,6 +2,17 @@
 
 - [github:DEvol - Deep Neural Network Evolution](https://github.com/joeddav/devol)
 
+DeepLearning Project Workflow라고 읽고
+Bias-Variance Tradeoff에 가까운데 가끔 비슷한 질문이 올라오는 것 같아서 올립니다.
+
+모델 성능이 원하는대로 나오지 않을때
+
+1) 데이터를 더 모아야 하는지
+2) 더 큰 모델을 만들어야 할 지
+
+High bias, High Variance 체크를 통해 간단히 판단하는 법입니다.
+http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
+
 
 # Paper
 
@@ -70,7 +81,7 @@ Here are some resources for tips and tricks for training neural networks. ([Reso
 
 -[Xcessiv](https://github.com/reiinakano/xcessiv): 웹에서 모델과 데이터를 지정하고 하이퍼파라미터 탐색을 위한 조건을 걸어서 자동으로 튜닝해주는 코드
 
-- 
+-
 
 # 나만의 모델을 만들어 보자
 * 참고 [[Youtube]](https://www.youtube.com/watch?v=076pp-42unI),  [[ppt]](http://www.slideshare.net/carpedm20/ss-63116251)
