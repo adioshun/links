@@ -1,18 +1,14 @@
 # Deeplearning을 공부하기 위해 필요한 자료들 모음 입니다.
 
-88 Edit 기능 Pull 테스트 위 점 
-
 # 논문
 
-- Arxiv : [Arxiv-sanity](http://www.arxiv-sanity.com/), [Trend](http://trendingarxiv.smerity.com/ ), [한글Facebook](https://www.facebook.com/ArxivSanityKR), [한글Facebook_board](http://fbsight.com/c/arxiv/)
+- Arxiv : [Arxiv-sanity](http://www.arxiv-sanity.com/), [Trend](http://trendingarxiv.smerity.com/ ), 
+  - [ArxivSanityKR](https://www.facebook.com/ArxivSanityKR): 한글Facebook, [fbsight_arxiv](http://fbsight.com/c/arxiv/): 한글Facebook_board
+  - [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스
 
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
 
-- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[Online 툴]](http://www.hostmath.com/) [[테이블]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
-
-- : arxiv사이트 Re-Format 사이트  
-
-- [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스
+- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[Online Math툴]](http://www.hostmath.com/), [[]](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8),  [[ Online Table 툴]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
 
 - [Distill](http://distill.pub/): Web기반 저널
 
@@ -34,23 +30,4 @@
 
 
 
-├── evaluation.py # evaluation.py
-├── images # model architectures
-│   ├── resnet.png
-│   ├── vggnet5.png
-│   └── vggnet.png
-├── MNIST # mnist data (not included in this repo)
-│   ├── t10k-images-idx3-ubyte.gz
-│   ├── t10k-labels-idx1-ubyte.gz
-│   ├── train-images-idx3-ubyte.gz
-│   └── train-labels-idx1-ubyte.gz
-├── model # model weights
-│   ├── resnet.h5
-│   ├── vggnet5.h5
-│   └── vggnet.h5
-├── model.py # base model interface
-├── README.md
-├── utils.py # helper functions
-├── resnet.py
-├── vgg16.py
-└── vgg5.py
+
