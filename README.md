@@ -26,7 +26,7 @@
 
 # GitHub 연동
 
-- [GitHub](https://github.com/adioshun): ~~GitHub사이트~~
+- [GitHub](https://github.com/adioshun): GitHub사이트
 
 - [Prose](http://prose.io/#adioshun): Github Markdown Editor
 
