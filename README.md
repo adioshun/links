@@ -8,7 +8,10 @@
 
 - [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
 
-- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, [[Online Math툴]](http://www.hostmath.com/), [[수학기호정리]](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8),  [[ Online Table 툴]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
+- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, 
+  - [Online Math 툴](http://www.hostmath.com/), [수학기호정리](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
+  - [Onlie Graph 툴](https://www.desmos.com/calculator/auubsajefh)
+  - [Online Table 툴](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
 
 - [Distill](http://distill.pub/): Web기반 저널
 
