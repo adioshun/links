@@ -12,19 +12,29 @@ A survey of DL papers at ICML 2016 https://t.co/7veynzxX39
 - [카카오AI리포트] 딥러닝 연구의 현재와 미래 (1/2) ](https://brunch.co.kr/@kakao-it/65)
 
 
-# 논문 해설
-
-- Deep Photo Style Transfer: [동영상]( https://www.facebook.com/DrSonicwave/videos/1562824043750262/), [자료](http://www.modulabs.co.kr/DeepLAB_library/13532), [논문](https://arxiv.org/abs/1703.07511)
-
 # CNN
 - [Towards perspective-free object counting with deep learning](http://agamenon.tsc.uah.es/Investigacion/gram/publications/eccv2016-onoro.pdf): 16p, 2016, [[Code]](https://github.com/gramuah/ccnn)
 
 
 # 딥러닝의 본질에 대한 논문
 
--
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747)
 
 # 기타
-
-
 - [Deep Learning for Ontology Reasoning](https://scirate.com/arxiv/1705.10342): 딥러닝 + 온톨로지
+
+# TFKR 논문 읽기
+
+- Attention is All You Need : [동영상](), [논문](), [PyTorch 구현](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
+- One Model to Learn Them All : [소개글](https://www.facebook.com/groups/modulabs/permalink/1391014227630423/), [동영상](), [논문](https://arxiv.org/pdf/1706.05137.pdf), [구현]()
+
+-  : [소개글](), [동영상](), [논문](), [구현]()
+
+-  : [소개글](), [동영상](), [논문](), [구현]()
+
+-  : [소개글](), [동영상](), [논문](), [구현]()
+
+# 논문 해설
+
+- Deep Photo Style Transfer: [동영상]( https://www.facebook.com/DrSonicwave/videos/1562824043750262/), [자료](http://www.modulabs.co.kr/DeepLAB_library/13532), [논문](https://arxiv.org/abs/1703.07511)

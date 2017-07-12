@@ -26,3 +26,7 @@
 
 > 머신러닝 개발 업무를 자동화하는 구글의 AutoML이 뭘하려는지 이 논문을 통해 잘 보여줍니다.
 이 논문에서는 뉴럴 네트워크 구조를 만드는 뉴럴 네트워크 구조에 대해서 설명합니다. 800개의 GPU를 혹은 400개의 CPU를 썼고 State of Art 혹은 State of Art 바로 아래이지만 더 빠르고 더 작은 네트워크를 이것을 통해 만들었습니다. 이제 Feature Engineering에서 Neural Network Engineering으로 페러다임이 변했는데 이것의 첫 시도 한 논문입니다.
+
+# Post / Article
+
+- [Automating automation: framework for developing deep learning models](http://www.techleer.com/articles/188-automating-automation-framework-for-developing-deep-learning-models/)

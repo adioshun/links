@@ -5,7 +5,7 @@
 
 - [논문:https://arxiv.org/pdf/1610.01178.pdf](https://arxiv.org/pdf/1610.01178.pdf)
 
-# 기초 강좌
+# 기초 강좌 (3_고급_SJCHOI86)
 1. 기본
   - <del> [Basics of TensorFlow](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_tensorflow.ipynb): 텐서플로우 변수, 상수 처리법 </del>
   - <del> [MNIST](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_mnist.ipynb): 이미지 읽기 부분만 </del>
@@ -54,6 +54,7 @@
 
 
 
+
 # Article / Post
 
 * [Tensorflow Official Tutorial_CNN](https://www.tensorflow.org/tutorials/deep_cnn/)
@@ -79,7 +80,6 @@
 * [ppt: Toward Best Practices of TensorFlow Code Patterns](https://wookayin.github.io/TensorFlowKR-2017-talk-bestpractice/ko/#1), [[Github]](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice/)
 * [pdf: TensorFlow Worksop](https://storage.googleapis.com/amy-jo/talks/tf-workshop.pdf) : [김성훈교수 추천] 간단한 모델, 데이터 읽기, Word2Vec, 인셥션 모델 재사용, hyperparameter 자동튜닝, TensorBoard, [[GitHub]](https://github.com/amygdala/tensorflow-workshop)
 - [텐서플로우 - 파일에서 학습데이타를 읽어보자#2 CSV 파일을 읽어보자](http://bcho.tistory.com/1165)
-
 
 - [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 

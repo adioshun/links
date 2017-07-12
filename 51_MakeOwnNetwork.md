@@ -50,6 +50,10 @@ Am I overfitting?
 
 - [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174): 조대협
 
+- [학습 조기종료 시키기](https://tykimos.github.io/Keras/2017/07/09/Early_Stopping/): 조기 종료하는 시점
+
+- [Pytorch 를 이용한 fine-tuning 및 feature extraction 코드](https://github.com/meliketoy/fine-tuning.pytorch)
+
 # [추천]전처리
 - [cifarnet_preprocessing.py](https://github.com/tensorflow/models/tree/master/slim/preprocessing)
 - inception_preprocessing.py

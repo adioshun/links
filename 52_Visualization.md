@@ -14,6 +14,8 @@
 
 - [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
 
+# etc
+- [Facets](https://pair-code.github.io/facets/) : Google, 데이터 분포 시각화 툴 
 
 # Tikz
 https://github.com/jettan/tikz_cnn/

@@ -45,6 +45,8 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 - [Failures of Deep Learning](https://arxiv.org/abs/1703.07950): 딥러닝의 제약(??)
 
+
+
 - [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039): 추천, 튜토리얼
   1. DNN 디자인 요소에 대한 이해
   2. 여러 DNN 하드웨어 벤치마크를 평가할 수 있게 됨.
@@ -57,6 +59,7 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 - [Brief History of Machine Learning](https://chatbotnewsdaily.com/since-the-initial-standpoint-of-science-technology-and-ai-scientists-following-blaise-pascal-and-804ac13d8151)
 
+- [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](http://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
 
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html#.WJ91SyErJGo) : T-Robotics작성글
 * Learning AI if You Suck at Math

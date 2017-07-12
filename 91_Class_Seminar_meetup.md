@@ -44,6 +44,14 @@
   * [6장: RNNs](http://course.fast.ai/lessons/lesson6.html)
   * [7장: CNN Architectures](http://course.fast.ai/lessons/lesson7.html)
 
+- [Kadenze Academy](https://www.kadenze.com/partners/kadenze-academy) Creative Applications of Deep Learning w/ Tensorflow. [[홈페이지]](https://github.com/pkmital/CADL)
+  - Session 1: Introduction To Tensorflow
+  - Session 2: Training A Network W/ Tensorflow
+  - Session 4: Visualizing And Hallucinating Representations
+  - Session 3: Unsupervised And Supervised Learning
+  - Session 5: Generative Models
+
+
 # Seminar / Conference / Meetup
 
 ##### TensorFlow KR Meetup 2016

@@ -56,6 +56,8 @@
 
 - Object detection with neural networks — a simple tutorial using keras : [Blog](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491): [Youtube](https://www.youtube.com/watch?v=K9a6mGNmhbc&feature=youtu.be), [Code](https://github.com/jrieke/shape-detection)
 
+- [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
+
 
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)
