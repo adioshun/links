@@ -83,6 +83,8 @@
 
 - [A quick complete tutorial to save and restore Tensorflow models](http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/)
 
+- [Tensorflow pretrained 모델(.ckpt) 을 .pb 파일로 변환](https://www.facebook.com/groups/TensorFlowKR/permalink/499091377098592/)
+
 
 ### Tensorflow-Slim
 * [git_Offical](https://github.com/tensorflow/tensorflow/blob/a304537954a865752ad1b18461e6bd67b36082db/tensorflow/contrib/slim/README.md)

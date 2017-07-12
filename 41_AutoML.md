@@ -30,3 +30,5 @@
 # Post / Article
 
 - [Automating automation: framework for developing deep learning models](http://www.techleer.com/articles/188-automating-automation-framework-for-developing-deep-learning-models/)
+
+- [Overview of Hyperparameter Tuning](https://cloud.google.com/ml-engine/docs/concepts/hyperparameter-tuning-overview): 
