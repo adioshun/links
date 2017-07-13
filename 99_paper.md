@@ -52,7 +52,7 @@ for Statistical Machine Translation,2013: [소개글](https://www.facebook.com/g
 
 - PR011_Spatial Transformer Networks: [소개글](https://facebook.com/255834461424286_476999555974441), [동영상](https://youtu.be/Rv3osRZWGbg?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS), [논문], [발표자료], [구현]
 
-- ~~PR012_Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks, NIPS 2015: [소개글](https://facebook.com/255834461424286_477006445973752), [동영상](https://youtu.be/kcPAGIgBGRs?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS), [논문](https://arxiv.org/abs/1506.01497), [발표자료], [구현]~~
+- ~~PR012_Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks, NIPS 2015: [소개글](https://facebook.com/255834461424286_477006445973752), [동영상](https://youtu.be/kcPAGIgBGRs?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS), [논문](https://arxiv.org/abs/1506.01497), [발표자료], [구현](https://github.com/rbgirshick/py-faster-rcnn)~~
 
 - PR0??_Domain Adversarial Training of Neural Network: [소개글](https://facebook.com/255834461424286_480552242285839), [블로그](http://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html), [동영상](https://www.facebook.com/groups/TensorFlowKR/permalink/480552242285839/), [논문](http://www.jmlr.org/papers/volume17/15-239/source/15-239.pdf), [발표자료](https://www.slideshare.net/thinkingfactory/pr12-dann-jaejun-yoo), [구현]
 
