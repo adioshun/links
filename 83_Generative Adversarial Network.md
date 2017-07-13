@@ -36,6 +36,11 @@
  * 영문 정리 글 : [SimGANs - a game changer in unsupervised learning, self driving cars, and more](https://medium.com/waya-ai/simgans-applied-to-autonomous-driving-5a8c6676e36b#.tcbuo9za5)
 - Improved Techniques for Training GANs: [논문](https://arxiv.org/abs/1606.03498)
 
+
+# Article
+
+- [초보자를 위한 GAN 튜토리얼입니다.](https://www.facebook.com/groups/TensorFlowKR/permalink/489007728106957/)
+
 ### 초짜 대학원생 입장에서 이해하는
 
 - Generative Adversarial Nets논문 분석 : [# 1](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html), [# 2](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
@@ -47,11 +52,19 @@
 - Unrolled Generative Adversarial Networks: [#1](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-1.html), [#2](http://jaejunyoo.blogspot.com/2017/02/unrolled-generative-adversarial-network-2.html)
 
 
+# Material (pdf, ppt)
+
+- [Generative Adversarial Network and its Variations](http://people.ee.duke.edu/~lcarin/Yunchen9.30.2016.pdf): ppt, GAN 변형들
+
 # Implementation
+
+
 
 - [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial): bstriner
 
 - [13줄 간단 코드 및 설명](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb): nlintz
+
+- [(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)
 
 * [SimGan](https://github.com/wayaai/SimGAN): Keras 코드
 

@@ -21,6 +21,12 @@ http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
 
 # Article / Post
 
+- [기초용어/개념](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)
+
+- [Types of Optimization Algorithms used in Neural Networks and Ways to Optimize Gradient Descent](https://medium.com/towards-data-science/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f)
+
+- [머신러닝 시스템 프로세스와 아키텍쳐](http://bcho.tistory.com/1177)
+
 - [Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
   - Learning I: the value of pre-training
   - Learning II: caveats of real-world label distributions
@@ -43,6 +49,10 @@ http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
 - [How to Prevent Overfitting](http://sinahab.com/blog/how-to-prevent-overfitting/)
 
 - [Model evaluation, selection and algorithm selection](https://tensorflow.blog/2017/03/30/model-evaluation-selection-and-algorithm-selection/)
+
+- [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047)
+
+- [Activation functions and it’s types-Which is better?](https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
 
 Am I overfitting?
 - Very high accuracy on the training dataset (eg: 0.99)

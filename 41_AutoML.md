@@ -31,4 +31,12 @@
 
 - [Automating automation: framework for developing deep learning models](http://www.techleer.com/articles/188-automating-automation-framework-for-developing-deep-learning-models/)
 
-- [Overview of Hyperparameter Tuning](https://cloud.google.com/ml-engine/docs/concepts/hyperparameter-tuning-overview): 
+- [Overview of Hyperparameter Tuning](https://cloud.google.com/ml-engine/docs/concepts/hyperparameter-tuning-overview):
+
+- [Design by evolution](https://medium.com/@stathis/design-by-evolution-393e41863f98):  딥네트워크 아키텍처와 하이퍼파라미터 등을 설정하는데에 Evolutionary Computing, Genetic Algorithm 등이 다시 부각이 되고 있죠? PyTorch를 이용해서 이 내용들을 설명하면서 간단한 예제
+
+- [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html): open-source system for training deep learning models in TensorFlow.
+
+# Material (ppt, pdf)
+
+- [automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw): ppt

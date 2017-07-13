@@ -23,6 +23,8 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 
 - [Pytorch로 구현한 CIFAR-10, CIFAR-100 학습](https://github.com/meliketoy/Pytorch-wide-resnet): wide-residual network 포함한 간단한 CNN들이 구현
 
+- [Understand PyTorch code in 10 minutes](https://hsaghir.github.io/data_science/pytorch_starter/)
+
 # Tutorial
 
 - [Official Tutorial](http://pytorch.org/tutorials/)

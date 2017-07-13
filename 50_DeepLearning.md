@@ -13,6 +13,7 @@
 * [List of NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/) : Sang-Kil Park 블로그
 * [List of Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [List of Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision#image-generation)
+- [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 * [List of Deep Learning's Pioneers](https://github.com/leehaesung/DeepLearningPioneers/wiki) : 딥러닝 대가 4인의 SNS정보
 * [List of Rilles of Machine learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) : 구글 연구원인 Martin Zinkevich 작성, [[한글 리뷰]](https://tensorflow.blog/2017/01/19/rules-of-ml-best-practice-for-ml-from-google/)
 * [List of DeepLearning Terms](https://github.com/tgjeon/Keras-Tutorials/blob/master/DeepLearningGlossary.md) : [한글] 딥러닝 용어 사전
@@ -85,7 +86,9 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 * [MDP and Reinforcement Learning](https://papoudakis.github.io/announcements/mdp-rl/?utm_content=buffer68602&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) : 마코브 체인과 강화 학습의 관계설명
 
 
+# 동영상
 
+- [Neural Networks](http://videolectures.net/deeplearning2016_larochelle_neural_networks/):
 
 
 
@@ -106,6 +109,12 @@ A Tutorial](https://arxiv.org/pdf/1703.01619.pdf): Sequence-to-sequence모델을
 
 * [Applied Deep Learning in Python Mini-Course](http://machinelearningmastery.com/applied-deep-learning-in-python-mini-course/): machinelearningmastery, 14강좌
 
+
+# Material (ppt, pdf)
+
+- [Deep Learning: a Next Step?](https://drive.google.com/file/d/0B16RwCMQqrtdVWVGTE5LcWtwTzA/view): ppt, 조경현, 뉴욕대
+
+- [Machine Learning & Deep Learning With Spark](https://www.slideshare.net/sanghoonlee982/machine-learning-deep-learnig-with-spark): ppt50, 
 
 ## Ref Material
 * [Visual Guide](http://www.r2d3.us/visual-intro-to-machine-learning-part-1?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) : A Visual Introduction to Machine Learning.

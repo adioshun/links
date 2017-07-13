@@ -1,3 +1,14 @@
+
+# List
+
+- [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science?utm_content=buffer7019b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+
+- [List of Python 강좌](http://todd.tistory.com/554)
+
+- [Python 라이브러리와 API를 위한 체크리스트](https://mingrammer.com/python-api-checklist/)
+
+- [파이썬의 고급 기능](https://tech.io/playgrounds/500/advanced-python-features/advanced-python-features): Generators. - Collections Module, - Itertools Module, - Packing / Unpacking, - Decorators, - Context Managers
+
 - [A guide to analyzing Python performance](https://www.huyng.com/posts/python-performance-analysis)
 
 ## Python GUI Debuger
@@ -9,14 +20,16 @@ python -m pudb.run foo.py
 > 참고 : [[파이썬] PUDB 콘솔 디버거](http://egloos.zum.com/mcchae/v/10918232)
 
 
-# Python
-* [List of Python 강좌](http://todd.tistory.com/554)
+# Article
+
 
 - [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 
 - [파이썬 코드 배포를 위한 pex](https://b.luavis.kr/python/deploy-with-pex): pex는 Python application을, 하나의 실행파일로 만들어주는 라이브러리입니다.
 
+- [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
 
+# Tutorial
 
 ## 가전대 강의 자료 Gachon CS50 프로그래밍 입문 with Python
 * [Youtube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJtTFNVy6c5OZ44878knlRS)
@@ -43,7 +56,7 @@ python -m pudb.run foo.py
 * [Fluent Python](https://github.com/fluentpython/notebooks) : 쥬피터 코드
 * ['Python 분석과 프로그래밍' 45건](http://rfriend.tistory.com/category/Python%20%EB%B6%84%EC%84%9D%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D): R Friend 블로그
 
-- [python-data-analysis 동영상 강좌](https://www.youtube.com/playlist?list=PLWO_EXTnt3sPmlgCeHAiHwaAFwmmusGp6): 파이선 설치 부터 웹크롤링까지 
+- [python-data-analysis 동영상 강좌](https://www.youtube.com/playlist?list=PLWO_EXTnt3sPmlgCeHAiHwaAFwmmusGp6): 파이선 설치 부터 웹크롤링까지
 
 
 ## Mooc

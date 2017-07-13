@@ -18,7 +18,8 @@
 
 - [스탠포드 CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
-- 스탠포드 CS 20SI: Tensorflow for Deep Learning Research: [GitHub: Assignments3_ChatBot 만들기](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
+- 스탠포드 CS 20SI: Tensorflow for Deep Learning Research: [홈페이지](https://web.stanford.edu/class/cs20si/), [동영상](https://www.youtube.com/watch?v=g-EvyKpZjmQ&t=32s&index=1&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg), [github](https://github.com/chiphuyen/tf-stanford-tutorials)
+  - [GitHub: Assignments3_ChatBot 만들기](https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/chatbot)
 
 - 타이완대, [YUN-NUNG (VIVIAN) CHEN의 Applied Deep Learning ](https://www.csie.ntu.edu.tw/~yvchen/f105-adl/syllabus.html): 김성훈 교수 추천
 
@@ -86,6 +87,18 @@
 * Building a word2vec model using a Custom Estimator, and exploring the learned embeddings. Introducing TFRecords.
 * Using a tf.learn estimator to train a Wide and Deep model.
 
+## Deep Learning Summer School, Montreal 2016
+
+http://videolectures.net/deeplearning2016_montreal/
+
+## Deep Learning School, September 24-25, 2016, Stanford, CA
+
+- https://www.bayareadlschool.org
+
+- https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW
+
+
+- DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017 : [슬라이드](https://www.facebook.com/groups/TensorFlowKR/permalink/495293330811730/) 
 
 # NLP
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/reports_2016.html)

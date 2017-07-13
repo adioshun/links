@@ -23,6 +23,8 @@
 * [ICML: Tutorial Deep Reinforcement Learning](http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf) : David Silver
 - [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
 
+- [카카오AI 리포트-강화학습의 비밀](https://brunch.co.kr/@kakao-it/73)
+
 - [The Next Challenges for Reinforcement Learning](http://www.maluuba.com/blog/2017/3/14/the-next-challenges-for-reinforcement-learning)
 
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): 진화알고리즘 적용, OpenAI
@@ -34,8 +36,9 @@
 - Asynchronous Advantage Actor-Critic (A3C), [[분석글]](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/), [[논문]](https://arxiv.org/pdf/1602.01783.pdf)
   - DQN의 단점을 보안한 제안(2016)
 
+- [Episode 1 — Genetic Algorithm for Reinforcement Learning](https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc)
 
-- [one-step-Q-learning algorithm for this AI ](https://github.com/barkdong123/ToeBot/tree/master/Prj_mayDay/Prj_FrankenShtine/jamessSkynetProject): q-learning 을 이용한 틱-택-토 AI 를 만들어보았습니다. 
+- [one-step-Q-learning algorithm for this AI ](https://github.com/barkdong123/ToeBot/tree/master/Prj_mayDay/Prj_FrankenShtine/jamessSkynetProject): q-learning 을 이용한 틱-택-토 AI 를 만들어보았습니다.
 
 # Tutorial
 
@@ -141,6 +144,10 @@ Lab 7-4: DQN Simple Pacman Demo (여러분은 최고 몇점까지 갈수 있나�
 
 ## ICML 2016 Tutorials
 * [All list](http://techtalks.tv/icml/2016/tutorials/)
+
+# Material (ppt, pdf)
+
+- [[eBook]Reinforcement Learning:An Introduction](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf): Richard S. Sutton and Andrew G. Barto, 2017, MIT출판, 538p
 
 
 # implementation

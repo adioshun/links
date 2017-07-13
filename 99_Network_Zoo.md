@@ -13,7 +13,9 @@
 
 - [ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 
+# GoogleLeNet
 
+- [ppt 정리](https://www.slideshare.net/BrianKim244/google-net)
 
 
 # 통합

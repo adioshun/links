@@ -6,6 +6,7 @@
 
 # Cheat Cheet
 
+- [Awesome-DataScience-Cheatsheets](https://github.com/prashanth95r/Awesome-DataScience-Cheatsheets)
 
 - [Python For Data Science Cheat Sheet Python](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf): [확장본](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics/#gs.fYjUPWE)
 
@@ -26,3 +27,5 @@
 - [Becoming a Data Scientist – Curriculum via Metromap](http://nirvacana.com/thoughts/becoming-a-data-scientist/): 지하철 지도 형태의 로드맵
 
 - [Git Commands and Best Practices Cheat Sheet](https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
+
+- [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)

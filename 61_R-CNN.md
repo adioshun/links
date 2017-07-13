@@ -58,6 +58,7 @@
 
 - [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
 
+- [Image Segmentation using deconvolution layer in Tensorflow ](http://www.datasciencecentral.com/profiles/blogs/image-segmentation-using-deconvolution-layer-in-tensorflow)
 
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)

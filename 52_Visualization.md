@@ -15,7 +15,7 @@
 - [Visualizing TensorFlow Graphs in Jupyter Notebooks](https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html)
 
 # etc
-- [Facets](https://pair-code.github.io/facets/) : Google, 데이터 분포 시각화 툴 
+- [Facets](https://pair-code.github.io/facets/) : Google, 데이터 분포 시각화 툴
 
 # Tikz
 https://github.com/jettan/tikz_cnn/
@@ -25,6 +25,16 @@ http://www.texample.net/tikz/examples/all/
 - [The Ultimate Python Seaborn Tutorial](https://elitedatascience.com/python-seaborn-tutorial): high-level interface to Matplotlib
 - [Live loss plots inside Jupyter Notebook for Keras](https://www.reddit.com/r/MachineLearning/comments/65jelb/d_live_loss_plots_inside_jupyter_notebook_for/?st=j1k2qa06&sh=01fc92df)
 
+# Python
+
+- [[동영상] Awesome data visualization tools in Python](https://www.youtube.com/watch?v=OC-YdBz8Llw): 파이썬에서 데이터 시각화를 위한 라이브러리들에 대해 장단점을 잘 설명, Matplotlib, seaborn, bokeh, datashader, altair
+
+# Keras
+
+- [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
+
+
+# Stardust : [소개글](https://www.facebook.com/groups/TensorFlowKR/permalink/491183007889429/), GPU 기반 시각화 라이브러리
 
 # Visdom (facebook)
 Pytorch에서 활용 가능한 시각화 툴(??)

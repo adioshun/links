@@ -8,3 +8,6 @@
 # AMAZON
 
 - [Learning Machine Learning on the cheap: Persistent AWS Spot Instances](https://medium.com/slavv/learning-machine-learning-on-the-cheap-persistent-aws-spot-instances-668e7294b6d8)
+
+
+- [Jupyter + Tensorflow + Nvidia GPU + Docker + Google Compute Engine](https://medium.com/google-cloud/jupyter-tensorflow-nvidia-gpu-docker-google-compute-engine-4a146f085f17)

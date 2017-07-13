@@ -1,4 +1,12 @@
-# 머신러닝과 수학
+
+
+# Aritle (blog)
+
+- [[추천]Explained Visually](http://setosa.io/ev/): 수학 기본 개념을 interactive하게 visualization해주는 사이트
+
+- [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning): 확률, 선형대수, 미적분, 행렬대수, 최적화등, 
+
+- [ML notes: Why the log-likelihood?](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83)
 
 * [마코프: 큰수의 법칙, 베르누이 과정, 마코프 과정](http://fbsight.com/t/topic/43287) : 김성훈 교수 추천 강좌, [[Youtube]](https://youtu.be/Ws63I3F7Moc)
 
@@ -13,10 +21,28 @@
 - [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 s
 
-- [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Youtube, 5~15분 이내의 15개 짧은 강좌, 이상화 교수 강의 후 복습 개념으로 보기 추천 
+- [Essence of linear algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): Youtube, 5~15분 이내의 15개 짧은 강좌, 이상화 교수 강의 후 복습 개념으로 보기 추천
 
+- [math monk](https://www.youtube.com/user/mathematicalmonk?app=desktop): measure theory based 확률론을 공부하는걸 추천
+
+# 동영상
+
+- 벡터미적분학 13화. 다변수벡터함수의 다이버전스,커얼 : [1강](https://www.youtube.com/watch?v=jLWjtWWb0I8), [2강](https://www.youtube.com/watch?v=fvtjqkf4Wl4&feature=push-u&attr_tag=_9_gWW3ThBZSGlki-6)
+
+# Tutorial
 
 # 추천 Mooc 커리큘럼
+
+- 함수해석학(Functional analysis - krezig, convex optimization - stephen boyd
+
+- 확률론 (Probabilistic systems, John Tsitsiklis)
+
+- 확률적 그래프모델 (probabilistic graphical model - Daphne Koller)
+
+- Information theory - David Mackay
+
+
+
 저처럼 머신러닝,딥러닝 입문해 보시는 분들께 자그마한 정보가 될까 하여 조금 길게 포스팅 해 봅니다. 제가 6개월 정도 달려보았는데요. [[원문]](https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/)
 
 ###### 1. 처음 시작은 [김성훈 교수님 유튜브 강의](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)로 입문하시는게 최고의 선택인 듯 합니다. 쉽게 풀어주시면서 직관적인 이해를 도와주시는 부분이 참 많습니다.

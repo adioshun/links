@@ -6,6 +6,8 @@
 
 # Article / Post
 
+- [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)
+
 - [(한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 
 - [ppt:홍콩과기대 김성훈 교수](https://docs.google.com/presentation/d/1HtcH9Kam8Lmv-QIT_fJ5rXleatgog7pgMkXVwzrYkY4/edit#slide=id.g216584368d_0_205)
