@@ -11,6 +11,21 @@
 
 > 출처 : [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
+![](http://i.imgur.com/qTRVI2j.png)
+
+
+[YOLO ver2 실습하기](http://blog.daum.net/sotongman/12)
+
+[YOLO](http://blog.daum.net/sotongman/10)
+
+[Faster R-CNN](http://blog.daum.net/sotongman/9)
+
+[Fast R-CNN](http://blog.daum.net/sotongman/8)
+
+[SPPnet](http://blog.daum.net/sotongman/7)
+
+[R-CNN](http://blog.daum.net/sotongman/6)
+
 # paper
 
 - [A Review on Deep Learning Techniques Applied to Semantic Segmentation ](https://arxiv.org/pdf/1704.06857v1.pdf)
