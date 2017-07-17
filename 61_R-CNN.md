@@ -75,6 +75,32 @@
 
 - [Image Segmentation using deconvolution layer in Tensorflow ](http://www.datasciencecentral.com/profiles/blogs/image-segmentation-using-deconvolution-layer-in-tensorflow)
 
+- [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
+
+
+[A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+
+- C. Gu, Recognition using regions. In CVPR, 2009
+- J. Uijlings, Selective search for object recognition. IJCV, 2013
+
+[Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
+
+[How RPN (Region Proposal Networks) Works](https://www.youtube.com/watch?v=X3IlbjQs190): Youtube
+
+
+[Counting Objects with Faster R-CNN](https://softwaremill.com/counting-objects-with-faster-rcnn/)
+
+http://judelee19.github.io/machine_learning/fast_rcnn/
+
+https://www.youtube.com/playlist?list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0
+
+CS231n Lecture 8 - Localization and Detection: [Youtube](https://www.youtube.com/watch?v=_GfPYLNQank), [ppt](http://cs231n.stanford.edu/slides/2016/winter1516_lecture8.pdf)
+
+[QnA] [What are bounding box regressors doing in Fast-RCNN?](https://www.quora.com/Convolutional-Neural-Networks-What-are-bounding-box-regressors-doing-in-Fast-RCNN)
+
+K. He, X. Zhang, S. Ren, J. Sun, Deep Residual Learning for Image Recognition,
+CVPR 2016. (R-CNNs are based on ResNets)
+
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)
 
