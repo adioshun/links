@@ -6,6 +6,8 @@
 
 # Youtube 
 
+- [NVIDIA Deep Learning Course: Class #3 - Getting started with Caffe](https://www.youtube.com/watch?v=rvMVqPsXL10)
+
 # Tutorial (Series)
 
 # Material 
@@ -13,3 +15,4 @@
 # Implementation 
 
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
+- [NVIDIA Deep Learning Course: Class #2 - Getting Started with DIGITS](https://www.youtube.com/watch?v=jUiudfxjdr8)
