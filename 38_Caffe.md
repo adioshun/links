@@ -4,13 +4,20 @@
 
 # Article (Post, blog, etc.)
 
+- [한글 설치 가이드](http://deeplearningstudy.github.io/doc_caffe_install_ubuntu1404.html)
+
+
 # Youtube 
 
 - [NVIDIA Deep Learning Course: Class #3 - Getting started with Caffe](https://www.youtube.com/watch?v=rvMVqPsXL10)
 
 # Tutorial (Series)
 
+- [Official Caffe Tutorial](http://caffe.berkeleyvision.org/tutorial/)
+
 # Material 
+
+- [Caffe 실습](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=0ahUKEwim-Imx6ZPVAhUK_IMKHdd5DoE4ChAWCEUwBQ&url=http%3A%2F%2Fwww.osia.or.kr%2Fboard%2Finclude%2Fdownload.php%3Fno%3D63%26db%3Ddata2%26fileno%3D2&usg=AFQjCNFiJIxJd9alitUREY5NdyuFqVc6Yw): pdf
 
 # Implementation 
 
