@@ -5,42 +5,22 @@ NVIDIA DIGITS 2 (updated Sept 8, 2015)
 NVIDIA DIGITS 1 (updated June 26, 2015)
 
 
+# 설치  
 
-### 12.1 v3.0
+## 0. GPU지원 
+
+- [CUDA설치](https://github.com/adioshun/Blog_Jekyll/blob/master/2017-07-18-CUDA_CuDNN_Installation.md)
+
+## 1. DIGITS 5 설치 
+
+> [Ubuntu Installation](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/UbuntuInstall.md)
+
+#### 1.1 Apt-get 설치 
+
+`sudo apt-get install digits`
+
+#### 2.1 dep 설치 
 ```
-# ML_REPO_PKG=nvidia-machine-learning-repo_4.0-2_amd64.deb
-# wget http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1404/x86_64/$ML_REPO_PKG
-# dpkg -i $ML_REPO_PKG
-# apt-get update
-# apt-get install digits
-```
-> 이것으로 Caffe framework까지 한꺼번에 설치됩니다. , [Getting Started](https://github.com/NVIDIA/DIGITS/blob/digits-3.0/docs/GettingStarted.md)
-
-### 12.2 v4.0 ( Object detection 지원)
-- [참고](http://m.blog.daum.net/ocean2nd/1764052)
-
-### 12.3 v5.1 (Image Segmentation 지원)
-
-- [Ubuntu Installation](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/UbuntuInstall.md)
-- [Getting Started](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/GettingStarted.md)
-- [참고](https://www.slideshare.net/pirahansiah/how-to-install-digits-51-on-ubuntu-14)
-
-
-
-
-```
-# CUDA 8 for Ubuntu1604 x86
-wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
-
-# CUDA 8 for Ubuntu1404 x86
-wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_8.0.61-1_amd64.deb
-
-sudo dpkg -i cuda-repo-ubuntu1604_8.0.61-1_amd64.deb`
-sudo apt-get update
-sudo apt-get install cuda
-
-
-
 # DIGITS v5 for CUDA 8, Ubuntu1604 x86
 wget https://developer.nvidia.com/compute/machine-learning/digits/secure/5.0/prod/nv-deep-learning-repo-ubuntu1604-ga-cuda8.0-digits5.0_1-1_amd64-deb 
 
@@ -52,6 +32,15 @@ sudo apt-get update
 sudo apt-get install DIGITS
 ```
 
+# 실행 
+
+접속 : http://localhost 
+
+설정(포트): sudo dpkg-reconfigure digits
+
+> [Getting Started](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/GettingStarted.md)
+
+
 ### 12.3 참고 자료 
 [참고 0] DIGITS 4 설치과정 요약  https://github.com/NVIDIA/DIGITS/blob/v4.0.0/README.md
 [참고 1] 1. Ubuntu 14.04 설치 https://github.com/NVIDIA/DIGITS/blob/digits-4.0/docs/UbuntuInstall.md
@@ -61,6 +50,8 @@ sudo apt-get install DIGITS
 [참고 4] DIGITS 4 예제 - DetectNet https://github.com/NVIDIA/DIGITS/tree/master/examples/object-detection
 
 
+
+- [참고](https://www.slideshare.net/pirahansiah/how-to-install-digits-51-on-ubuntu-14)
 
 - Docker를 이용하여 DIGITS 설치하기 : [Docker Hub](https://hub.docker.com/r/nvidia/digits/), [설명](https://github.com/NVIDIA/nvidia-docker/wiki/DIGITS)
 
