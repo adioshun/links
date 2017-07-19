@@ -15,11 +15,11 @@ NVIDIA DIGITS 1 (updated June 26, 2015)
 
 > [Ubuntu Installation](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/UbuntuInstall.md)
 
-#### 1.1 Apt-get 설치 
+#### 1.1 Apt-get로 설치 
 
 `sudo apt-get install digits`
 
-#### 2.1 dep 설치 
+#### 1.2 dep로 설치 
 ```
 # DIGITS v5 for CUDA 8, Ubuntu1604 x86
 wget https://developer.nvidia.com/compute/machine-learning/digits/secure/5.0/prod/nv-deep-learning-repo-ubuntu1604-ga-cuda8.0-digits5.0_1-1_amd64-deb 
