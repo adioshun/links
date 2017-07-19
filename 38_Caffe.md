@@ -30,6 +30,7 @@
 
 - [Caffe intro & tutorial](http://caffe.berkeleyvision.org/)
 
+- [Notebook Examples](http://caffe.berkeleyvision.org/#notebook-examples)
 
 
 # Material 
