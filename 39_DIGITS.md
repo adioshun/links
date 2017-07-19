@@ -36,7 +36,7 @@ sudo apt-get install digits
 
 > [Ubuntu Installation](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/UbuntuInstall.md)
 
-#### 1.2 dep로 설치 
+#### 1.2 deb로 설치 
 ```
 # DIGITS v5 for CUDA 8, Ubuntu1604 x86
 wget https://developer.nvidia.com/compute/machine-learning/digits/secure/5.0/prod/nv-deep-learning-repo-ubuntu1604-ga-cuda8.0-digits5.0_1-1_amd64-deb 
@@ -54,6 +54,8 @@ sudo apt-get install DIGITS
 
 # 실행 
 
+확인 : sudo service digits status
+
 접속 : http://localhost 
 
 설정(포트): sudo dpkg-reconfigure digits
@@ -63,8 +65,6 @@ sudo apt-get install DIGITS
 
 
 
-
-- [참고 digits-51-on-ubuntu-14](https://www.slideshare.net/pirahansiah/how-to-install-digits-51-on-ubuntu-14)
 
 
 
