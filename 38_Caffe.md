@@ -4,12 +4,15 @@
 
 # Article (Post, blog, etc.)
 
+> conda install -c anaconda caffe=1.0
+
 - [한글 설치 가이드](http://deeplearningstudy.github.io/doc_caffe_install_ubuntu1404.html)
 
 - [Docker 이용하여 ](https://github.com/BVLC/caffe/tree/master/docker):영문
 
 - [Docker 이용하여실습하기](https://gist.github.com/haje01/0fb6d63bf065c9831256): 
 
+- [Install Caffe With Anaconda](https://yangcha.github.io/Caffe-Conda/)
 
 # Youtube 
 
@@ -21,6 +24,8 @@
 
 # Material 
 
+- [랩실습] [Applications of Deep Learning with Caffe, Theano and Torch](https://nvidia.qwiklab.com/focuses/223)
+
 - [Caffe 실습](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=0ahUKEwim-Imx6ZPVAhUK_IMKHdd5DoE4ChAWCEUwBQ&url=http%3A%2F%2Fwww.osia.or.kr%2Fboard%2Finclude%2Fdownload.php%3Fno%3D63%26db%3Ddata2%26fileno%3D2&usg=AFQjCNFiJIxJd9alitUREY5NdyuFqVc6Yw): pdf
 
 # Implementation 
@@ -29,3 +34,5 @@
 - [NVIDIA Deep Learning Course: Class #2 - Getting Started with DIGITS](https://www.youtube.com/watch?v=jUiudfxjdr8)
 
 - [NVIDIADeveloper](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
+
+- [랩실습] [Image Classification with DIGITS](https://nvidia.qwiklab.com/focuses/1579)
