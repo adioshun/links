@@ -32,6 +32,9 @@ sudo apt-get update
 sudo apt-get install DIGITS
 ```
 
+### 1.3 Docker로 설치 
+- Docker를 이용하여 DIGITS 설치하기 : [Docker Hub](https://hub.docker.com/r/nvidia/digits/), [설명](https://github.com/NVIDIA/nvidia-docker/wiki/DIGITS)
+
 # 실행 
 
 접속 : http://localhost 
@@ -41,19 +44,12 @@ sudo apt-get install DIGITS
 > [Getting Started](https://github.com/NVIDIA/DIGITS/blob/digits-5.0/docs/GettingStarted.md)
 
 
-### 12.3 참고 자료 
-[참고 0] DIGITS 4 설치과정 요약  https://github.com/NVIDIA/DIGITS/blob/v4.0.0/README.md
-[참고 1] 1. Ubuntu 14.04 설치 https://github.com/NVIDIA/DIGITS/blob/digits-4.0/docs/UbuntuInstall.md
-[참고 2] 2. Digits 설치(Caffe 설치 포함)  https://github.com/NVIDIA/DIGITS/blob/v4.0.0/docs/BuildDigits.md 
-[참고 2-1] 2-1. Caffe 설치 https://github.com/NVIDIA/DIGITS/blob/v4.0.0/docs/BuildCaffe.md
-[참고 3] 예제 파일 설치 및 실행  https://github.com/NVIDIA/nccl
-[참고 4] DIGITS 4 예제 - DetectNet https://github.com/NVIDIA/DIGITS/tree/master/examples/object-detection
 
 
 
-- [참고](https://www.slideshare.net/pirahansiah/how-to-install-digits-51-on-ubuntu-14)
+- [참고 digits-51-on-ubuntu-14](https://www.slideshare.net/pirahansiah/how-to-install-digits-51-on-ubuntu-14)
 
-- Docker를 이용하여 DIGITS 설치하기 : [Docker Hub](https://hub.docker.com/r/nvidia/digits/), [설명](https://github.com/NVIDIA/nvidia-docker/wiki/DIGITS)
+
 
 
 [Image Segmentation Using DIGITS 5](https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/)
