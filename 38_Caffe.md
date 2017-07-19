@@ -13,7 +13,7 @@
 
 # Youtube 
 
-- [NVIDIA Deep Learning Course: Class #3 - Getting started with Caffe](https://www.youtube.com/watch?v=rvMVqPsXL10): [강의자료](http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-caffe.pdf)
+- [NVIDIA Deep Learning Course: Class #3 - Getting started with Caffe](https://www.youtube.com/watch?v=rvMVqPsXL10): [강의자료](http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-caffe.pdf), [Lab](https://nvidia.qwiklab.com/focuses/preview/136)
 
 # Tutorial (Series)
 
