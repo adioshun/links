@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # List
 
 # Paper
@@ -22,11 +30,15 @@
 
 - [Official Caffe Tutorial](http://caffe.berkeleyvision.org/tutorial/)
 
+- [Caffe intro & tutorial](http://caffe.berkeleyvision.org/)
+
 # Material 
 
 - [랩실습] [Applications of Deep Learning with Caffe, Theano and Torch](https://nvidia.qwiklab.com/focuses/223)
 
-- [Caffe 실습](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=0ahUKEwim-Imx6ZPVAhUK_IMKHdd5DoE4ChAWCEUwBQ&url=http%3A%2F%2Fwww.osia.or.kr%2Fboard%2Finclude%2Fdownload.php%3Fno%3D63%26db%3Ddata2%26fileno%3D2&usg=AFQjCNFiJIxJd9alitUREY5NdyuFqVc6Yw): pdf
+- [Caffe 실습](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=0ahUKEwim-Imx6ZPVAhUK_IMKHdd5DoE4ChAWCEUwBQ&url=http%3A%2F%2Fwww.osia.or.kr%2Fboard%2Finclude%2Fdownload.php%3Fno%3D63%26db%3Ddata2%26fileno%3D2&usg=AFQjCNFiJIxJd9alitUREY5NdyuFqVc6Yw): 추천, pdf
+
+[Caffe BVLC tutorial slide](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.gc2fcdcce7_216_0)
 
 # Implementation 
 
@@ -36,3 +48,9 @@
 - [NVIDIADeveloper](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 
 - [랩실습] [Image Classification with DIGITS](https://nvidia.qwiklab.com/focuses/1579)
+
+# Community / Homepage
+
+- [Caffe github](https://github.com/BVLC/caffe)
+
+- [Caffe-users Google Groups](https://groups.google.com/forum/#!forum/caffe-users)
