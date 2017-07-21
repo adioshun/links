@@ -37,25 +37,28 @@
 
 # post
 
-- [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
-
-- [A guide to receptive field arithmetic for Convolutional Neural Networks](https://nikasa1889.github.io/2017/04/07/A-guide-to-receptive-field-arithmetic-for-Convolutional-Neural-Networks/)
-
-- ~~[추천: The Modern History of Object Recognition — 인포프래픽포함 ](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)~~
-
-- [ppt: Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
-
-- [Image Segmentation](https://experiencor.github.io/segmentation.html)
+## Image Segmentation
 
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org): [정리](https://www.facebook.com/groups/AIKoreaOpen/permalink/1546985648668873/)
 
-- <del>[Counting Objects with Faster R-CNN](https://softwaremill.com/counting-objects-with-faster-rcnn/)</del>
 
-- Object detection with neural networks — a simple tutorial using keras : [Blog](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491): [Youtube](https://www.youtube.com/watch?v=K9a6mGNmhbc&feature=youtu.be), [Code](https://github.com/jrieke/shape-detection)
+- [Image Segmentation](https://experiencor.github.io/segmentation.html)
+
 
 - [Semantic Segmentation using Fully Convolutional Networks over the years](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html)
 
 - [Image Segmentation using deconvolution layer in Tensorflow ](http://www.datasciencecentral.com/profiles/blogs/image-segmentation-using-deconvolution-layer-in-tensorflow)
+
+## Object Recognition
+- [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
+
+- ~~[추천: The Modern History of Object Recognition — 인포프래픽포함 ](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)~~
+
+
+- [Counting Objects with Faster R-CNN](https://softwaremill.com/counting-objects-with-faster-rcnn/)
+
+- Object detection with neural networks — a simple tutorial using keras : [Blog](https://medium.com/towards-data-science/object-detection-with-neural-networks-a4e2c46b4491): [Youtube](https://www.youtube.com/watch?v=K9a6mGNmhbc&feature=youtu.be), [Code](https://github.com/jrieke/shape-detection)
+
 
 - [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
 
@@ -65,7 +68,7 @@
 - C. Gu, Recognition using regions. In CVPR, 2009
 - J. Uijlings, Selective search for object recognition. IJCV, 2013
 
-[Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
+
 
 [How RPN (Region Proposal Networks) Works](https://www.youtube.com/watch?v=X3IlbjQs190): Youtube
 
@@ -82,6 +85,16 @@ CS231n Lecture 8 - Localization and Detection: [Youtube](https://www.youtube.com
 
 K. He, X. Zhang, S. Ren, J. Sun, Deep Residual Learning for Image Recognition,
 CVPR 2016. (R-CNNs are based on ResNets)
+
+
+# Material 
+
+- [Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331): ppt
+
+- [ppt: Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
+
+
+# Implementation 
 
 # YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)
