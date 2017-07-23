@@ -31,11 +31,19 @@
 - A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection (CVPR 2017): [논문](https://arxiv.org/abs/1704.03414), [GitHub](https://github.com/xiaolonw/adversarial-frcnn), [소개글](https://www.facebook.com/groups/TensorFlowKR/permalink/455680941439636/)
 
 
+- [논문리뷰](http://blog.naver.com/PostList.nhn?blogId=kangdonghyun&from=postList&categoryNo=11#) : Mask R-CNN, YOLO
+
+- [논문리뷰_글로벌 한량](http://man-about-town.tistory.com/category/-software/AI?page=1): Fast R-CNN ,SPP-Net, RCNN
+
 # List
 
 - list of [Mask R-CNN](http://forums.fast.ai/t/implementing-mask-r-cnn/2234)
 
+- [awesome-object-proposals](https://github.com/caocuong0306/awesome-object-proposals)
+
 # post
+
+
 
 ## Image Segmentation
 
@@ -120,6 +128,12 @@
 
 - [Keras](https://github.com/yhenon/keras-frcnn)
 
+- [Faster-R-CNN Install on Ubuntu 16.04(GTX1080 CUDA 8.0,cuDNN 5.1)](http://goodtogreate.tistory.com/entry/FasterRCNN-Install-on-Ubuntu-1604GTX1080-CUDA-80cuDNN-51): caffe, 한글,Good to Great 블로그
+
+- [Faster R CNN Training](http://goodtogreate.tistory.com/558): caffe. 한글, Good to Great 블로그
+
+Faster R CNN Training
+
 # Mask RCNN
 
 - [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
@@ -132,4 +146,13 @@
 
 - [GitHub](https://github.com/TensorBox/TensorBox)
 
+# Tensorflow Object Detection API
+
+출처: http://goodtogreate.tistory.com/entry/Tensorflow-Object-Detection-API-SSD-FasterRCNN [GOOD to GREAT]
+
+Single Shot Multibox Detector (SSD) with MobileNet
+SSD with Inception V2
+Region-Based Fully Convolutional Networks (R-FCN) with ResNet 101
+Faster R-CNN with Resnet 101
+Faster RCNN with Inception Resnet v2
 
