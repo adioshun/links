@@ -35,6 +35,8 @@
 
 - [논문리뷰_글로벌 한량](http://man-about-town.tistory.com/category/-software/AI?page=1): Fast R-CNN ,SPP-Net, RCNN
 
+- [논문리뷰_Jeongchul](http://jeongchul.tistory.com/category/MachineLearning): SSD, YOLO
+
 # List
 
 - list of [Mask R-CNN](http://forums.fast.ai/t/implementing-mask-r-cnn/2234)
