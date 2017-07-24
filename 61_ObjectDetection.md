@@ -12,17 +12,10 @@
 ![](http://i.imgur.com/qTRVI2j.png)
 
 
-[YOLO ver2 실습하기](http://blog.daum.net/sotongman/12)
 
-[YOLO](http://blog.daum.net/sotongman/10)
 
-[Faster R-CNN](http://blog.daum.net/sotongman/9)
 
-[Fast R-CNN](http://blog.daum.net/sotongman/8)
 
-[SPPnet](http://blog.daum.net/sotongman/7)
-
-[R-CNN](http://blog.daum.net/sotongman/6)
 
 # paper
 
@@ -87,6 +80,12 @@
 [QnA] [What are bounding box regressors doing in Fast-RCNN?](https://www.quora.com/Convolutional-Neural-Networks-What-are-bounding-box-regressors-doing-in-Fast-RCNN)
 
 
+# Youtube
+
+
+- [Computer Vision - StAR Lecture Series: Object Recognition](https://www.youtube.com/watch?v=fbFYdzatOMg) : MS
+
+
 
 
 # Material 
@@ -95,6 +94,12 @@
 
 - [ppt: Recent Progress on Object Detection_20170331](https://www.slideshare.net/JihongKang/recent-progress-on-object-detection20170331)
 
+
+- [Lecture 6: CNNs for Detection,Tracking, and Segmentation](http://cvlab.postech.ac.kr/~bhhan/class/cse703r_2016s/csed703r_lecture6.pdf): 포항공대
+
+-[Object Detection](http://slazebni.cs.illinois.edu/spring17/lec07_detection.pdf)
+
+-[Single Shot MultiBox Detector와 Recurrent Instance Segmentation](https://www.slideshare.net/ssuser06e0c5/single-shot-multibox-detector-recurrent-instance-segmentation): 한글
 
 # Implementation 
 
@@ -106,6 +111,8 @@
 - [YOLO](https://pjreddie.com/darknet/yolo/) : 실시간 Object탐지용
 
 
+- [YOLO ver2 실습하기](http://blog.daum.net/sotongman/12):, [YOLO](http://blog.daum.net/sotongman/10)
+
 # SSD
 
 - [SSD Tensorflow](https://medium.com/@mslavescu/dhruv-parthasarathy-you-can-try-ssd-tensorflow-very-easily-especially-if-you-use-my-gtarobotics-1e515e693d51)
@@ -116,6 +123,8 @@
 
 - Keras SSD : [Keras v1](https://github.com/rykov8/ssd_keras), [Keras v2](https://github.com/cory8249/ssd_keras)
 
+
+
 # u-net
 * [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) : Biomedical Image Segmentation 참고용
 
@@ -123,6 +132,10 @@
 # Full-Resolution Residual Networks
 
 - Full-Resolution Residual Networks (FRRNs) for Semantic Image Segmentation in Street Scenes: [논문](https://arxiv.org/abs/1611.08323),[Code](https://github.com/TobyPDE/FRRN) [youtube](https://www.youtube.com/watch?v=PNzQ4PNZSzc&feature=youtu.be)
+
+# Mask RCNN
+
+- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
 
 # Faster-RCNN
 
@@ -134,15 +147,20 @@
 
 - [Faster R CNN Training](http://goodtogreate.tistory.com/558): caffe. 한글, Good to Great 블로그
 
-Faster R CNN Training
+- [Faster R-CNN](http://blog.daum.net/sotongman/9)
 
-# Mask RCNN
+# Fast R-CNN
 
-- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
+- [Fast R-CNN](http://blog.daum.net/sotongman/8)
 
-# R-CNN for keras
+
+# R-CNN 
 
 - [keras-rcnn](https://github.com/broadinstitute/keras-rcnn)
+
+
+
+- [R-CNN](http://blog.daum.net/sotongman/6)
 
 # TensorBox
 
@@ -158,3 +176,6 @@ Region-Based Fully Convolutional Networks (R-FCN) with ResNet 101
 Faster R-CNN with Resnet 101
 Faster RCNN with Inception Resnet v2
 
+
+
+[SPPnet](http://blog.daum.net/sotongman/7)
