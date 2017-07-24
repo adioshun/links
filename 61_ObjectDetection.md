@@ -38,7 +38,7 @@
 
 # post
 
-
+- [deep-object-detection-models](https://github.com/ildoonet/deep-object-detection-models): Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive 임.
 
 ## Image Segmentation
 
@@ -103,7 +103,7 @@
 
 # Implementation 
 
-# YOLO
+## YOLO
 - YOLO9000: Better, Faster, Stronger : 모두의 연구소, [논문](https://arxiv.org/abs/1612.08242), [정리](http://www.modulabs.co.kr/DeepLAB_library/12796), [요약](https://www.facebook.com/groups/modulabs/permalink/1284949844903529/)
 
 - [Basic Yolo with Keras](https://experiencor.github.io/yolo_keras.html)
@@ -113,7 +113,7 @@
 
 - [YOLO ver2 실습하기](http://blog.daum.net/sotongman/12):, [YOLO](http://blog.daum.net/sotongman/10)
 
-# SSD
+## SSD
 
 - [SSD Tensorflow](https://medium.com/@mslavescu/dhruv-parthasarathy-you-can-try-ssd-tensorflow-very-easily-especially-if-you-use-my-gtarobotics-1e515e693d51)
 
@@ -125,19 +125,19 @@
 
 
 
-# u-net
+## u-net
 * [U-net](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) : Biomedical Image Segmentation 참고용
 
 
-# Full-Resolution Residual Networks
+## Full-Resolution Residual Networks
 
 - Full-Resolution Residual Networks (FRRNs) for Semantic Image Segmentation in Street Scenes: [논문](https://arxiv.org/abs/1611.08323),[Code](https://github.com/TobyPDE/FRRN) [youtube](https://www.youtube.com/watch?v=PNzQ4PNZSzc&feature=youtu.be)
 
-# Mask RCNN
+## Mask RCNN
 
 - [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
 
-# Faster-RCNN
+## Faster-RCNN
 
 - [Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
 
@@ -149,12 +149,12 @@
 
 - [Faster R-CNN](http://blog.daum.net/sotongman/9)
 
-# Fast R-CNN
+## Fast R-CNN
 
 - [Fast R-CNN](http://blog.daum.net/sotongman/8)
 
 
-# R-CNN 
+## R-CNN 
 
 - [keras-rcnn](https://github.com/broadinstitute/keras-rcnn)
 
@@ -162,11 +162,11 @@
 
 - [R-CNN](http://blog.daum.net/sotongman/6)
 
-# TensorBox
+## TensorBox
 
 - [GitHub](https://github.com/TensorBox/TensorBox)
 
-# Tensorflow Object Detection API
+## Tensorflow Object Detection API
 
 출처: http://goodtogreate.tistory.com/entry/Tensorflow-Object-Detection-API-SSD-FasterRCNN [GOOD to GREAT]
 
