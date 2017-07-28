@@ -23,8 +23,7 @@
 
 - A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection (CVPR 2017): [논문](https://arxiv.org/abs/1704.03414), [GitHub](https://github.com/xiaolonw/adversarial-frcnn), [소개글](https://www.facebook.com/groups/TensorFlowKR/permalink/455680941439636/)
 
-
-- [논문리뷰](http://blog.naver.com/PostList.nhn?blogId=kangdonghyun&from=postList&categoryNo=11#) : Mask R-CNN, YOLO
+- ~~[논문리뷰](http://blog.naver.com/kangdonghyun/221006015797) : Mask R-CNN, YOLO~~
 
 - [논문리뷰_글로벌 한량](http://man-about-town.tistory.com/category/-software/AI?page=1): Fast R-CNN ,SPP-Net, RCNN
 
@@ -65,8 +64,6 @@
 
 - [Object Detection using Deep Learning for advanced users (Part-1)](https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19)
 
-
-[A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 
 
@@ -135,7 +132,7 @@
 
 ## Mask RCNN
 
-- [Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)
+- ~~[Mask RCNN in TensorFlow](https://github.com/CharlesShang/FastMaskRCNN)~~
 
 ## Faster-RCNN
 
