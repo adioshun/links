@@ -75,8 +75,9 @@
 - [Youtube](https://www.youtube.com/watch?v=RVFpwMAeBOA): a small tutorial how to visualize the given bag files in ROS., [[GitHub]](https://github.com/didi-challenge-team-khodro/data_analysis)
 
 
-
-
 # Docker
 
 - [Karthikksamy-Teamsf4win](https://hub.docker.com/r/karthikksamy/teamsf4win/0)
+
+
+> How to use object detection package in Autoware
