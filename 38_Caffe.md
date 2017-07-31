@@ -20,6 +20,10 @@
 
 - [Install Caffe With Anaconda](https://yangcha.github.io/Caffe-Conda/)
 
+- [caffe framework 데이터 셋팅하기](http://blog.naver.com/sogangori/220461170655)
+
+]()
+
 # Youtube 
 
 - ~~[NVIDIA Deep Learning Course: Class #3 - Getting started with Caffe](https://www.youtube.com/watch?v=rvMVqPsXL10)~~: 2015, [강의자료](http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-caffe.pdf), [Lab](https://nvidia.qwiklab.com/focuses/preview/136)
