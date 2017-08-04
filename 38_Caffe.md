@@ -22,7 +22,12 @@
 
 - [caffe framework 데이터 셋팅하기](http://blog.naver.com/sogangori/220461170655)
 
-]()
+-[[Caffe]Training LeNet on MNIST with Caffe](http://blog.naver.com/ejjun92/220737906009)
+
+- [pycaffe로 fine-tuning하기](http://yochin47.blogspot.com/2016/03/pycaffe-fine-tuning.html)
+
+- [Caffe 처음 설치를 마친 사람들을 위한 정리](http://hamait.tistory.com/518)
+
 
 # Youtube 
 
