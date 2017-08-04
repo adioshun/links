@@ -28,6 +28,8 @@
 
 - [Caffe 처음 설치를 마친 사람들을 위한 정리](http://hamait.tistory.com/518)
 
+- [training dataset with caffe](http://blog.naver.com/sssmate1/220501116973)
+
 
 # Youtube 
 
@@ -42,6 +44,7 @@
 - [Notebook Examples](http://caffe.berkeleyvision.org/#notebook-examples)
 
 
+
 # Material 
 
 - ~~[Caffe 실습](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=16&ved=0ahUKEwim-Imx6ZPVAhUK_IMKHdd5DoE4ChAWCEUwBQ&url=http%3A%2F%2Fwww.osia.or.kr%2Fboard%2Finclude%2Fdownload.php%3Fno%3D63%26db%3Ddata2%26fileno%3D2&usg=AFQjCNFiJIxJd9alitUREY5NdyuFqVc6Yw)~~: 추천, pdf
@@ -53,6 +56,8 @@
 - [Fully Convilutional Layer-pixelwise prediction](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-pixels.pdf): pdf
 
 # Implementation 
+
+- [Training Multi-Layer Neural Network with Caffe](http://nbviewer.jupyter.org/github/joyofdata/joyofdata-articles/blob/master/deeplearning-with-caffe/Neural-Networks-with-Caffe-on-the-GPU.ipynb): jupyter
 
 - [First Sip of Caffe](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/tutorial/examples/completed/00-caffe-intro.ipynb): Jupyter
 
