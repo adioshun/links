@@ -66,7 +66,7 @@
 
 # Implementation 
 
-- ~~[First Sip of Caffe](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/tutorial/examples/completed/00-caffe-intro.ipynb)~~: Jupyter
+- ~~[First Sip of Caffe](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/tutorial/examples/completed/00-caffe-intro.ipynb)~~: BVLC 00-caffe-intro.ipynb
 
 - [Training Multi-Layer Neural Network with Caffe](http://nbviewer.jupyter.org/github/joyofdata/joyofdata-articles/blob/master/deeplearning-with-caffe/Neural-Networks-with-Caffe-on-the-GPU.ipynb): 수치데이터 예제 
 
