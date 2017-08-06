@@ -3,6 +3,9 @@
 # caffe
 
 
+- [Caffe github](https://github.com/BVLC/caffe)
+
+- [Caffe-users Google Groups](https://groups.google.com/forum/#!forum/caffe-users)
 
 
 
@@ -67,23 +70,31 @@
 
 - [First Sip of Caffe](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/tutorial/examples/completed/00-caffe-intro.ipynb): Jupyter
 
-- [Classification: Instant Recognition with Caffe](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/00-classification.ipynb): Jupyter
-
-- [Solving in Python with LeNet](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/master/examples/01-learning-lenet.ipynb): Jupyter
-
-- [Fine-tuning a Pretrained Network for Style Recognition](http://nbviewer.jupyter.org/github/BVLC/caffe/blob/tutorial/examples/completed/03-fine-tuning.ipynb)
 
 - [Cafee Github examples](https://github.com/BVLC/caffe/tree/master/examples): 폴더내 Jupyter 
+  
+  - [00: Classification: Instant Recognition with Caffe](https://github.com/BVLC/caffe/blob/master/examples/00-classification.ipynb)
+
+  - [01: Solving in Python with LeNet](https://github.com/BVLC/caffe/blob/master/examples/01-learning-lenet.ipynb)
+  
+  - [02: Fine-tuning a Pretrained Network for Style Recognition](https://github.com/BVLC/caffe/blob/master/examples/02-fine-tuning.ipynb)
+  
+  - [Brewing Logistic Regression then Going Deeper](https://github.com/BVLC/caffe/blob/master/examples/brewing-logreg.ipynb)
+  
+  - [detection_RCNN](https://github.com/BVLC/caffe/blob/master/examples/detection.ipynb)
+  
+  - [Net Surgery](https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb)
+
+  - [Multilabel classification on PASCAL using python data-layers](https://github.com/BVLC/caffe/blob/master/examples/pascal-multilabel-with-datalayer.ipynb)
+
+
+# DIGIST
 
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
+
 - [NVIDIA Deep Learning Course: Class #2 - Getting Started with DIGITS](https://www.youtube.com/watch?v=jUiudfxjdr8)
 
 - [NVIDIADeveloper](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 
 - [랩실습] [Image Classification with DIGITS](https://nvidia.qwiklab.com/focuses/1579)
 
-# Community / Homepage
-
-- [Caffe github](https://github.com/BVLC/caffe)
-
-- [Caffe-users Google Groups](https://groups.google.com/forum/#!forum/caffe-users)
