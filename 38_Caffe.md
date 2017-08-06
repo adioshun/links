@@ -21,7 +21,7 @@
 
 - ~~[Docker 이용하여 실행하기](https://github.com/BVLC/caffe/tree/master/docker)~~:영문
 
-- ~~[Docker로 Caffe 실습하기](https://gist.github.com/haje01/0fb6d63bf065c9831256) ~~
+- ~~[Docker로 Caffe 실습하기](https://gist.github.com/haje01/0fb6d63bf065c9831256)~~
 
 - ~~[Install Caffe With Anaconda](https://yangcha.github.io/Caffe-Conda/)~~
 
@@ -33,7 +33,7 @@
 
 - ~~[pycaffe로 fine-tuning하기](http://yochin47.blogspot.com/2016/03/pycaffe-fine-tuning.html)~~
 
-- [Fine-tuning CaffeNet for Style Recognition on “Flickr Style” Data](http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html): [번역](http://hamait.tistory.com/520)
+- ~~[Fine-tuning CaffeNet for Style Recognition on “Flickr Style” Data](http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html)~~: [번역](http://hamait.tistory.com/520)
 
 - ~~[Caffe 처음 설치를 마친 사람들을 위한 정리](http://hamait.tistory.com/518)~~
 
