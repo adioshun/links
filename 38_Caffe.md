@@ -1,34 +1,40 @@
 
 
+# caffe
 
 
 
 
 
+## 1. List
 
-# List
+## 2. Paper
 
-# Paper
+## 3. Article (Post, blog, etc.)
 
-# Article (Post, blog, etc.)
+### 3.1 installation 
 
-- [한글 설치 가이드](http://deeplearningstudy.github.io/doc_caffe_install_ubuntu1404.html)
+- ~~[한글 설치 가이드](http://deeplearningstudy.github.io/doc_caffe_install_ubuntu1404.html)~~: ubunt14.01
 
-- [Docker 이용하여 ](https://github.com/BVLC/caffe/tree/master/docker):영문
+- ~~[Docker 이용하여 실행하기](https://github.com/BVLC/caffe/tree/master/docker)~~:영문
 
-- [Docker 이용하여실습하기](https://gist.github.com/haje01/0fb6d63bf065c9831256)
+- ~~[Docker로 Caffe 실습하기](https://gist.github.com/haje01/0fb6d63bf065c9831256) ~~
 
-- [Install Caffe With Anaconda](https://yangcha.github.io/Caffe-Conda/)
+- ~~[Install Caffe With Anaconda](https://yangcha.github.io/Caffe-Conda/)~~
 
-- [caffe framework 데이터 셋팅하기](http://blog.naver.com/sogangori/220461170655)
+### 3.1 설명 
 
--[[Caffe]Training LeNet on MNIST with Caffe](http://blog.naver.com/ejjun92/220737906009)
+- ~~[caffe framework 데이터 셋팅하기](http://blog.naver.com/sogangori/220461170655)~~
 
-- [pycaffe로 fine-tuning하기](http://yochin47.blogspot.com/2016/03/pycaffe-fine-tuning.html)
+- ~~[Caffe]Training LeNet on MNIST with Caffe](http://blog.naver.com/ejjun92/220737906009)~~
 
-- [Caffe 처음 설치를 마친 사람들을 위한 정리](http://hamait.tistory.com/518)
+- ~~[pycaffe로 fine-tuning하기](http://yochin47.blogspot.com/2016/03/pycaffe-fine-tuning.html)~~
 
-- [training dataset with caffe](http://blog.naver.com/sssmate1/220501116973)
+- [Fine-tuning CaffeNet for Style Recognition on “Flickr Style” Data](http://caffe.berkeleyvision.org/gathered/examples/finetune_flickr_style.html): [번역](http://hamait.tistory.com/520)
+
+- ~~[Caffe 처음 설치를 마친 사람들을 위한 정리](http://hamait.tistory.com/518)~~
+
+- ~~[training dataset with caffe](http://blog.naver.com/sssmate1/220501116973)~~
 
 
 # Youtube 
