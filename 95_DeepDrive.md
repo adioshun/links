@@ -90,15 +90,17 @@ Nexar is a community-based AI dash cam app for iPhone and Android : [홈페이�
 
 
 # elcano project
-http://www.elcanoproject.org/intro.php
+- [홈페이지](http://www.elcanoproject.org/intro.php)
+
+- [코드](https://github.com/elcano/elcano)
 
 
-C2 – Dual control: low level vehicle control, either from the driver or the AI.
-C3 – Pilot: Detects obstacles and feeds settings for the next path segment to C2.
-C4 – Path Planner: Computes the best route from current location to destination.
-C5 – Obstacle detection from sonars.
-C6 – Navigator: Reads GPS, INU, Odometer, Compass etc. to get best position estimate.
-C7 – Vision: Locates certain features of interest (Raspberry Pi)..
+- C2 – Dual control: low level vehicle control, either from the driver or the AI.
+- C3 – Pilot: Detects obstacles and feeds settings for the next path segment to C2.
+- C4 – Path Planner: Computes the best route from current location to destination.
+- C5 – Obstacle detection from sonars.
+- C6 – Navigator: Reads GPS, INU, Odometer, Compass etc. to get best position estimate.
+- C7 – Vision: Locates certain features of interest (Raspberry Pi)..
 
 # Implementation
 
