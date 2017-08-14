@@ -17,7 +17,9 @@
 
 ## 4. Youtube 
 
-## 5.  Tutorial (Series, )
+## 5.  Tutorial (Series,Class )
+
+- [3D Object Recognition with Deep Networks Project for the 3D Vision course at ETHZ](https://github.com/tobiagru/Deep-3D-Obj-Recognition)
 
 ## 6.  Material 
 
