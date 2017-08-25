@@ -3,6 +3,7 @@
 # Aritle (blog)
 
 - [[추천] 머신러닝중요 Notation](http://www.deeplearningbook.org/contents/notation.html): 4page, 이것들만 잘 기억하고 있어도 논문에 나오는 수학의 50%는 먹고 들어가는 정말 많이 나오는 기호들입니다.
+  - [wiki_List of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols?fref=gc)
 
 - [[추천]Explained Visually](http://setosa.io/ev/): 수학 기본 개념을 interactive하게 visualization해주는 사이트
 
