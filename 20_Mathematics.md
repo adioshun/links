@@ -2,6 +2,8 @@
 
 # Aritle (blog)
 
+- [[추천] 머신러닝중요 Notation](http://www.deeplearningbook.org/contents/notation.html): 4page
+
 - [[추천]Explained Visually](http://setosa.io/ev/): 수학 기본 개념을 interactive하게 visualization해주는 사이트
 
 - [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning): 확률, 선형대수, 미적분, 행렬대수, 최적화등, 
