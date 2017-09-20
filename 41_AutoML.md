@@ -37,6 +37,8 @@
 
 - [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html): open-source system for training deep learning models in TensorFlow.
 
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/): [Keras구현코드](https://gist.github.com/nicksam112/00e9638c0efad1adac878522cf172484)
+
 # Material (ppt, pdf)
 
 - [automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw): ppt
