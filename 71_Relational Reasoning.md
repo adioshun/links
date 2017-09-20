@@ -52,3 +52,10 @@ https://arxiv.org/pdf/1706.01427.pdf
 ##### [비주얼 상호작용 네트워크(Visual Interaction Networks, VIN)'](https://arxiv.org/abs/1706.01433): [[소개글]](https://www.facebook.com/groups/AIKoreaOpen/permalink/1573771392656965/), 복잡한 인지시스템을 활용해 사물들 간 관계에 따른 물리적 상호작용을 추론
 - 축구공을 찼을 때 인간의 뇌는 공이 벽에 부딪친 뒤 다음 어떻게 움직일지 예상
 - VIN은 RN으로 강화된 인공신경망이 이런 작업까지 수행할 수 있다는 사실을 증명
+
+
+# Article 
+
+# Implementation 
+
+- [[Keras]Relation-network](https://github.com/Alan-Lee123/relation-network)
