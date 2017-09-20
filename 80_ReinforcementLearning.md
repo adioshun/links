@@ -40,6 +40,12 @@
 
 - [one-step-Q-learning algorithm for this AI ](https://github.com/barkdong123/ToeBot/tree/master/Prj_mayDay/Prj_FrankenShtine/jamessSkynetProject): q-learning 을 이용한 틱-택-토 AI 를 만들어보았습니다.
 
+# Youtube
+
+- [알아두면 쓸데있는 신기한 강화학습](https://youtu.be/NGGO0zdzhVQ): 김태훈, [​발표 슬라이드](​https://www.slideshare.net/carpedm20/naver-2017)
+
+- [RLCode와 A3C 쉽고 깊게 이해하기](http://tv.naver.com/v/2022271)
+
 # Tutorial
 
 - [GitHub: Practical_RL](https://github.com/yandexdataschool/Practical_RL) : HSE대학교 강의 자료

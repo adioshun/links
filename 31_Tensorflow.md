@@ -59,6 +59,9 @@
 - [TF에서 그래프 중간 중간에 값을 보려면 ](https://www.facebook.com/groups/TensorFlowKR/permalink/452606621747068/)
 
 # Tutorial
+
+- [골빈해커의 3분 딥러닝](https://github.com/golbin/TensorFlow-Tutorials): 추천
+
 ## 기초 강좌 (3_고급_SJCHOI86)
 1. 기본
   - <del> [Basics of TensorFlow](http://128.46.80.28:8585/tree/3_고급_SJCHOI86/basic_tensorflow.ipynb): 텐서플로우 변수, 상수 처리법 </del>

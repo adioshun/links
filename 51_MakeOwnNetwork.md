@@ -34,6 +34,10 @@ http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
   - Learning II: caveats of real-world label distributions
   - Learning III: understanding black box models
 
+- [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
+
+- [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](https://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
+
 - <del>[14 DESIGN PATTERNS TO IMPROVE YOUR CONVOLUTIONAL NEURAL NETWORKS](http://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/)>/del>: 추천
 
 - 10 steps to bootstrap your machine learning project: [(part 1)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-1-aa7e1031f5b1), [(part 2)](https://blog.metaflow.fr/10-steps-to-bootstrap-your-machine-learning-project-part-2-b6be78444c70)]
@@ -129,3 +133,6 @@ Here are some resources for tips and tricks for training neural networks. ([Reso
 # Limitation / Further Readings
 
 - [catastrophic forgetting](https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/)
+
+
+---

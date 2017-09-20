@@ -6,6 +6,10 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 
 - [공식 Manual](http://pytorch.org/docs/index.html)
 
+# List
+
+- [The incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/blob/master/README.md): PyTorch 튜토리얼, 프로젝트, 라이브러리, 비디오, 논문, 책 등의 리소스 목록
+
 # Article
 - [A gentle introduction to PyTorch and TensorFlow with a Reddit link](https://theintelligenceofinformation.wordpress.com/2017/03/06/a-gentle-introduction-to-pytorch-and-tensorflow-with-a-reddit-link/)
 
@@ -39,7 +43,7 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 
 - [Practical-pytorch](https://github.com/spro/practical-pytorch): 고급,  **Spro**, project-based tutorials, RNN 중심
 
-
+- [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus): 추천, PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_pytorch/) 1기 강의자료
 
 
 

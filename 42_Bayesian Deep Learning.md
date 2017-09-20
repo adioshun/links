@@ -18,6 +18,13 @@
 
 - [한글: 베이지안 딥러닝](https://drive.google.com/file/d/0B8v4MKOWQrJAa3J1bXRFTERWbEU/view): 서울대학교, 김용대교수
 
+
+# Youtube
+
+- [Allen Downey - Bayesian statistics made simple - PyCon 2016](https://www.youtube.com/watch?v=TpgiFIGXcT4&feature=youtu.be)
+
+- [Bayesian Inference Part I - Zoubin Ghahramani - MLSS 2015 Tübingen](https://www.youtube.com/watch?v=kjo9Y_Vrgn4&feature=youtu.be)
+
 # QnA - Raddit
 
 - [What is exactly a Bayesian guy in machine learning?](https://www.reddit.com/r/MachineLearning/comments/6dbwnf/d_what_is_exactly_a_bayesian_guy_in_machine/):

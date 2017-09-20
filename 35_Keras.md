@@ -30,6 +30,11 @@
 
 # Tutorial
 
+* [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks): fchollet, 노트북 8개 강좌
+
+* [Keras 레퍼런스](https://www.codeonweb.com/course/9e663a9d-7788-4874-bfd6-987a679fb70e): CodeOnWeb, Keras를 공식 문서
+
+
 * [추천][케라스, 그 간결함에 빠지다, 김태영](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/):   * 계속 Update 중
   * <del>[컨볼루션 신경망 레이어 이야기](https://tykimos.github.io/Keras/2017/01/27/CNN_Layer_Talk/) </del>
   * <del>[컨볼루션 신경망 모델 만들어보기](https://tykimos.github.io/Keras/2017/03/08/CNN_Getting_Started/)</del>

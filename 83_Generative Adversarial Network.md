@@ -30,6 +30,8 @@
 
 - [유투브 강의:How to Generate Images with Tensorflow (LIVE) ](https://www.youtube.com/watch?v=iz-TZOEKXzA&feature=youtu.be)
 
+- [Youtube: 1시간만에 GAN(Generative Adversarial Network) 완전 ](http://tv.naver.com/v/1947034)
+
 # 논문
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/pdf/1612.07828v1.pdf) : Ashish Shrivastava, Apple, 216
  * the blueprint for training state-of-the-art neural nets from only __synthetic__ and unlabelled data

@@ -48,3 +48,12 @@ Pytorch에서 활용 가능한 시각화 툴(??)
 
 
 - [Guild](https://guild.ai): Tensorflow를 강화해주는 Guild라는 툴 소개입니다.[Code](https://github.com/guildai/guild)
+
+
+# Datascience Visualization Tools
+
+- Tableau
+
+- http://www.metabase.com : free, 오픈소스 BI툴인데 빅쿼리 지원
+
+- https://redash.io

@@ -105,6 +105,9 @@ Transforming a query image according to an example pair of related images
 * [샘플코드](https://www.analyticsvidhya.com/blog/2016/11/creating-an-artificial-artist-color-your-photos-using-neural-networks/) : 반고흐 '별이 빛나는 밤' 같은 그림으로 변경
 * [GitHub: DeepDream](https://github.com/google/deepdream)
 
+### Background removal with deep learning
+- [Background removal with deep learning](https://medium.com/towards-data-science/background-removal-with-deep-learning-c4f2104b3157)
+
 ### A neural image caption generator
 자동으로 사진에 대한 설명문을 작성
 * [ppt_A neural image caption generator](http://www.slideshare.net/ssuser06e0c5/a-neural-image-caption-generator) : 김홍배, 한국항곡우주연구원, 2016.07
