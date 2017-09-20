@@ -34,6 +34,8 @@ http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
   - Learning II: caveats of real-world label distributions
   - Learning III: understanding black box models
 
+- [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
 
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](https://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)

@@ -7,7 +7,7 @@
 
 - [[추천]Explained Visually](http://setosa.io/ev/): 수학 기본 개념을 interactive하게 visualization해주는 사이트
 
-- [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning): 확률, 선형대수, 미적분, 행렬대수, 최적화등, 
+- [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning): 확률, 선형대수, 미적분, 행렬대수, 최적화등,
 
 - [ML notes: Why the log-likelihood?](https://blog.metaflow.fr/ml-notes-why-the-log-likelihood-24f7b6c40f83)
 
@@ -31,6 +31,8 @@ s
 # 동영상
 
 - 벡터미적분학 13화. 다변수벡터함수의 다이버전스,커얼 : [1강](https://www.youtube.com/watch?v=jLWjtWWb0I8), [2강](https://www.youtube.com/watch?v=fvtjqkf4Wl4&feature=push-u&attr_tag=_9_gWW3ThBZSGlki-6)
+
+- [CVPR 2017 TUTORIAL ON THE MATHEMATICS OF DEEP LEARNING](http://www.vision.jhu.edu/tutorials/CVPR17-Tutorial-Math-Deep-Learning.htm)
 
 # Tutorial
 

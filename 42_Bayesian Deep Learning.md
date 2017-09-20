@@ -19,6 +19,9 @@
 - [한글: 베이지안 딥러닝](https://drive.google.com/file/d/0B8v4MKOWQrJAa3J1bXRFTERWbEU/view): 서울대학교, 김용대교수
 
 
+
+
+
 # Youtube
 
 - [Allen Downey - Bayesian statistics made simple - PyCon 2016](https://www.youtube.com/watch?v=TpgiFIGXcT4&feature=youtu.be)
