@@ -37,6 +37,7 @@
 
 - [Accelerating Deep Learning Research with the Tensor2Tensor Library](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html): open-source system for training deep learning models in TensorFlow.
 
+- [Automate your Machine Learning in Python – TPOT and Genetic Algorithms](https://blog.alookanalytics.com/2017/05/25/automate-your-machine-learning/)
 
 
 # Material (ppt, pdf)
