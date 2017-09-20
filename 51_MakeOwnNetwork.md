@@ -34,6 +34,8 @@ http://fbsight.com/t/deeplearning-project-workflow-bias-variance-tradeoff/78035
   - Learning II: caveats of real-world label distributions
   - Learning III: understanding black box models
 
+- [An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/): [github](https://github.com/Spandan-Madan/DeepLearningProject)
+
 - 37 Reasons why your Neural Network is not working: [원문](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607), [번역](http://daehoon.tistory.com/2)
 
 - [My Neural Network isn't working! What should I do?](http://theorangeduck.com/page/neural-network-not-working)
