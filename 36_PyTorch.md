@@ -34,6 +34,7 @@ PyTorch는 자체적으로 discuss / slack 을 운영하고 있습니다.
 - [Official Tutorial](http://pytorch.org/tutorials/)
   - <del>[Deep Learning with PyTorch: A 60 Minute Blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)</del>: 초급, By Soumith Chintala
 
+- [PyTorch FastCampus](https://github.com/GunhoChoi/PyTorch-FastCampus): PyTorch로 시작하는 딥러닝 입문 [CAMP](www.fastcampus.co.kr/data_camp_pytorch/) 1기 강의자료
 
 - [Pytorch Fundamental](https://github.com/jcjohnson/pytorch-examples): Jcjohnson
 
