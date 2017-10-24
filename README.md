@@ -2,15 +2,9 @@
 
 # 논문
 
-- Arxiv : [Arxiv-sanity](http://www.arxiv-sanity.com/), [Trend](http://trendingarxiv.smerity.com/ ), 
-  
-  - [ArxivSanityKR](https://www.facebook.com/ArxivSanityKR): 한글Facebook, [fbsight_arxiv](http://fbsight.com/c/arxiv/): 한글Facebook_board
-  
-  - [GitXiv](http://www.gitxiv.com/) : Arxiv사이트 + 오픈소스
+- Arxiv : [Arxiv-sanity](http://www.arxiv-sanity.com/), [Trend](http://trendingarxiv.smerity.com/ ), [Web-view](https://www.arxiv-vanity.com/), [ArxivSanityKR](https://www.facebook.com/ArxivSanityKR), [fbsight_arxiv](http://fbsight.com/c/arxiv/), [GitXiv](http://www.gitxiv.com/) 
 
-- [Mendeley](https://www.mendeley.com/library/): 논문/서지 관리
-
-- [Overleaf](https://www.overleaf.com/): LaTex 웹기반 작성 툴, 
+- 작성 : [Mendeley](https://www.mendeley.com/library/), [Overleaf](https://www.overleaf.com/), 
   
   - [Online Math 툴](http://www.hostmath.com/), [수학기호정리](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
   
