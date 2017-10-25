@@ -50,6 +50,10 @@ Pytorch에서 활용 가능한 시각화 툴(??)
 - [Guild](https://guild.ai): Tensorflow를 강화해주는 Guild라는 툴 소개입니다.[Code](https://github.com/guildai/guild)
 
 
+# DL Network visualization 
+
+- [Drawnet](http://people.csail.mit.edu/torralba/research/drawCNN/drawNet.html): MIT Place
+
 # Datascience Visualization Tools
 
 - Tableau
