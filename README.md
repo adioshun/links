@@ -24,7 +24,7 @@
 
 - [Prose](http://prose.io/#adioshun): Github Markdown Editor
 
-- [GistBox](https://app.gistboxapp.com/library/my-gists): GIst 코드 모음
+- [GistBox](https://app.gistboxapp.com/library/my-gists), [Lepton](https://github.com/hackjutsu/Lepton/releases)
 
 - [GitBook](https://www.gitbook.com/@adioshun): Github기반 eBook 작성 툴, [[빈줄 제거]](http://textmechanic.com/text-tools/basic-text-tools/addremove-line-breaks/), [[테이블]](http://truben.no/table/)
 
