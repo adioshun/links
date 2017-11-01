@@ -16,6 +16,10 @@
 
 - [Fusemind](http://fusemind.org): Google Scholar Chrome 확장 앱
 
+- [OpenReview](https://openreview.net/)
+
+- [FigShare](https://figshare.com) : Acamemic Resource storage Service 
+
 ## GitHub  
 
 - [[GitHub-adioshun]](https://github.com/adioshun), [[GitHub-hunjung]](https://github.com/hunjung-lim), [[GitHub-Purdue]](https://github.rcac.purdue.edu/lim231)
