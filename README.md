@@ -1,6 +1,4 @@
-# Deeplearning을 공부하기 위해 필요한 자료들 모음 입니다.
-
-# 논문
+## 논문
 
 - Arxiv : [[Arxiv-sanity]](http://www.arxiv-sanity.com/), [[Trend]](http://trendingarxiv.smerity.com/ ), [[Web-view]](https://www.arxiv-vanity.com/), [[ArxivSanityKR]](https://www.facebook.com/ArxivSanityKR), [[fbsight_arxiv]](http://fbsight.com/c/arxiv/), [[GitXiv]](http://www.gitxiv.com/) 
 
@@ -18,20 +16,19 @@
 
 - [Fusemind](http://fusemind.org): Google Scholar Chrome 확장 앱
 
-# GitHub : 
+## GitHub  
 
 - [[GitHub-adioshun]](https://github.com/adioshun), [[GitHub-hunjung]](https://github.com/hunjung-lim), [[GitHub-Purdue]](https://github.rcac.purdue.edu/lim231)
 
 - [Insight.io](https://insight.io/account/projects): Githib기반 코드 뷰어
 
-## Gist 
-
-- ~~[[GistBox]](https://app.gistboxapp.com/library/my-gists)~~, [[Cacher]](https://www.cacher.io/), [[Lepton]](https://github.com/hackjutsu/Lepton/releases)
-
 ## GitBook 
 - [[GitBook]](https://www.gitbook.com/@adioshun), [[Prose]](http://prose.io/#adioshun), [[StackEdit]](https://stackedit.io/app)
  [[빈줄 제거]](http://textmechanic.com/text-tools/basic-text-tools/addremove-line-breaks/), [[테이블]](http://truben.no/table/)
 
+## Gist 
+
+- ~~[[GistBox]](https://app.gistboxapp.com/library/my-gists)~~, [[Cacher]](https://www.cacher.io/), [[Lepton]](https://github.com/hackjutsu/Lepton/releases)
 
 
 
