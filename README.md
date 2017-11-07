@@ -37,6 +37,10 @@
 - ~~[[GistBox]](https://app.gistboxapp.com/library/my-gists)~~, [[Cacher]](https://www.cacher.io/), [[Lepton]](https://github.com/hackjutsu/Lepton/releases)
 
 
+## English 
 
+- 작문 : [[WriteFull]](https://writefullapp.com), [[grammarly]](https://www.grammarly.com), [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
+
+- 번역 : [[better-translator]](http://better-translator.com/?locale=ko) , [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[Naver_Papago]](https://papago.naver.com/)
 
 
