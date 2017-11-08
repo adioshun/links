@@ -39,8 +39,10 @@
 
 ## English 
 
-- 작문 : [[WriteFull]](https://writefullapp.com), [[grammarly]](https://www.grammarly.com), [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
+- 작문 : [[WriteFull]](https://writefullapp.com), [[grammarly]](https://www.grammarly.com), 
+  - eg. [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
 
-- 번역 : [[better-translator]](http://better-translator.com/?locale=ko) , [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[Naver_Papago]](https://papago.naver.com/)
+- 번역 : [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[Naver_Papago]](https://papago.naver.com/)
+  - etc. [[better-translator]](http://better-translator.com/?locale=ko) ,
 
 
