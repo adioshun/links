@@ -4,21 +4,21 @@
 
 - 작성 : [[Mendeley]](https://www.mendeley.com/library/), [[Overleaf]](https://www.overleaf.com/), 
   
-  - [[Online Math 툴]](http://www.hostmath.com/), [[수학기호정리]](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8)
+  - [[Online Math 툴]](http://www.hostmath.com/), [[수학기호정리]](https://librewiki.net/wiki/%EC%88%98%ED%95%99_%EA%B8%B0%ED%98%B8),  [[Latex_List of Greek letters and math symbols]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
   
   - [[Onlie Graph 툴]](https://www.desmos.com/calculator/auubsajefh)
   
-  - [[Online Table 툴]](https://ko.sharelatex.com/learn/List_of_Greek_letters_and_math_symbols)
+  - [[Latex Table 툴]](http://www.tablesgenerator.com/) , 
+ 
 
-- [Distill](http://distill.pub/): Web기반 저널
 
-- [Research Gate](https://www.researchgate.net/home): 연구원들의SNS
+- [Research Gate](https://www.researchgate.net/home): 
 
 - [Fusemind](http://fusemind.org): Google Scholar Chrome 확장 앱
 
 - [OpenReview](https://openreview.net/)
 
-- [FigShare](https://figshare.com) : Acamemic Resource storage Service 
+- [FigShare](https://figshare.com) : Academic Resource storage Service 
 
 ## GitHub  
 
@@ -40,9 +40,11 @@
 ## English 
 
 - 작문 : [[WriteFull]](https://writefullapp.com), [[grammarly]](https://www.grammarly.com), 
-  - eg. [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
+  
+  - etc. [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
 
-- 번역 : [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[Naver_Papago]](https://papago.naver.com/)
+- 번역 : [[Google]](https://translate.google.com/), [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[MS Bing]](https://www.bing.com/translator), [[]](),  [[Naver_Papago]](https://papago.naver.com/)
+  
   - etc. [[better-translator]](http://better-translator.com/?locale=ko) ,
-
-
+  
+- 업체 : [[국내_Enago]](https://www.enago.co.kr/academy/category/academic-writing/language-and-grammer/), [[ServiceScape_저널]](https://www.servicescape.com/editors/doctorword), [[ServiceScape_투고]](https://www.servicescape.com/editors/glassphoenix)
