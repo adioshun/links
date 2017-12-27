@@ -1,1 +1,0 @@
-- Pruning Convolutional Neural Networks for Resource Efficient Inference : [설명글](https://jacobgil.github.io/deeplearning/pruning-deep-learning), [Pytorch코드](https://github.com/jacobgil/pytorch-pruning), Pruning은 네트워크의 inference 속도를 빠르게 하거나, 파라미터 크기를 줄이기 위해 성능을 유지함과 동시에 '네트워크의 가지를 쳐내는' 방법입니다. 모바일 기기에 딥러닝 모델을 이식하기 위해 꼭 필요한 기술
