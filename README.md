@@ -1,6 +1,8 @@
 ## GitBook 
 
-- 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/deep_learning/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
+- 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/system_setup/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
+
+- 딥러닝 : [깃북](https://adioshun.gitbooks.io/deep_learning/content/), [깃허브](https://github.com/adioshun/gitBook_Deeplearning)
 
 - paper_3D Object Detection and tracking  : [깃북](https://adioshun.gitbooks.io/paper-3d-object-detection-and-tracking/content/), [깃허브]()
 
