@@ -1,3 +1,13 @@
+## GitBook 
+
+- 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/deep_learning/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
+
+- paper_3D Object Detection and tracking  : [깃북](https://adioshun.gitbooks.io/paper-3d-object-detection-and-tracking/content/), [깃허브]()
+
+
+
+---
+
 ## 논문
 
 - Arxiv : [[Arxiv-sanity]](http://www.arxiv-sanity.com/), [[Trend]](http://trendingarxiv.smerity.com/ ), [[Web-view]](https://www.arxiv-vanity.com/), [[ArxivSanityKR]](https://www.facebook.com/ArxivSanityKR), [[fbsight_arxiv]](http://fbsight.com/c/arxiv/), [[GitXiv]](http://www.gitxiv.com/) 
