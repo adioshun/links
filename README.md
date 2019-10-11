@@ -2,7 +2,7 @@
 
 - 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/system_setup/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
 
-- 딥러닝 : [깃북](https://adioshun.gitbooks.io/deep_learning/content/), [깃허브](https://github.com/adioshun/gitBook_Deeplearning)
+- 딥러닝 : [깃북](https://adioshun.gitbook.io/deep-learning/), [깃허브](https://github.com/adioshun/gitBook_Deeplearning)
 
 - Object Tracking : [깃북](https://adioshun.gitbooks.io/object-tracking/content/), [깃허브](https://github.com/adioshun/gitBook_Object_Tracking)
 
