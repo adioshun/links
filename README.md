@@ -16,7 +16,7 @@
 
 - paper_3D Object Detection  : [깃북](https://adioshun.gitbooks.io/paper-3d-object-detection-and-tracking/content/), [깃허브](https://github.com/adioshun/gitPaper_3D_Object_Detection_and_Tracking)
 
-- Object Tracking : [깃북](https://legacy.gitbook.com/@adioshun/dashboard)
+- Object Tracking : [깃북](https://adioshun.gitbooks.io/object-tracking/content/)
 
 - paper_Object Tracking : [깃북](https://adioshun.gitbooks.io/paper_object-tracking/content/), [깃허브](https://github.com/adioshun/gitPaper_Object_Tracking)
 
