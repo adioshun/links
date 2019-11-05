@@ -25,6 +25,8 @@
 
 - ROS : [깃북](https://adioshun.gitbooks.io/ros_autoware/content/), [깃허브](https://github.com/adioshun/gitBook_ros_autoware)
 
+- Kalman Filter [깃북](https://legacy.gitbook.com/book/adioshun/kalmanfilter/details)
+
 ---
 
 ## 논문
