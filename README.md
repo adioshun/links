@@ -44,7 +44,7 @@
   
  	- [[Onlie Graph 툴]](https://www.desmos.com/calculator/auubsajefh)
 
-  - [[Latex Table 툴]](http://www.tablesgenerator.com/) , 
+  - [[Latex Table 툴]](http://www.tablesgenerator.com/) , [[Image to Latex]](https://mathpix.com)
 
 	- [FigShare](https://figshare.com) : Academic Resource storage Service 
 
