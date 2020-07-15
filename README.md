@@ -2,6 +2,9 @@
 
 - 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/system_setup/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
 
+- python : [깃허브](https://github.com/adioshun/gitBook_Python)
+
+
 - 딥러닝 : [깃북_New](https://adioshun.gitbook.io/deep-learning/), [깃북](https://legacy.gitbook.com/book/adioshun/deep_learning/content), [깃허브](https://github.com/adioshun/gitBook_Deeplearning)
 
 - PCL Tutorial : [깃북](https://adioshun.gitbooks.io/pcl-tutorial/content/), [깃허브](https://github.com/adioshun/gitBook_Tutorial_PCL)
@@ -26,6 +29,7 @@
 - ROS : [깃북](https://adioshun.gitbooks.io/ros_autoware/content/), [깃허브](https://github.com/adioshun/gitBook_ros_autoware)
 
 - Kalman Filter [깃북](https://legacy.gitbook.com/book/adioshun/kalmanfilter/details)
+
 
 ---
 
