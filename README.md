@@ -30,6 +30,12 @@
 
 - Kalman Filter [깃북](https://legacy.gitbook.com/book/adioshun/kalmanfilter/details)
 
+---
+
+## 프로그래밍 
+
+- python : [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922), [제주 코딩 베이스캠프 - 파이썬, JS 100제 (pdf)](http://paullab.co.kr/codefestival.html)
+
 
 ---
 
