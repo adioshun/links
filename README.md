@@ -1,34 +1,15 @@
 ## GitBook 
 
-- 시스템 셋업 : [깃북](https://adioshun.gitbooks.io/system_setup/content/), [깃허브](https://github.com/adioshun/gitBook_SystemSetup)
+- [시스템 셋업](https://github.com/adioshun/gitBook_SystemSetup), [python](https://github.com/adioshun/gitBook_Python), [ROS](https://github.com/adioshun/gitBook_ros_autoware)
 
-- python : [깃허브](https://github.com/adioshun/gitBook_Python)
+- [딥러닝](https://github.com/adioshun/gitBook_Deeplearning)
 
+- [PCL Tutorial](https://github.com/adioshun/gitBook_Tutorial_PCL),[PCL_번역](https://github.com/adioshun/gitBook_PCL), [PCL Snippet](https://github.com/adioshun/gitBook_PCL_Snippet)
 
-- 딥러닝 : [깃북_New](https://adioshun.gitbook.io/deep-learning/), [깃북](https://legacy.gitbook.com/book/adioshun/deep_learning/content), [깃허브](https://github.com/adioshun/gitBook_Deeplearning)
-
-- PCL Tutorial : [깃북](https://adioshun.gitbooks.io/pcl-tutorial/content/), [깃허브](https://github.com/adioshun/gitBook_Tutorial_PCL)
-  - PCL : [깃북](https://adioshun.gitbooks.io/pcl/content/), [깃허브](https://github.com/adioshun/gitBook_PCL)
-  - PCL Snippet : [깃북](https://adioshun.gitbooks.io/pcl_snippet/content/), [깃허브](https://github.com/adioshun/gitBook_PCL_Snippet)
+- [3D People Detection](https://github.com/adioshun/gitBook_3D_People_Detection),[3D Object Detection](https://github.com/adioshun/gitBook_DeepDrive), [paper_3D Object Detection](https://github.com/adioshun/gitPaper_3D_Object_Detection_and_Tracking), [Object Tracking](https://github.com/adioshun/gitBook_Object_Tracking), [paper_Object Tracking](https://github.com/adioshun/gitPaper_Object_Tracking)
 
 
 
-- 3D People Detection :[깃북](https://adioshun.gitbooks.io/3d_people_detection/content/), [깃허브](https://github.com/adioshun/gitBook_3D_People_Detection)
-
-- 3D Object Detection : [깃북](https://adioshun.gitbooks.io/deep_drive/content/), [깃허브](https://github.com/adioshun/gitBook_DeepDrive)
-
-	- paper_3D Object Detection  : [깃북](https://adioshun.gitbooks.io/paper-3d-object-detection-and-tracking/content/), [깃허브](https://github.com/adioshun/gitPaper_3D_Object_Detection_and_Tracking)
-
-- Object Tracking : [깃북](https://adioshun.gitbooks.io/object-tracking/content/), [깃허브](https://github.com/adioshun/gitBook_Object_Tracking)
-
-	- paper_Object Tracking : [깃북](https://adioshun.gitbooks.io/paper_object-tracking/content/), [깃허브](https://github.com/adioshun/gitPaper_Object_Tracking)
-
-- Python :[깃북](https://adioshun.gitbooks.io/python_snippet/content/), [깃허브](https://github.com/adioshun/gitBook_Python)
-
-
-- ROS : [깃북](https://adioshun.gitbooks.io/ros_autoware/content/), [깃허브](https://github.com/adioshun/gitBook_ros_autoware)
-
-- Kalman Filter [깃북](https://legacy.gitbook.com/book/adioshun/kalmanfilter/details)
 
 ---
 
