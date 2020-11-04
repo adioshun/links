@@ -73,7 +73,7 @@
 
 - 작문 : [[WriteFull]](https://writefullapp.com), [[grammarly]](https://www.grammarly.com), 
   
-  - etc. [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/)
+  - etc. [[Ginger]](http://www.gingersoftware.com), [[nounplus]](https://www.nounplus.net), [[hemingwayapp]](http://www.hemingwayapp.com/), [prowritingaid](https://prowritingaid.com/), [nounplus](https://www.nounplus.net/grammarcheck/kr/)
 
 - 번역 : [[Google]](https://translate.google.com/), [[Google Translator Toolkit]](https://translate.google.com/toolkit/list?hl=en#translations/active), [[MS Bing]](https://www.bing.com/translator), [[]](),  [[Naver_Papago]](https://papago.naver.com/)
   
